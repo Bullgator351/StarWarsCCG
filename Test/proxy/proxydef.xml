@@ -1,0 +1,2190 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<templates>
+    <blocks>
+<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->    
+<!-- TEXT BLOCK LOCATION, COLOR, SIZE, WORD WRAP -->
+<!-- -->
+<!-- NON-LOCATIONS (DARK) -->
+<!-- -->    
+        <block type="text" id="Dark_Card_name">
+            <location x="74" y="26" />
+            <text color="#FFFFFF" size="19" font="fonts/54251___.TTF" />
+        </block>
+        <block type="text" id="Dark_Destiny">
+            <location x="306" y="29" />
+            <text color="#FFFFFF" size="20" font="fonts/FRADM.TTF"/>
+        </block> 
+        <block type="text" id="Dark_Alien_Lore">
+            <location x="67" y="82"/>
+            <text color="#FFFFFF" size="14" font="fonts/arialn.ttf"/>
+            <wordwrap height="150" width="230" />
+        </block>
+        <block type="text" id="Dark_Alien_Power">
+            <location x="104" y="270" />
+            <text color="#FFFFFF" size="16" font="fonts/FRADM.TTF" />
+        </block>
+        <block type="text" id="Dark_Alien_Ability">
+            <location x="181" y="270" />
+            <text color="#FFFFFF" size="16" font="fonts/FRADM.TTF" />
+        </block>
+        <block type="text" id="Dark_Alien_First_Box">
+            <location x="211" y="270"/>
+            <text color="#FFFFFF" size="16" font="fonts/upcfb.ttf" />
+        </block>
+        <block type="text" id="Dark_Alien_Game_text">
+            <location x="70" y="313" />
+            <text color="#FFFFFF" size="16" font="fonts/FRADMCN.TTF"/>
+            <wordwrap height="150" width="230" />
+        </block>
+        <block type="text" id="Dark_Alien_Deploy_Cost">
+            <location x="32" y="425"/>
+            <text color="#000000" size="16" font="fonts/FRADM.TTF" />
+        </block>
+        <block type="text" id="Dark_Alien_Attrition">
+            <location x="32" y="448" />
+            <text color="#FFFFFF" size="16" font="fonts/FRADM.TTF" />
+        </block>
+        <block type="text" id="Dark_Device_Lore">
+            <location x="67" y="82"/>
+            <text color="#FFFFFF" size="14" font="fonts/arialn.ttf"/>
+            <wordwrap height="150" width="230" />
+        </block>
+        <block type="text" id="Dark_Device_Game_text">
+            <location x="60" y="313" />
+            <text color="#FFFFFF" size="16" font="fonts/FRADMCN.TTF"/>
+            <wordwrap height="150" width="250" />
+        </block>
+        <block type="text" id="Dark_Droid_Lore">
+            <location x="67" y="82"/>
+            <text color="#FFFFFF" size="14" font="fonts/arialn.ttf"/>
+            <wordwrap height="150" width="230" />
+        </block>
+        <block type="text" id="Dark_Droid_Power">
+            <location x="104" y="272" />
+            <text color="#FFFFFF" size="16" font="fonts/FRADM.TTF" />
+        </block>
+        <block type="text" id="Dark_Droid_Ability">
+            <location x="181" y="270" />
+            <text color="#FFFFFF" size="16" font="fonts/FRADM.TTF" />
+        </block>
+        <block type="text" id="Dark_Droid_First_Box">
+            <location x="140" y="271"/>
+            <text color="#FFFFFF" size="16" font="fonts/upcfb.ttf" />
+        </block>
+        <block type="text" id="Dark_Droid_Game_text">
+            <location x="70" y="313" />
+            <text color="#FFFFFF" size="16" font="fonts/FRADMCN.TTF"/>
+            <wordwrap height="150" width="230" />
+        </block>
+        <block type="text" id="Dark_Droid_Deploy_Cost">
+            <location x="33" y="425"/>
+            <text color="#000000" size="16" font="fonts/FRADM.TTF" />
+        </block>
+        <block type="text" id="Dark_Droid_Attrition">
+            <location x="33" y="451" />
+            <text color="#FFFFFF" size="16" font="fonts/FRADM.TTF" />
+        </block>
+        <block type="text" id="Dark_Effect_Lore">
+            <location x="67" y="82"/>
+            <text color="#FFFFFF" size="14" font="fonts/arialn.ttf"/>
+            <wordwrap height="150" width="230" />
+        </block>
+        <block type="text" id="Dark_Effect_Game_text">
+            <location x="60" y="313" />
+            <text color="#FFFFFF" size="16" font="fonts/FRADMCN.TTF"/>
+            <wordwrap height="150" width="250" />
+        </block>
+        <block type="text" id="Dark_Imperial_Lore">
+            <location x="67" y="82"/>
+            <text color="#FFFFFF" size="14" font="fonts/arialn.ttf"/>
+            <wordwrap height="150" width="230" />
+        </block>
+        <block type="text" id="Dark_Imperial_Power">
+            <location x="104" y="270" />
+            <text color="#FFFFFF" size="16" font="fonts/FRADM.TTF" />
+        </block>
+        <block type="text" id="Dark_Imperial_Ability">
+            <location x="181" y="270" />
+            <text color="#FFFFFF" size="16" font="fonts/FRADM.TTF" />
+        </block>
+        <block type="text" id="Dark_Imperial_First_Box">
+            <location x="212" y="270"/>
+            <text color="#FFFFFF" size="16" font="fonts/upcfb.ttf" />
+        </block>
+        <block type="text" id="Dark_Imperial_Deploy_Cost">
+            <location x="31" y="425"/>
+            <text color="#000000" size="16" font="fonts/FRADM.TTF" />
+        </block>
+        <block type="text" id="Dark_Imperial_Attrition">
+            <location x="31" y="451" />
+            <text color="#FFFFFF" size="16" font="fonts/FRADM.TTF" />
+        </block>
+        <block type="text" id="Dark_Imperial_Game_text">
+            <location x="70" y="313" />
+            <text color="#FFFFFF" size="16" font="fonts/FRADMCN.TTF"/>
+            <wordwrap height="150" width="230" />
+        </block>
+        <block type="text" id="Dark_Interrupt_Lore">
+            <location x="67" y="82"/>
+            <text color="#FFFFFF" size="14" font="fonts/arialn.ttf"/>
+            <wordwrap height="150" width="230" />
+        </block>
+        <block type="text" id="Dark_Interrupt_Game_text">
+            <location x="60" y="313" />
+            <text color="#FFFFFF" size="16" font="fonts/FRADMCN.TTF"/>
+            <wordwrap height="150" width="250" />
+        </block>
+        <block type="text" id="Dark_Starship_Lore">
+            <location x="67" y="82"/>
+            <text color="#FFFFFF" size="14" font="fonts/FRAMDCN.ttf"/>
+            <wordwrap height="150" width="230" />
+        </block>
+        <block type="text" id="Dark_Starship_Capital_First_Box">
+            <location x="65" y="245"/>
+            <text color="#FFFFFF" size="14" font="fonts/FRAMDCN.ttf"/>
+        </block>
+        <block type="text" id="Dark_Starship_Starfighter_First_Box">
+            <location x="95" y="245"/>
+            <text color="#FFFFFF" size="14" font="fonts/FRAMDCN.ttf"/>
+        </block>
+        <block type="text" id="Dark_Starship_Power">
+            <location x="100" y="276"/>
+            <text color="#FFFFFF" size="16" font="fonts/FRADM.TTF"/>
+        </block>
+        <block type="text" id="Dark_Starship_Maneuver">
+            <location x="192" y="276"/>
+            <text color="#FFFFFF" size="16" font="fonts/FRADM.TTF"/>
+        </block>
+        <block type="text" id="Dark_Starship_Armor">
+            <location x="192" y="276"/>
+            <text color="#FFFFFF" size="16" font="fonts/FRADM.TTF"/>
+        </block>
+        <block type="text" id="Dark_Starship_Hyperspeed">
+            <location x="292" y="276"/>
+            <text color="#FFFFFF" size="16" font="fonts/FRADM.TTF"/>
+        </block>
+        <block type="text" id="Dark_Starship_Game_text">
+            <location x="65" y="313" />
+            <text color="#FFFFFF" size="16" font="fonts/FRADMCN.TTF"/>
+            <wordwrap height="85" width="240" />
+        </block>
+        <block type="text" id="Dark_Starship_Deploy_Cost">
+            <location x="32" y="424"/>
+            <text color="#000000" size="16" font="fonts/FRADM.TTF" />
+        </block>
+        <block type="text" id="Dark_Starship_Attrition">
+            <location x="32" y="451"/>
+            <text color="#FFFFFF" size="16" font="fonts/FRADM.TTF" />
+        </block>
+        <block type="text" id="Dark_Vehicle_Lore">
+            <location x="64" y="79"/>
+            <text color="#FFFFFF" size="14" font="fonts/arialn.ttf"/>
+            <wordwrap height="150" width="230" />
+        </block>
+        <block type="text" id="Dark_Vehicle_Power">
+            <location x="100" y="276" />
+            <text color="#FFFFFF" size="16" font="fonts/FRADM.TTF" />
+        </block>
+        <block type="text" id="Dark_Vehicle_Maneuver">
+            <location x="192" y="276" />
+            <text color="#FFFFFF" size="16" font="fonts/FRADM.TTF" />
+        </block>
+        <block type="text" id="Dark_Vehicle_Armor">
+            <location x="192" y="276" />
+            <text color="#FFFFFF" size="16" font="fonts/FRADM.TTF" />
+        </block>
+        <block type="text" id="Dark_Vehicle_Landspeed">
+            <location x="290" y="276" />
+            <text color="#FFFFFF" size="16" font="fonts/FRADM.TTF" />
+        </block>
+        <block type="text" id="Dark_Vehicle_Game_text">
+            <location x="65" y="313" />
+            <text color="#FFFFFF" size="16" font="fonts/FRADMCN.TTF"/>
+            <wordwrap height="85" width="240" />
+        </block>
+        <block type="text" id="Dark_Vehicle_Deploy_Cost">
+            <location x="32" y="424"/>
+            <text color="#000000" size="16" font="fonts/FRADM.TTF"/>
+        </block>
+        <block type="text" id="Dark_Vehicle_Attrition">
+            <location x="32" y="451"/>
+            <text color="#FFFFFF" size="16" font="fonts/FRADM.TTF"/>
+        </block>
+        <block type="text" id="Dark_Weapon_Lore">
+            <location x="67" y="82"/>
+            <text color="#FFFFFF" size="14" font="fonts/arialn.ttf"/>
+            <wordwrap height="150" width="230" />
+        </block>
+        <block type="text" id="Dark_Weapon_Game_text">
+            <location x="60" y="313" />
+            <text color="#FFFFFF" size="16" font="fonts/FRADMCN.TTF"/>
+            <wordwrap height="150" width="250" />
+        </block>
+<!-- -->
+<!-- LOCATION - SITES (DARK) -->
+<!-- -->
+        <block type="text" id="Dark_Site_Dark_name">
+            <location x="117" y="288" />
+            <text color="#FFFFFF" size="20" font="fonts/54251___.TTF" />
+            <wordwrap height="80" width="318" />
+        </block>
+        <block type="text" id="Dark_Site_Light_name">
+            <location x="102" y="62" />
+            <text color="#000000" size="20" font="fonts/54251___.TTF" />
+            <wordwrap height="80" width="318" />
+        </block>
+        <block type="text" id="Dark_Site_Dark_text">
+            <location x="44" y="318" />
+            <text color="#FFFFFF" size="18" font="fonts/GLSNECB.TTF" />
+            <wordwrap height="80" width="420" />
+        </block>
+        <block type="text" id="Dark_Site_Light_text">
+            <location x="44" y="30" />
+            <text color="#000000" size="18" font="fonts/GLSNECB.TTF" />
+            <wordwrap height="80" width="420" />
+        </block>
+<!-- -->
+<!-- LOCATION - SYSTEMS (DARK) -->
+<!-- -->
+        <block type="text" id="Dark_System_Dark_name">
+            <location x="120" y="423" />
+            <text color="#FFFFFF" size="18" font="fonts/54251___.TTF" />
+        </block>
+        <block type="text" id="Dark_System_Light_name">
+            <location x="106" y="79" />
+            <text color="#000000" size="18" font="fonts/54251___.TTF" />
+        </block>
+        <block type="text" id="Dark_System_Dark_text">
+            <location x="52" y="450" />
+            <text color="#FFFFFF" size="16" font="fonts/TCCM____.TTF" />
+            <wordwrap height="40" width="280" />
+        </block>
+        <block type="text" id="Dark_System_Light_text">
+            <location x="50" y="33" />
+            <text color="#000000" size="16" font="fonts/TCCM____.TTF" />
+            <wordwrap height="40" width="280" />
+        </block>
+        <block type="text" id="Dark_System_Dark_parsec">
+            <location x="313" y="422" />
+            <text color="#FFFFFF" size="18" font="fonts/FRADM.TTF" />
+        </block>
+        <block type="text" id="Dark_System_Light_parsec">
+            <location x="50" y="78" />
+            <text color="#FFFFFF" size="18" font="fonts/FRADM.TTF" />
+        </block>
+<!-- -->
+<!-- NON-LOCATIONS (LIGHT) -->
+<!-- -->    
+        <block type="text" id="Light_Card_name">
+            <location x="70" y="29" />
+            <text color="#000000" size="21" font="fonts/54251___.TTF" />
+        </block>
+        <block type="text" id="Light_Destiny">
+            <location x="306" y="30" />
+            <text color="#FFFFFF" size="20" font="fonts/FRADM.TTF"/>
+        </block> 
+        <block type="text" id="Light_Alien_Lore">
+            <location x="68" y="82"/>
+            <text color="#000000" size="14" font="fonts/arialn.ttf"/>
+            <wordwrap height="150" width="230" />
+        </block>
+        <block type="text" id="Light_Alien_Power">
+            <location x="103" y="270" />
+            <text color="#000000" size="16" font="fonts/FRADM.TTF" />
+        </block>
+        <block type="text" id="Light_Alien_Ability">
+            <location x="180" y="270" />
+            <text color="#000000" size="16" font="fonts/FRADM.TTF" />
+        </block>
+        <block type="text" id="Light_Alien_First_Box">
+            <location x="212" y="270"/>
+            <text color="#000000" size="16" font="fonts/upcfb.ttf" />
+        </block>
+        <block type="text" id="Light_Alien_Game_text">
+            <location x="68" y="313" />
+            <text color="#000000" size="16" font="fonts/FRADMCN.TTF"/>
+            <wordwrap height="150" width="230" />
+        </block>
+        <block type="text" id="Light_Alien_Deploy_Cost">
+            <location x="32" y="425"/>
+            <text color="#000000" size="15" font="fonts/FRADM.TTF" />
+        </block>
+        <block type="text" id="Light_Alien_Attrition">
+            <location x="32" y="448" />
+            <text color="#FFFFFF" size="15" font="fonts/FRADM.TTF" />
+        </block>
+        <block type="text" id="Light_Device_Lore">
+            <location x="67" y="82"/>
+            <text color="#000000" size="14" font="fonts/arialn.ttf"/>
+            <wordwrap height="150" width="230" />
+        </block>
+        <block type="text" id="Light_Device_Game_text">
+            <location x="60" y="313" />
+            <text color="#000000" size="16" font="fonts/FRADMCN.TTF"/>
+            <wordwrap height="150" width="250" />
+        </block>
+        <block type="text" id="Light_Droid_Lore">
+            <location x="68" y="82"/>
+            <text color="#000000" size="14" font="fonts/arialn.ttf"/>
+            <wordwrap height="150" width="230" />
+        </block>
+        <block type="text" id="Light_Droid_Power">
+            <location x="103" y="270" />
+            <text color="#000000" size="16" font="fonts/FRADM.TTF" />
+        </block>
+        <block type="text" id="Light_Droid_Ability">
+            <location x="139" y="270" />
+            <text color="#000000" size="16" font="fonts/FRADM.TTF" />
+        </block>
+        <block type="text" id="Light_Droid_First_Box">
+            <location x="150" y="270"/>
+            <text color="#000000" size="16" font="fonts/upcfb.ttf" />
+        </block>
+        <block type="text" id="Light_Droid_Game_text">
+            <location x="68" y="313" />
+            <text color="#000000" size="16" font="fonts/FRADMCN.TTF"/>
+            <wordwrap height="150" width="230" />
+        </block>
+        <block type="text" id="Light_Droid_Deploy_Cost">
+            <location x="32" y="425"/>
+            <text color="#000000" size="16" font="fonts/FRADM.TTF" />
+        </block>
+        <block type="text" id="Light_Droid_Attrition">
+            <location x="32" y="448" />
+            <text color="#FFFFFF" size="16" font="fonts/FRADM.TTF" />
+        </block>
+        <block type="text" id="Light_Effect_Lore">
+            <location x="68" y="82"/>
+            <text color="#000000" size="14" font="fonts/arialn.ttf"/>
+            <wordwrap height="150" width="230" />
+        </block>
+        <block type="text" id="Light_Effect_Game_text">
+            <location x="68" y="313"/>
+            <text color="#000000" size="14" font="fonts/arialn.ttf"/>
+            <wordwrap height="150" width="230" />
+        </block>
+        <block type="text" id="Light_Interrupt_Lore">
+            <location x="68" y="82"/>
+            <text color="#000000" size="14" font="fonts/arialn.ttf"/>
+            <wordwrap height="150" width="230" />
+        </block>
+        <block type="text" id="Light_Interrupt_Game_text">
+            <location x="68" y="313"/>
+            <text color="#000000" size="14" font="fonts/arialn.ttf"/>
+            <wordwrap height="150" width="230" />
+        </block>
+        <block type="text" id="Light_Rebel_Lore">
+            <location x="68" y="82"/>
+            <text color="#000000" size="14" font="fonts/arialn.ttf"/>
+            <wordwrap height="150" width="230" />
+        </block>
+        <block type="text" id="Light_Rebel_Power">
+            <location x="103" y="270" />
+            <text color="#000000" size="16" font="fonts/FRADM.TTF" />
+        </block>
+        <block type="text" id="Light_Rebel_Ability">
+            <location x="180" y="270" />
+            <text color="#000000" size="16" font="fonts/FRADM.TTF" />
+        </block>
+        <block type="text" id="Light_Rebel_First_Box">
+            <location x="212" y="270"/>
+            <text color="#000000" size="16" font="fonts/upcfb.ttf" />
+        </block>
+        <block type="text" id="Light_Rebel_Game_text">
+            <location x="68" y="313" />
+            <text color="#000000" size="16" font="fonts/FRADMCN.TTF"/>
+            <wordwrap height="150" width="230" />
+        </block>
+        <block type="text" id="Light_Rebel_Deploy_Cost">
+            <location x="32" y="425"/>
+            <text color="#000000" size="15" font="fonts/FRADM.TTF" />
+        </block>
+        <block type="text" id="Light_Rebel_Attrition">
+            <location x="32" y="448" />
+            <text color="#FFFFFF" size="15" font="fonts/FRADM.TTF" />
+        </block>
+        <block type="text" id="Light_Starship_Lore">
+            <location x="67" y="82"/>
+            <text color="#000000" size="14" font="fonts/arialn.ttf"/>
+            <wordwrap height="150" width="230" />
+        </block>
+        <block type="text" id="Light_Starship_Capital_First_Box">
+            <location x="123" y="245"/>
+            <text color="#000000" size="14" font="fonts/FRAMDCN.ttf"/>
+        </block>
+        <block type="text" id="Light_Starship_Starfighter_First_Box">
+            <location x="72" y="245"/>
+            <text color="#000000" size="14" font="fonts/FRAMDCN.ttf"/>
+        </block>
+        <block type="text" id="Light_Starship_Power">
+            <location x="98" y="275" />
+            <text color="#000000" size="16" font="fonts/FRADM.TTF" />
+        </block>
+        <block type="text" id="Light_Starship_Maneuver">
+            <location x="191" y="275" />
+            <text color="#000000" size="16" font="fonts/FRADM.TTF" />
+        </block>
+        <block type="text" id="Light_Starship_Armor">
+            <location x="189" y="275" />
+            <text color="#000000" size="16" font="fonts/FRADM.TTF" />
+        </block>
+        <block type="text" id="Light_Starship_Hyperspeed">
+            <location x="292" y="276" />
+            <text color="#000000" size="16" font="fonts/FRADM.TTF" />
+        </block>
+        <block type="text" id="Light_Starship_Game_text">
+            <location x="65" y="313" />
+            <text color="#000000" size="16" font="fonts/FRADMCN.TTF"/>
+            <wordwrap height="85" width="240" />
+        </block>
+        <block type="text" id="Light_Starship_Deploy_Cost">
+            <location x="32" y="424"/>
+            <text color="#000000" size="16" font="fonts/FRADM.TTF"/>
+        </block>
+        <block type="text" id="Light_Starship_Attrition">
+            <location x="32" y="451"/>
+            <text color="#FFFFFF" size="16" font="fonts/FRADM.TTF"/>
+        </block> 
+        <block type="text" id="Light_Vehicle_Lore">
+            <location x="64" y="79"/>
+            <text color="#000000" size="14" font="fonts/arialn.ttf"/>
+            <wordwrap height="150" width="230" />
+        </block>
+        <block type="text" id="Light_Vehicle_Power">
+            <location x="98" y="275" />
+            <text color="#000000" size="16" font="fonts/FRADM.TTF" />
+        </block>
+        <block type="text" id="Light_Vehicle_Maneuver">
+            <location x="191" y="275" />
+            <text color="#000000" size="16" font="fonts/FRADM.TTF" />
+        </block>
+        <block type="text" id="Light_Vehicle_Armor">
+            <location x="191" y="275" />
+            <text color="#000000" size="16" font="fonts/FRADM.TTF" />
+        </block>
+        <block type="text" id="Light_Vehicle_Landspeed">
+            <location x="290" y="275" />
+            <text color="#000000" size="16" font="fonts/FRADM.TTF" />
+        </block>
+        <block type="text" id="Light_Vehicle_Game_text">
+            <location x="65" y="313" />
+            <text color="#000000" size="16" font="fonts/FRADMCN.TTF"/>
+            <wordwrap height="85" width="240" />
+        </block>
+        <block type="text" id="Light_Vehicle_Deploy_Cost">
+            <location x="32" y="424"/>
+            <text color="#000000" size="16" font="fonts/FRADM.TTF"/>
+        </block>
+        <block type="text" id="Light_Vehicle_Attrition">
+            <location x="32" y="451"/>
+            <text color="#FFFFFF" size="16" font="fonts/FRADM.TTF"/>
+        </block>
+        <block type="text" id="Light_Weapon_Lore">
+            <location x="67" y="82"/>
+            <text color="#000000" size="14" font="fonts/arialn.ttf"/>
+            <wordwrap height="150" width="230" />
+        </block>
+        <block type="text" id="Light_Weapon_Game_text">
+            <location x="60" y="313" />
+            <text color="#000000" size="16" font="fonts/FRADMCN.TTF"/>
+            <wordwrap height="150" width="250" />
+        </block>
+  
+<!-- -->
+<!-- LOCATION - SITES (LIGHT) -->
+<!-- -->
+        <block type="text" id="Light_Site_Light_name">
+            <location x="117" y="284" />
+            <text color="#000000" size="20" font="fonts/54251___.TTF" />
+            <wordwrap height="80" width="318" />
+        </block>
+        <block type="text" id="Light_Site_Dark_name">
+            <location x="110" y="58" />
+            <text color="#FFFFFF" size="20" font="fonts/54251___.TTF" />
+            <wordwrap height="80" width="318" />
+        </block>
+        <block type="text" id="Light_Site_Light_text">
+            <location x="46" y="316" />
+            <text color="#000000" size="18" font="fonts/GLSNECB.TTF" />
+            <wordwrap height="80" width="420" />
+        </block>
+        <block type="text" id="Light_Site_Dark_text">
+            <location x="46" y="29" />
+            <text color="#FFFFFF" size="18" font="fonts/GLSNECB.TTF" />
+            <wordwrap height="80" width="420" />
+        </block>        
+<!-- -->
+<!-- LOCATION - SYSTEMS (LIGHT) -->
+<!-- -->
+        <block type="text" id="Light_System_Light_name">
+            <location x="112" y="417" />
+            <text color="#000000" size="18" font="fonts/54251___.TTF" />
+        </block>
+        <block type="text" id="Light_System_Dark_name">
+            <location x="98" y="75" />
+            <text color="#FFFFFF" size="18" font="fonts/54251___.TTF" />
+        </block>
+        <block type="text" id="Light_System_Light_text">
+            <location x="52" y="450" />
+            <text color="#000000" size="16" font="fonts/TCCM____.TTF" />
+            <wordwrap height="40" width="280" />
+        </block>
+        <block type="text" id="Light_System_Dark_text">
+            <location x="50" y="33" />
+            <text color="#FFFFFF" size="16" font="fonts/TCCM____.TTF" />
+            <wordwrap height="40" width="280" />
+        </block>
+        <block type="text" id="Light_System_Light_parsec">
+            <location x="300" y="418"/>
+            <text color="#FFFFFF" size="18" font="fonts/FRADM.TTF"/>
+        </block>
+        <block type="text" id="Light_System_Dark_parsec">
+            <location x="37" y="75"/>
+            <text color="#FFFFFF" size="18" font="fonts/FRADM.TTF"/>
+        </block>
+<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->    
+<!-- OVERLAY BLOCKS (ICONS) -->
+<!-- -->
+<!-- DARK NON-LOCATION ICONS -->
+<!-- -->
+        <block type="overlay" id="Dark_Pilot" src="proxy/PilotDark.png">
+            <location x="313" y="309"/>
+        </block>
+        <block type="overlay" id="Dark_Warrior" src="proxy/Warrior.png">
+            <location x="313" y="333"/>
+        </block>
+        <block type="overlay" id="Dark_Nav_Computer" src="proxy/NavComputer.png">
+            <location x="313" y="333"/>
+        </block>
+        <block type="overlay" id="Dark_Ship_Scomp_Link" src="proxy/Scomp-Link.png">
+            <location x="29" y="309"/>
+        </block>
+<!-- -->
+<!-- DARK LOCATIONS -->
+<!-- -->
+<!-- DARK SITE ICONS-->
+<!-- -->
+        <block type="overlay" id="Dark_Site_Dark_Force1" src="proxy/Force-Dark.png">
+            <location x="38" y="289" />
+        </block>
+        <block type="overlay" id="Dark_Site_Dark_Force2" src="proxy/Force-Dark2.png">
+            <location x="38" y="289" />
+        </block>
+        <block type="overlay" id="Dark_Site_Dark_Force3" src="proxy/Force-Dark3.png">
+            <location x="38" y="289" />
+        </block>
+        <block type="overlay" id="Dark_Site_Light_Force1" src="proxy/Force-Light.png">
+            <location x="406" y="62" />
+        </block>
+        <block type="overlay" id="Dark_Site_Light_Force2" src="proxy/Force-Light2.png">
+            <location x="406" y="62" />
+        </block>
+        <block type="overlay" id="Dark_Site_Light_Force3" src="proxy/Force-Light3.png">
+            <location x="406" y="62" />
+        </block>
+        <block type="overlay" id="Dark-Site-Scomp-Link1" src="proxy/Scomp-Link.png">
+            <location x="471" y="289" />
+        </block>
+        <block type="overlay" id="Dark-Site-Planet1" src="proxy/Planet.png">
+            <location x="449" y="289" />
+        </block>
+        <block type="overlay" id="Dark-Site-Mobile1" src="proxy/Mobile.png">
+            <location x="449" y="289" />
+        </block>
+        <block type="overlay" id="Dark-Site-Exterior1" src="proxy/Exterior.png">
+            <location x="427" y="289" />
+        </block>
+        <block type="overlay" id="Dark-Site-Interior1" src="proxy/Interior.png">
+            <location x="405" y="289" />
+        </block>
+        <block type="overlay" id="Dark-Site-Scomp-Link2" src="proxy/Scomp-Link.png">
+            <location x="13" y="57" />
+        </block>
+        <block type="overlay" id="Dark-Site-Planet2" src="proxy/Planet.png">
+            <location x="35" y="57" />
+        </block>
+        <block type="overlay" id="Dark-Site-Mobile2" src="proxy/Mobile.png">
+            <location x="35" y="57" />
+        </block>
+        <block type="overlay" id="Dark-Site-Exterior2" src="proxy/Exterior.png">
+            <location x="57" y="57" />
+        </block>
+        <block type="overlay" id="Dark-Site-Interior2" src="proxy/Interior.png">
+            <location x="79" y="57" />
+        </block>
+<!-- -->
+<!-- DARK SYSTEM ICONS -->
+<!-- -->
+        <block type="overlay" id="Dark_System_Dark_Force1" src="proxy/Force-Dark.png">
+            <location x="47" y="422" />
+        </block>
+        <block type="overlay" id="Dark_System_Dark_Force2" src="proxy/Force-Dark2.png">
+            <location x="47" y="422" />
+        </block>
+        <block type="overlay" id="Dark_System_Dark_Force3" src="proxy/Force-Dark3.png">
+            <location x="47" y="422" />
+        </block>
+        <block type="overlay" id="Dark_System_Light_Force1" src="proxy/Force-Light.png">
+            <location x="268" y="77" />
+        </block>
+        <block type="overlay" id="Dark_System_Light_Force2" src="proxy/Force-Light2.png">
+            <location x="268" y="77" />
+        </block>
+        <block type="overlay" id="Dark_System_Light_Force3" src="proxy/Force-Light3.png">
+            <location x="268" y="77" />
+        </block>
+<!-- -->
+<!-- LIGHT NON-LOCATION ICONS -->
+<!-- -->
+        <block type="overlay" id="Light_Pilot" src="proxy/PilotLight.png">
+            <location x="314" y="312"/>
+        </block>
+        <block type="overlay" id="Light_Warrior" src="proxy/Warrior.png">
+            <location x="314" y="341"/>
+        </block>
+        <block type="overlay" id="Light_Nav_Computer" src="proxy/NavComputer.png">
+            <location x="314" y="341"/>
+        </block>
+        <block type="overlay" id="Light_Ship_Scomp_Link" src="proxy/Scomp-Link.png">
+            <location x="30" y="312"/>
+        </block>
+<!-- -->
+<!-- LIGHT LOCATIONS -->
+<!-- -->
+<!-- LIGHT SITE ICONS -->
+<!-- -->
+        <block type="overlay" id="Light_Site_Light_Force1" src="proxy/Force-Light.png">
+            <location x="45" y="284" />
+        </block>
+        <block type="overlay" id="Light_Site_Light_Force2" src="proxy/Force-Light2.png">
+            <location x="45" y="284" />
+        </block>
+        <block type="overlay" id="Light_Site_Light_Force3" src="proxy/Force-Light3.png">
+            <location x="45" y="284" />
+        </block>
+        <block type="overlay" id="Light_Site_Dark_Force1" src="proxy/Force-Dark.png">
+            <location x="412" y="57" />
+        </block>
+        <block type="overlay" id="Light_Site_Dark_Force2" src="proxy/Force-Dark2.png">
+            <location x="412" y="57" />
+        </block>
+        <block type="overlay" id="Light_Site_Dark_Force3" src="proxy/Force-Dark3.png">
+            <location x="412" y="57" />
+        </block>
+        <block type="overlay" id="Light-Site-Scomp-Link1" src="proxy/Scomp-Link.png">
+            <location x="480" y="284" />
+        </block>
+        <block type="overlay" id="Light-Site-Planet1" src="proxy/Planet.png">
+            <location x="458" y="284" />
+        </block>
+        <block type="overlay" id="Light-Site-Mobile1" src="proxy/Mobile.png">
+            <location x="458" y="284" />
+        </block>
+        <block type="overlay" id="Light-Site-Exterior1" src="proxy/Exterior.png">
+            <location x="436" y="284" />
+        </block>
+        <block type="overlay" id="Light-Site-Interior1" src="proxy/Interior.png">
+            <location x="414" y="284" />
+        </block>
+        <block type="overlay" id="Light-Site-Scomp-Link2" src="proxy/Scomp-Link.png">
+            <location x="21" y="57" />
+        </block>
+        <block type="overlay" id="Light-Site-Planet2" src="proxy/Planet.png">
+            <location x="43" y="57" />
+        </block>        
+        <block type="overlay" id="Light-Site-Mobile2" src="proxy/Mobile.png">
+            <location x="43" y="57" />
+        </block>
+        <block type="overlay" id="Light-Site-Exterior2" src="proxy/Exterior.png">
+            <location x="65" y="57" />
+        </block>
+        <block type="overlay" id="Light-Site-Interior2" src="proxy/Interior.png">
+            <location x="87" y="57" />
+        </block>        
+<!-- -->
+<!-- LIGHT SYSTEM ICONS -->
+<!-- -->
+        <block type="overlay" id="Light_System_Light_Force1" src="proxy/Force-Light.png">
+            <location x="35" y="418" />
+        </block>
+        <block type="overlay" id="Light_System_Light_Force2" src="proxy/Force-Light2.png">
+            <location x="35" y="418" />
+        </block>
+        <block type="overlay" id="Light_System_Light_Force3" src="proxy/Force-Light3.png">
+            <location x="35" y="418" />
+        </block>
+        <block type="overlay" id="Light_System_Dark_Force1" src="proxy/Force-Dark.png">
+            <location x="255" y="74" />
+        </block>
+        <block type="overlay" id="Light_System_Dark_Force2" src="proxy/Force-Dark2.png">
+            <location x="255" y="74" />
+        </block>
+        <block type="overlay" id="Light_System_Dark_Force3" src="proxy/Force-Dark3.png">
+            <location x="255" y="74" />
+        </block>
+    </blocks>
+<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+<!-- TEMPLATE DEFINITIONS (DARK) -->
+<!-- -->
+    <template src="proxy/DarkAlien.png" default="False">
+        <matches>
+            <match name="CardType" value="DarkAlien" />
+        </matches>
+        <overlayblocks>
+            <conditional>
+                <switch property="PilotDark">
+                    <case value="1">
+                        <link block="Dark_Pilot" />
+                    </case>
+                </switch>
+            </conditional>
+            <conditional>
+                <switch property="Warrior">
+                    <case value="1">
+                        <link block="Dark_Warrior" />
+                    </case>
+                </switch>
+            </conditional>
+        </overlayblocks>
+        <textblocks>
+            <link block="Dark_Card_name">
+                <property name="Name"/>
+            </link>
+            <link block="Dark_Destiny">
+                <property name="Destiny" />
+            </link>
+            <link block="Dark_Alien_Lore">
+                <property name="Lore" />
+            </link>
+            <link block="Dark_Alien_Power">
+                <property name="Power" />
+            </link>
+            <link block="Dark_Alien_Ability">
+                <property name="Ability" />
+            </link>
+            <link block="Dark_Alien_First_Box">
+                <property name="FirstBox"/>
+            </link>
+            <link block="Dark_Alien_Game_text">
+                <property name="GameText" />
+            </link>
+            <link block="Dark_Alien_Deploy_Cost" >
+                <property name="Deployment" />
+            </link>
+            <link block="Dark_Alien_Attrition">
+                <property name="Attrition" />
+            </link>
+        </textblocks>
+    </template>
+    <template src="proxy/DarkDevice.png" default="False">
+        <matches>
+            <match name="CardType" value="DarkDevice" />
+        </matches>
+        <textblocks>
+            <link block="Dark_Card_name">
+                <property name="Name"/>
+            </link>
+            <link block="Dark_Device_Lore">
+                <property name="Lore" />
+            </link>
+            <link block="Dark_Destiny">
+                <property name="Destiny" />
+            </link>
+            <link block="Dark_Device_Game_text">
+                <property name="GameText" />
+            </link>
+        </textblocks>
+    </template>
+    <template src="proxy/DarkDroid.png" default="False">
+        <matches>
+            <match name="CardType" value="DarkDroid" />
+        </matches>
+        <overlayblocks>
+            <conditional>
+                <switch property="PilotDark">
+                    <case value="1">
+                        <link block="Dark_Pilot" />
+                    </case>
+                </switch>
+            </conditional>
+            <conditional>
+                <switch property="Warrior">
+                    <case value="1">
+                        <link block="Dark_Warrior" />
+                    </case>
+                </switch>
+            </conditional>
+        </overlayblocks>
+        <textblocks>
+            <link block="Dark_Card_name">
+                <property name="Name"/>
+            </link>
+            <link block="Dark_Destiny">
+                <property name="Destiny" />
+            </link>
+            <link block="Dark_Droid_Lore">
+                <property name="Lore" />
+            </link>
+            <link block="Dark_Droid_Power">
+                <property name="Power" />
+            </link>
+            <link block="Dark_Droid_Ability">
+                <property name="Ability" />
+            </link>
+            <link block="Dark_Droid_First_Box">
+                <property name="FirstBox"/>
+            </link>
+            <link block="Dark_Droid_Game_text">
+                <property name="GameText" />
+            </link>
+            <link block="Dark_Droid_Deploy_Cost" >
+                <property name="Deployment" />
+            </link>
+            <link block="Dark_Droid_Attrition">
+                <property name="Attrition" />
+            </link>
+        </textblocks>
+    </template>
+    <template src="proxy/DarkEffect.png" default="False">
+        <matches>
+            <match name="CardType" value="DarkEffect" />
+            <match name="FirstBox" value="EFFECT" />
+        </matches>
+        <textblocks>
+            <link block="Dark_Card_name">
+                <property name="Name"/>
+            </link>
+            <link block="Dark_Destiny">
+                <property name="Destiny" />
+            </link>
+            <link block="Dark_Effect_Lore">
+                <property name="Lore" />
+            </link>
+            <link block="Dark_Effect_Game_text">
+                <property name="GameText" />
+            </link>            
+        </textblocks>
+    </template>
+    <template src="proxy/DarkEffectUtinni.png" default="False">
+        <matches>
+            <match name="CardType" value="DarkEffect"/>
+            <match name="FirstBox" value="UTINNI EFFECT"/>
+        </matches>
+        <textblocks>
+            <link block="Dark_Card_name">
+                <property name="Name"/>
+            </link>
+            <link block="Dark_Destiny">
+                <property name="Destiny" />
+            </link>
+            <link block="Dark_Effect_Lore">
+                <property name="Lore" />
+            </link>
+            <link block="Dark_Effect_Game_text">
+                <property name="GameText" />
+            </link>            
+        </textblocks>
+    </template>
+    <template src="proxy/DarkImperial.png" default="False">
+        <matches>
+            <match name="CardType" value="DarkImperial" />
+        </matches>
+        <overlayblocks>
+            <conditional>
+                <switch property="PilotDark">
+                    <case value="1">
+                        <link block="Dark_Pilot" />
+                    </case>
+                </switch>
+            </conditional>
+            <conditional>
+                <switch property="Warrior">
+                    <case value="1">
+                        <link block="Dark_Warrior" />
+                    </case>
+                </switch>
+            </conditional>
+        </overlayblocks>
+        <textblocks>
+            <link block="Dark_Card_name">
+                <property name="Name"/>
+            </link>
+            <link block="Dark_Destiny">
+                <property name="Destiny" />
+            </link>
+            <link block="Dark_Imperial_Lore">
+                <property name="Lore" />
+            </link>
+            <link block="Dark_Imperial_Power">
+                <property name="Power" />
+            </link>
+            <link block="Dark_Imperial_Ability">
+                <property name="Ability" />
+            </link>
+            <link block="Dark_Imperial_First_Box">
+                <property name="FirstBox"/>
+            </link>
+            <link block="Dark_Imperial_Game_text">
+                <property name="GameText" />
+            </link>
+            <link block="Dark_Imperial_Deploy_Cost" >
+                <property name="Deployment" />
+            </link>
+            <link block="Dark_Imperial_Attrition">
+                <property name="Attrition" />
+            </link>
+        </textblocks>
+    </template>
+    <template src="proxy/DarkInterruptLost.png" default="False">
+        <matches>
+            <match name="CardType" value="DarkInterrupt" />
+            <match name="FirstBox" value="LOST INTERRUPT" />
+        </matches>
+        <textblocks>
+            <link block="Dark_Card_name">
+                <property name="Name"/>
+            </link>
+            <link block="Dark_Destiny">
+                <property name="Destiny" />
+            </link>
+            <link block="Dark_Interrupt_Lore">
+                <property name="Lore" />
+            </link>
+            <link block="Dark_Interrupt_Game_text">
+                <property name="GameText" />
+            </link>
+        </textblocks>
+    </template>
+    <template src="proxy/DarkInterruptUsed.png" default="False">
+        <matches>
+            <match name="CardType" value="DarkInterrupt" />
+            <match name="FirstBox" value="USED INTERRUPT" />
+        </matches>
+        <textblocks>
+            <link block="Dark_Card_name">
+                <property name="Name"/>
+            </link>
+            <link block="Dark_Destiny">
+                <property name="Destiny" />
+            </link>
+            <link block="Dark_Interrupt_Lore">
+                <property name="Lore" />
+            </link>
+            <link block="Dark_Interrupt_Game_text">
+                <property name="GameText" />
+            </link>
+        </textblocks>
+    </template>
+    <template src="proxy/DarkLocationSite.png" default="False">
+        <matches>
+            <match name="CardType" value="DarkLocationSite" />
+        </matches>
+        <overlayblocks>
+            <conditional>
+                <switch property="DarkLocationForce">
+                    <case value="1">
+                        <link block="Dark_Site_Dark_Force1" />
+                    </case>
+                    <case value="2">
+                        <link block="Dark_Site_Dark_Force2" />
+                    </case>
+                    <case value="3">
+                        <link block="Dark_Site_Dark_Force3" />
+                    </case>
+                </switch>
+            </conditional>
+            <conditional>
+                <switch property="LightLocationForce">
+                    <case value="1">
+                        <link block="Dark_Site_Light_Force1" />
+                    </case>
+                    <case value="2">
+                        <link block="Dark_Site_Light_Force2" />
+                    </case>
+                    <case value="3">
+                        <link block="Dark_Site_Light_Force3" />
+                    </case>
+                </switch>
+            </conditional>
+            <conditional>
+                <switch property="ScompLink">
+                    <case value="1">
+                        <link block="Dark-Site-Scomp-Link1" />
+                        <link block="Dark-Site-Scomp-Link2" />
+                    </case>
+                </switch>
+            </conditional>
+            <conditional>
+                <switch property="IconPlanet" >
+                    <case value="1">
+                        <link block="Dark-Site-Planet1" />
+                        <link block="Dark-Site-Planet2" />
+                    </case>
+                </switch>
+            </conditional>
+            <conditional>
+                <switch property="IconMobile" >
+                    <case value="1">
+                        <link block="Dark-Site-Mobile1" />
+                        <link block="Dark-Site-Mobile2" />
+                    </case>
+                </switch>
+            </conditional>
+            <conditional>
+                <switch property="IconExterior" >
+                    <case value="1">
+                        <link block="Dark-Site-Exterior1" />
+                        <link block="Dark-Site-Exterior2" />
+                    </case>
+                </switch>
+            </conditional>   
+            <conditional>
+                <switch property="IconInterior" >
+                    <case value="1">
+                        <link block="Dark-Site-Interior1" />
+                        <link block="Dark-Site-Interior2" />
+                    </case>
+                </switch>
+            </conditional>
+        </overlayblocks>
+        <textblocks>
+            <link block="Dark_Site_Dark_name">
+                <property name="Name"/>
+            </link>
+            <link block="Dark_Site_Light_name">
+                <property name="Name"/>
+            </link>
+            <link block="Dark_Site_Dark_text">
+                <property name="DarkLocationText"/>
+            </link>
+            <link block="Dark_Site_Light_text">
+                <property name="LightLocationText"/>
+            </link>
+         </textblocks>
+    </template>
+    <template src="proxy/DarkLocationSystem.png" default="False">
+        <matches>
+            <match name="CardType" value="DarkLocationSystem" />
+        </matches>
+        <overlayblocks>
+            <conditional>
+                <switch property="DarkLocationForce">
+                    <case value="1">
+                        <link block="Dark_System_Dark_Force1" />
+                    </case>
+                    <case value="2">
+                        <link block="Dark_System_Dark_Force2" />
+                    </case>
+                    <case value="3">
+                        <link block="Dark_System_Dark_Force3" />
+                    </case>
+                </switch>
+            </conditional>
+            <conditional>
+                <switch property="LightLocationForce">
+                    <case value="1">
+                        <link block="Dark_System_Light_Force1" />
+                    </case>
+                    <case value="2">
+                        <link block="Dark_System_Light_Force2" />
+                    </case>
+                    <case value="3">
+                        <link block="Dark_System_Light_Force3" />
+                    </case>
+                </switch>
+            </conditional>
+        </overlayblocks>
+        <textblocks>
+            <link block="Dark_System_Dark_name">
+                <property name="Name"/>
+            </link>
+            <link block="Dark_System_Light_name">
+                <property name="Name"/>
+            </link>
+            <link block="Dark_System_Dark_text">
+                <property name="DarkLocationText" />
+            </link>
+            <link block="Dark_System_Light_text">
+                <property name="LightLocationText" />
+            </link>
+            <link block="Dark_System_Dark_parsec">
+                <property name="Parsec"/>
+            </link>
+            <link block="Dark_System_Light_parsec">
+                <property name="Parsec"/>
+            </link>
+        </textblocks>
+    </template>
+    <template src="proxy/DarkStarshipCapital.png" default="False">
+        <matches>
+            <match name="CardType" value="DarkStarship" />
+            <match name="Maneuver" value="" />
+        </matches>
+        <overlayblocks>
+            <conditional>
+                <switch property="PilotDark">
+                    <case value="1">
+                        <link block="Dark_Pilot" />
+                    </case>
+                </switch>
+            </conditional>
+            <conditional>
+                <switch property="NavComputer">
+                    <case value="1">
+                        <link block="Dark_Nav_Computer" />
+                    </case>
+                </switch>
+            </conditional>
+            <conditional>
+                <switch property="ScompLink">
+                    <case value="1">
+                        <link block="Dark_Ship_Scomp_Link" />
+                    </case>
+                </switch>
+            </conditional>
+        </overlayblocks>
+        <textblocks>
+            <link block="Dark_Card_name">
+                <property name="Name"/>
+            </link>
+            <link block="Dark_Destiny">
+                <property name="Destiny" />
+            </link>
+            <link block="Dark_Starship_Lore">
+                <property name="Lore" />
+            </link>
+            <link block="Dark_Starship_Capital_First_Box">
+                <property name="FirstBox"/>
+            </link>
+            <link block="Dark_Starship_Power">
+                <property name="Power" />
+            </link>
+            <link block="Dark_Starship_Armor">
+                <property name="Armor" />
+            </link>
+            <link block="Dark_Starship_Hyperspeed">
+                <property name="LandspeedHyperspeed"/>
+            </link>
+            <link block="Dark_Starship_Game_text">
+                <property name="GameText" />
+            </link>
+            <link block="Dark_Starship_Deploy_Cost">
+                <property name="Deployment"/>
+            </link>
+            <link block="Dark_Starship_Attrition">
+                <property name="Attrition"/>
+            </link>
+        </textblocks>
+    </template>
+    <template src="proxy/DarkStarshipHyp.png" default="False">
+        <matches>
+            <match name="CardType" value="DarkStarship" />
+            <match name="Armor" value="" />
+            <match name="SecondBox" value="" />
+        </matches>
+        <overlayblocks>
+            <conditional>
+                <switch property="PilotDark">
+                    <case value="1">
+                        <link block="Dark_Pilot" />
+                    </case>
+                </switch>
+            </conditional>
+            <conditional>
+                <switch property="NavComputer">
+                    <case value="1">
+                        <link block="Dark_Nav_Computer" />
+                    </case>
+                </switch>
+            </conditional>
+            <conditional>
+                <switch property="ScompLink">
+                    <case value="1">
+                        <link block="Dark_Ship_Scomp_Link" />
+                    </case>
+                </switch>
+            </conditional>
+        </overlayblocks>
+        <textblocks>
+            <link block="Dark_Card_name">
+                <property name="Name"/>
+            </link>
+            <link block="Dark_Destiny">
+                <property name="Destiny" />
+            </link>
+            <link block="Dark_Starship_Lore">
+                <property name="Lore" />
+            </link>
+             <link block="Dark_Starship_Starfighter_First_Box">
+                <property name="FirstBox"/>
+            </link>
+            <link block="Dark_Starship_Power">
+                <property name="Power" />
+            </link>
+            <link block="Dark_Starship_Maneuver">
+                <property name="Maneuver" />
+            </link>
+            <link block="Dark_Starship_Hyperspeed">
+                <property name="LandspeedHyperspeed"/>
+            </link>
+            <link block="Dark_Starship_Game_text">
+                <property name="GameText" />
+            </link>
+            <link block="Dark_Starship_Deploy_Cost">
+                <property name="Deployment"/>
+            </link>
+            <link block="Dark_Starship_Attrition">
+                <property name="Attrition"/>
+            </link>
+        </textblocks>
+    </template>
+    <template src="proxy/DarkStarshipNoHyp.png" default="False">
+        <matches>
+            <match name="CardType" value="DarkStarship" />
+            <match name="SecondBox" value="NO HYPERDRIVE" />
+        </matches>
+        <overlayblocks>
+            <conditional>
+                <switch property="PilotDark">
+                    <case value="1">
+                        <link block="Dark_Pilot" />
+                    </case>
+                </switch>
+            </conditional>
+            <conditional>
+                <switch property="NavComputer">
+                    <case value="1">
+                        <link block="Dark_Nav_Computer" />
+                    </case>
+                </switch>
+            </conditional>
+            <conditional>
+                <switch property="ScompLink">
+                    <case value="1">
+                        <link block="Dark_Ship_Scomp_Link" />
+                    </case>
+                </switch>
+            </conditional>
+        </overlayblocks>
+        <textblocks>
+            <link block="Dark_Card_name">
+                <property name="Name"/>
+            </link>
+            <link block="Dark_Destiny">
+                <property name="Destiny" />
+            </link>
+            <link block="Dark_Starship_Lore">
+                <property name="Lore" />
+            </link>
+            <link block="Dark_Starship_Starfighter_First_Box">
+                <property name="FirstBox"/>
+            </link>
+            <link block="Dark_Starship_Power">
+                <property name="Power" />
+            </link>
+            <link block="Dark_Starship_Maneuver">
+                <property name="Maneuver" />
+            </link>
+            <link block="Dark_Starship_Hyperspeed">
+                <property name="LandspeedHyperspeed"/>
+            </link>
+            <link block="Dark_Starship_Game_text">
+                <property name="GameText" />
+            </link>
+            <link block="Dark_Starship_Deploy_Cost">
+                <property name="Deployment"/>
+            </link>
+            <link block="Dark_Starship_Attrition">
+                <property name="Attrition"/>
+            </link>
+        </textblocks>
+    </template>
+    <template src="proxy/DarkVehicleCreature.png" default="False">
+        <matches>
+            <match name="CardType" value="DarkVehicle" />
+            <match name="FirstBox" value="CREATURE VEHICLE" />
+        </matches>
+        <textblocks>
+            <link block="Dark_Card_name">
+                <property name="Name"/>
+            </link>
+            <link block="Dark_Destiny">
+                <property name="Destiny" />
+            </link>
+            <link block="Dark_Vehicle_Lore">
+                <property name="Lore" />
+            </link>
+            <link block="Dark_Vehicle_Power">
+                <property name="Power" />
+            </link>
+            <link block="Dark_Vehicle_Maneuver">
+                <property name="Maneuver" />
+            </link>
+            <link block="Dark_Vehicle_Landspeed">
+                <property name="LandspeedHyperspeed"/>
+            </link>
+            <link block="Dark_Vehicle_Game_text">
+                <property name="GameText" />
+            </link>
+            <link block="Dark_Vehicle_Deploy_Cost">
+                <property name="Deployment"/>
+            </link>
+            <link block="Dark_Vehicle_Attrition">
+                <property name="Attrition"/>
+            </link>
+        </textblocks>
+    </template>
+    <template src="proxy/DarkVehicleTransportArmor.png" default="False">
+        <matches>
+            <match name="CardType" value="DarkVehicle" />
+            <match name="FirstBox" value="TRANSPORT VEHICLE" />
+            <match name="Maneuver" value=""/>
+        </matches>
+        <textblocks>
+            <link block="Dark_Card_name">
+                <property name="Name"/>
+            </link>
+            <link block="Dark_Destiny">
+                <property name="Destiny" />
+            </link>
+            <link block="Dark_Vehicle_Lore">
+                <property name="Lore" />
+            </link>
+            <link block="Dark_Vehicle_Power">
+                <property name="Power" />
+            </link>
+            <link block="Dark_Vehicle_Armor">
+                <property name="Armor" />
+            </link>
+            <link block="Dark_Vehicle_Landspeed">
+                <property name="LandspeedHyperspeed"/>
+            </link>
+            <link block="Dark_Vehicle_Game_text">
+                <property name="GameText" />
+            </link>
+            <link block="Dark_Vehicle_Deploy_Cost">
+                <property name="Deployment"/>
+            </link>
+            <link block="Dark_Vehicle_Attrition">
+                <property name="Attrition"/>
+            </link>
+        </textblocks>
+    </template>
+    <template src="proxy/DarkVehicleTransportManeuver.png" default="False">
+        <matches>
+            <match name="CardType" value="DarkVehicle" />
+            <match name="FirstBox" value="TRANSPORT VEHICLE" />
+            <match name="Armor" value=""/>
+        </matches>
+        <textblocks>
+            <link block="Dark_Card_name">
+                <property name="Name"/>
+            </link>
+            <link block="Dark_Destiny">
+                <property name="Destiny" />
+            </link>
+            <link block="Dark_Vehicle_Lore">
+                <property name="Lore" />
+            </link>
+            <link block="Dark_Vehicle_Power">
+                <property name="Power" />
+            </link>
+            <link block="Dark_Vehicle_Maneuver">
+                <property name="Maneuver" />
+            </link>
+            <link block="Dark_Vehicle_Landspeed">
+                <property name="LandspeedHyperspeed"/>
+            </link>
+            <link block="Dark_Vehicle_Game_text">
+                <property name="GameText" />
+            </link>
+            <link block="Dark_Vehicle_Deploy_Cost">
+                <property name="Deployment"/>
+            </link>
+            <link block="Dark_Vehicle_Attrition">
+                <property name="Attrition"/>
+            </link>
+        </textblocks>
+    </template>
+    <template src="proxy/DarkWeaponAutomated.png" default="False">
+        <matches>
+            <match name="CardType" value="DarkWeapon" />
+            <match name="FirstBox" value="AUTOMATED WEAPON" />
+        </matches>
+        <textblocks>
+            <link block="Dark_Card_name">
+                <property name="Name"/>
+            </link>
+            <link block="Dark_Destiny">
+                <property name="Destiny" />
+            </link>
+            <link block="Dark_Weapon_Lore">
+                <property name="Lore" />
+            </link>
+            <link block="Dark_Weapon_Game_text">
+                <property name="GameText" />
+            </link>
+        </textblocks>
+    </template>
+    <template src="proxy/DarkWeaponCharacter.png" default="False">
+        <matches>
+            <match name="CardType" value="DarkWeapon" />
+            <match name="FirstBox" value="CHARACTER WEAPON" />
+        </matches>
+        <textblocks>
+            <link block="Dark_Card_name">
+                <property name="Name"/>
+            </link>
+            <link block="Dark_Destiny">
+                <property name="Destiny" />
+            </link>
+            <link block="Dark_Weapon_Lore">
+                <property name="Lore" />
+            </link>
+            <link block="Dark_Weapon_Game_text">
+                <property name="GameText" />
+            </link>
+        </textblocks>
+    </template>
+    <template src="proxy/DarkWeaponStarship.png" default="False">
+        <matches>
+            <match name="CardType" value="DarkWeapon" />
+            <match name="FirstBox" value="STARSHIP WEAPON" />
+        </matches>
+        <textblocks>
+            <link block="Dark_Card_name">
+                <property name="Name"/>
+            </link>
+            <link block="Dark_Destiny">
+                <property name="Destiny" />
+            </link>
+            <link block="Dark_Weapon_Lore">
+                <property name="Lore" />
+            </link>
+            <link block="Dark_Weapon_Game_text">
+                <property name="GameText" />
+            </link>
+        </textblocks>
+    </template>
+<!-- -->
+<!-- TEMPLATE DEFINITIONS (LIGHT) -->
+<!-- -->
+    <template src="proxy/LightAlien.png" default="False">
+        <matches>
+            <match name="CardType" value="LightAlien" />
+        </matches>
+        <overlayblocks>
+            <conditional>
+                <switch property="PilotLight">
+                    <case value="1">
+                        <link block="Light_Pilot" />
+                    </case>
+                </switch>
+            </conditional>
+            <conditional>
+                <switch property="Warrior">
+                    <case value="1">
+                        <link block="Light_Warrior" />
+                    </case>
+                </switch>
+            </conditional>
+        </overlayblocks>
+        <textblocks>
+            <link block="Light_Card_name">
+                <property name="Name"/>
+            </link>
+            <link block="Light_Destiny">
+                <property name="Destiny" />
+            </link>
+            <link block="Light_Alien_Lore">
+                <property name="Lore" />
+            </link>
+            <link block="Light_Alien_Power">
+                <property name="Power" />
+            </link>
+            <link block="Light_Alien_Ability">
+                <property name="Ability" />
+            </link>
+            <link block="Light_Alien_First_Box">
+                <property name="FirstBox"/>
+            </link>
+            <link block="Light_Alien_Game_text">
+                <property name="GameText" />
+            </link>
+            <link block="Light_Alien_Deploy_Cost" >
+                <property name="Deployment" />
+            </link>
+            <link block="Light_Alien_Attrition">
+                <property name="Attrition" />
+            </link>
+        </textblocks>
+    </template>
+    <template src="proxy/LightDevice.png" default="False">
+        <matches>
+            <match name="CardType" value="LightDevice" />
+        </matches>
+        <textblocks>
+            <link block="Light_Card_name">
+                <property name="Name"/>
+            </link>
+            <link block="Light_Device_Lore">
+                <property name="Lore" />
+            </link>
+            <link block="Light_Destiny">
+                <property name="Destiny" />
+            </link>
+            <link block="Light_Device_Game_text">
+                <property name="GameText" />
+            </link>
+        </textblocks>
+    </template>
+    <template src="proxy/LightDroid.png" default="False">
+        <matches>
+            <match name="CardType" value="LightDroid" />
+        </matches>
+        <overlayblocks>
+            <conditional>
+                <switch property="PilotLight">
+                    <case value="1">
+                        <link block="Light_Pilot" />
+                    </case>
+                </switch>
+            </conditional>
+            <conditional>
+                <switch property="Warrior">
+                    <case value="1">
+                        <link block="Light_Warrior" />
+                    </case>
+                </switch>
+            </conditional>
+        </overlayblocks>
+        <textblocks>
+            <link block="Light_Card_name">
+                <property name="Name"/>
+            </link>
+            <link block="Light_Destiny">
+                <property name="Destiny" />
+            </link>
+            <link block="Light_Droid_Lore">
+                <property name="Lore" />
+            </link>
+            <link block="Light_Droid_Power">
+                <property name="Power" />
+            </link>
+            <link block="Light_Droid_Ability">
+                <property name="Ability" />
+            </link>
+            <link block="Light_Droid_First_Box">
+                <property name="FirstBox"/>
+            </link>
+            <link block="Light_Droid_Game_text">
+                <property name="GameText" />
+            </link>
+            <link block="Light_Droid_Deploy_Cost" >
+                <property name="Deployment" />
+            </link>
+            <link block="Light_Droid_Attrition">
+                <property name="Attrition" />
+            </link>
+        </textblocks>
+    </template>
+    <template src="proxy/LightEffect.png" default="False">
+        <matches>
+            <match name="CardType" value="LightEffect" />
+            <match name="FirstBox" value="EFFECT" />
+        </matches>
+        <textblocks>
+            <link block="Light_Card_name">
+                <property name="Name"/>
+            </link>
+            <link block="Light_Destiny">
+                <property name="Destiny" />
+            </link>
+            <link block="Light_Effect_Lore">
+                <property name="Lore"/>
+            </link>
+            <link block="Light_Effect_Game_text">
+                <property name="GameText"/>
+            </link>
+        </textblocks>
+    </template>
+    <template src="proxy/LightEffectUtinni.png" default="False">
+        <matches>
+            <match name="CardType" value="LightEffect" />
+            <match name="FirstBox" value="UTINNI EFFECT" />
+        </matches>
+        <textblocks>
+            <link block="Light_Card_name">
+                <property name="Name"/>
+            </link>
+            <link block="Light_Destiny">
+                <property name="Destiny" />
+            </link>
+            <link block="Light_Effect_Lore">
+                <property name="Lore"/>
+            </link>
+            <link block="Light_Effect_Game_text">
+                <property name="GameText"/>
+            </link>
+        </textblocks>
+    </template>
+    <template src="proxy/LightInterruptLost.png" default="False">
+        <matches>
+            <match name="CardType" value="LightInterrupt" />
+            <match name="FirstBox" value="LOST INTERRUPT" />
+        </matches>
+        <textblocks>
+            <link block="Light_Card_name">
+                <property name="Name"/>
+            </link>
+            <link block="Light_Destiny">
+                <property name="Destiny" />
+            </link>
+            <link block="Light_Interrupt_Lore">
+                <property name="Lore"/>
+            </link>
+            <link block="Light_Interrupt_Game_text">
+                <property name="GameText"/>
+            </link>
+        </textblocks>
+    </template>
+    <template src="proxy/LightInterruptUsed.png" default="False">
+        <matches>
+            <match name="CardType" value="LightInterrupt" />
+            <match name="FirstBox" value="USED INTERRUPT" />
+        </matches>
+        <textblocks>
+            <link block="Light_Card_name">
+                <property name="Name"/>
+            </link>
+            <link block="Light_Destiny">
+                <property name="Destiny" />
+            </link>
+            <link block="Light_Interrupt_Lore">
+                <property name="Lore"/>
+            </link>
+            <link block="Light_Interrupt_Game_text">
+                <property name="GameText"/>
+            </link>
+        </textblocks>
+    </template>
+    <template src="proxy/LightLocationSite.png" default="False">
+        <matches>
+            <match name="CardType" value="LightLocationSite" />
+        </matches>
+        <overlayblocks>
+            <conditional>
+                <switch property="DarkLocationForce">
+                    <case value="1">
+                        <link block="Light_Site_Dark_Force1" />
+                    </case>
+                    <case value="2">
+                        <link block="Light_Site_Dark_Force2" />
+                    </case>
+                    <case value="3">
+                        <link block="Light_Site_Dark_Force3" />
+                    </case>
+                </switch>
+            </conditional>
+            <conditional>
+                <switch property="LightLocationForce">
+                    <case value="1">
+                        <link block="Light_Site_Light_Force1" />
+                    </case>
+                    <case value="2">
+                        <link block="Light_Site_Light_Force2" />
+                    </case>
+                    <case value="3">
+                        <link block="Light_Site_Light_Force3" />
+                    </case>
+                </switch>
+            </conditional>
+            <conditional>
+                <switch property="ScompLink">
+                    <case value="1">
+                        <link block="Light-Site-Scomp-Link1" />
+                        <link block="Light-Site-Scomp-Link2" />
+                    </case>
+                </switch>
+            </conditional>
+            <conditional>
+                <switch property="IconPlanet" >
+                    <case value="1">
+                        <link block="Light-Site-Planet1" />
+                        <link block="Light-Site-Planet2" />
+                    </case>
+                </switch>
+            </conditional>
+            <conditional>
+                <switch property="IconMobile" >
+                    <case value="1">
+                        <link block="Light-Site-Mobile1" />
+                        <link block="Light-Site-Mobile2" />
+                    </case>
+                </switch>
+            </conditional>
+            <conditional>
+                <switch property="IconExterior" >
+                    <case value="1">
+                        <link block="Light-Site-Exterior1" />
+                        <link block="Light-Site-Exterior2" />
+                    </case>
+                </switch>
+            </conditional>   
+            <conditional>
+                <switch property="IconInterior" >
+                    <case value="1">
+                        <link block="Light-Site-Interior1" />
+                        <link block="Light-Site-Interior2" />
+                    </case>
+                </switch>
+            </conditional>
+        </overlayblocks>
+        <textblocks>
+            <link block="Light_Site_Dark_name">
+                <property name="Name"/>
+            </link>
+            <link block="Light_Site_Light_name">
+                <property name="Name"/>
+            </link>
+            <link block="Light_Site_Dark_text">
+                <property name="DarkLocationText"/>
+            </link>
+            <link block="Light_Site_Light_text">
+                <property name="LightLocationText"/>
+            </link>
+        </textblocks>
+    </template>
+    <template src="proxy/LightLocationSystem.png" default="False">
+        <matches>
+            <match name="CardType" value="LightLocationSystem" />
+        </matches>
+        <overlayblocks>
+            <conditional>
+                <switch property="DarkLocationForce">
+                    <case value="1">
+                        <link block="Light_System_Dark_Force1" />
+                    </case>
+                    <case value="2">
+                        <link block="Light_System_Dark_Force2" />
+                    </case>
+                    <case value="3">
+                        <link block="Light_System_Dark_Force3" />
+                    </case>
+                </switch>
+            </conditional>
+            <conditional>
+                <switch property="LightLocationForce">
+                    <case value="1">
+                        <link block="Light_System_Light_Force1" />
+                    </case>
+                    <case value="2">
+                        <link block="Light_System_Light_Force2" />
+                    </case>
+                    <case value="3">
+                        <link block="Light_System_Light_Force3" />
+                    </case>
+                </switch>
+            </conditional>
+        </overlayblocks>
+        <textblocks>
+            <link block="Light_System_Light_name">
+                <property name="Name"/>
+            </link>
+            <link block="Light_System_Dark_name">
+                <property name="Name"/>
+            </link>
+            <link block="Light_System_Light_text">
+                <property name="LightLocationText"/>
+            </link>
+            <link block="Light_System_Dark_text">
+                <property name="DarkLocationText"/>
+            </link>
+            <link block="Light_System_Light_parsec">
+                <property name="Parsec"/>
+            </link>
+            <link block="Light_System_Dark_parsec">
+                <property name="Parsec"/>
+            </link>
+        </textblocks>
+    </template>
+    <template src="proxy/LightRebel.png" default="False">
+        <matches>
+            <match name="CardType" value="LightRebel" />
+        </matches>
+        <overlayblocks>
+            <conditional>
+                <switch property="PilotLight">
+                    <case value="1">
+                        <link block="Light_Pilot" />
+                    </case>
+                </switch>
+            </conditional>
+            <conditional>
+                <switch property="Warrior">
+                    <case value="1">
+                        <link block="Light_Warrior" />
+                    </case>
+                </switch>
+            </conditional>
+        </overlayblocks>
+        <textblocks>
+            <link block="Light_Card_name">
+                <property name="Name"/>
+            </link>
+            <link block="Light_Destiny">
+                <property name="Destiny" />
+            </link>
+            <link block="Light_Rebel_Lore">
+                <property name="Lore" />
+            </link>
+            <link block="Light_Rebel_Power">
+                <property name="Power" />
+            </link>
+            <link block="Light_Rebel_Ability">
+                <property name="Ability" />
+            </link>
+            <link block="Light_Rebel_First_Box">
+                <property name="FirstBox"/>
+            </link>
+            <link block="Light_Rebel_Game_text">
+                <property name="GameText" />
+            </link>
+            <link block="Light_Rebel_Deploy_Cost" >
+                <property name="Deployment" />
+            </link>
+            <link block="Light_Rebel_Attrition">
+                <property name="Attrition" />
+            </link>
+        </textblocks>
+    </template>
+    <template src="proxy/LightStarshipCapital.png" default="False">
+        <matches>
+            <match name="CardType" value="LightStarship" />
+            <match name="Maneuver" value="" />
+        </matches>
+        <overlayblocks>
+            <conditional>
+                <switch property="PilotLight">
+                    <case value="1">
+                        <link block="Light_Pilot" />
+                    </case>
+                </switch>
+            </conditional>
+            <conditional>
+                <switch property="NavComputer">
+                    <case value="1">
+                        <link block="Light_Nav_Computer" />
+                    </case>
+                </switch>
+            </conditional>
+            <conditional>
+                <switch property="ScompLink">
+                    <case value="1">
+                        <link block="Light_Ship_Scomp_Link" />
+                    </case>
+                </switch>
+            </conditional>
+        </overlayblocks>
+        <textblocks>
+            <link block="Light_Card_name">
+                <property name="Name"/>
+            </link>
+            <link block="Light_Destiny">
+                <property name="Destiny" />
+            </link>
+            <link block="Light_Starship_Lore">
+                <property name="Lore" />
+            </link>
+            <link block="Light_Starship_Capital_First_Box">
+                <property name="FirstBox"/>
+            </link>
+            <link block="Light_Starship_Power">
+                <property name="Power" />
+            </link>
+            <link block="Light_Starship_Armor">
+                <property name="Armor" />
+            </link>
+            <link block="Light_Starship_Hyperspeed">
+                <property name="LandspeedHyperspeed"/>
+            </link>
+            <link block="Light_Starship_Game_text">
+                <property name="GameText" />
+            </link>
+            <link block="Light_Starship_Deploy_Cost">
+                <property name="Deployment"/>
+            </link>
+            <link block="Light_Starship_Attrition">
+                <property name="Attrition"/>
+            </link>
+        </textblocks>
+    </template>
+    <template src="proxy/LightStarshipHyp.png" default="False">
+        <matches>
+            <match name="CardType" value="LightStarship" />
+            <match name="Armor" value="" />
+            <match name="SecondBox" value="" />
+        </matches>
+        <overlayblocks>
+            <conditional>
+                <switch property="PilotLight">
+                    <case value="1">
+                        <link block="Light_Pilot" />
+                    </case>
+                </switch>
+            </conditional>
+            <conditional>
+                <switch property="NavComputer">
+                    <case value="1">
+                        <link block="Light_Nav_Computer" />
+                    </case>
+                </switch>
+            </conditional>
+            <conditional>
+                <switch property="ScompLink">
+                    <case value="1">
+                        <link block="Light_Ship_Scomp_Link" />
+                    </case>
+                </switch>
+            </conditional>
+        </overlayblocks>
+        <textblocks>
+            <link block="Light_Card_name">
+                <property name="Name"/>
+            </link>
+            <link block="Light_Destiny">
+                <property name="Destiny" />
+            </link>
+            <link block="Light_Starship_Lore">
+                <property name="Lore" />
+            </link>
+            <link block="Light_Starship_Starfighter_First_Box">
+                <property name="FirstBox"/>
+            </link>
+            <link block="Light_Starship_Power">
+                <property name="Power" />
+            </link>
+            <link block="Light_Starship_Maneuver">
+                <property name="Maneuver" />
+            </link>
+            <link block="Light_Starship_Hyperspeed">
+                <property name="LandspeedHyperspeed"/>
+            </link>
+            <link block="Light_Starship_Game_text">
+                <property name="GameText" />
+            </link>
+            <link block="Light_Starship_Deploy_Cost">
+                <property name="Deployment"/>
+            </link>
+            <link block="Light_Starship_Attrition">
+                <property name="Attrition"/>
+            </link>
+        </textblocks>
+    </template>
+    <template src="proxy/LightStarshipNoHyp.png" default="False">
+        <matches>
+            <match name="CardType" value="LightStarship" />
+            <match name="SecondBox" value="NO HYPERDRIVE" />
+        </matches>
+        <overlayblocks>
+            <conditional>
+                <switch property="PilotLight">
+                    <case value="1">
+                        <link block="Light_Pilot" />
+                    </case>
+                </switch>
+            </conditional>
+            <conditional>
+                <switch property="NavComputer">
+                    <case value="1">
+                        <link block="Light_Nav_Computer" />
+                    </case>
+                </switch>
+            </conditional>
+            <conditional>
+                <switch property="ScompLink">
+                    <case value="1">
+                        <link block="Light_Ship_Scomp_Link" />
+                    </case>
+                </switch>
+            </conditional>
+        </overlayblocks>
+        <textblocks>
+            <link block="Light_Card_name">
+                <property name="Name"/>
+            </link>
+            <link block="Light_Destiny">
+                <property name="Destiny" />
+            </link>
+            <link block="Light_Starship_Lore">
+                <property name="Lore" />
+            </link>
+            <link block="Light_Starship_Starfighter_First_Box">
+                <property name="FirstBox"/>
+            </link>
+            <link block="Light_Starship_Power">
+                <property name="Power" />
+            </link>
+            <link block="Light_Starship_Maneuver">
+                <property name="Maneuver" />
+            </link>
+            <link block="Light_Starship_Hyperspeed">
+                <property name="LandspeedHyperspeed"/>
+            </link>
+            <link block="Light_Starship_Game_text">
+                <property name="GameText" />
+            </link>
+            <link block="Light_Starship_Deploy_Cost">
+                <property name="Deployment"/>
+            </link>
+            <link block="Light_Starship_Attrition">
+                <property name="Attrition"/>
+            </link>
+        </textblocks>
+    </template>
+    <template src="proxy/LightVehicleTransportArmor.png" default="False">
+        <matches>
+            <match name="CardType" value="LightVehicle" />
+            <match name="FirstBox" value="TRANSPORT VEHICLE" />
+            <match name="Maneuver" value=""/>
+        </matches>
+        <textblocks>
+            <link block="Light_Card_name">
+                <property name="Name"/>
+            </link>
+            <link block="Light_Destiny">
+                <property name="Destiny" />
+            </link>
+            <link block="Light_Vehicle_Lore">
+                <property name="Lore" />
+            </link>
+            <link block="Light_Vehicle_Power">
+                <property name="Power" />
+            </link>
+            <link block="Light_Vehicle_Armor">
+                <property name="Armor" />
+            </link>
+            <link block="Light_Vehicle_Landspeed">
+                <property name="LandspeedHyperspeed"/>
+            </link>
+            <link block="Light_Vehicle_Game_text">
+                <property name="GameText" />
+            </link>
+            <link block="Light_Vehicle_Deploy_Cost">
+                <property name="Deployment"/>
+            </link>
+            <link block="Light_Vehicle_Attrition">
+                <property name="Attrition"/>
+            </link>
+        </textblocks>
+    </template>
+    <template src="proxy/LightVehicleTransportManeuver.png" default="False">
+        <matches>
+            <match name="CardType" value="LightVehicle" />
+            <match name="FirstBox" value="TRANSPORT VEHICLE" />
+            <match name="Armor" value=""/>
+        </matches>
+        <textblocks>
+            <link block="Light_Card_name">
+                <property name="Name"/>
+            </link>
+            <link block="Light_Destiny">
+                <property name="Destiny" />
+            </link>
+            <link block="Light_Vehicle_Lore">
+                <property name="Lore" />
+            </link>
+            <link block="Light_Vehicle_Power">
+                <property name="Power" />
+            </link>
+            <link block="Light_Vehicle_Maneuver">
+                <property name="Maneuver" />
+            </link>
+            <link block="Light_Vehicle_Landspeed">
+                <property name="LandspeedHyperspeed"/>
+            </link>
+            <link block="Light_Vehicle_Game_text">
+                <property name="GameText" />
+            </link>
+            <link block="Light_Vehicle_Deploy_Cost">
+                <property name="Deployment"/>
+            </link>
+            <link block="Light_Vehicle_Attrition">
+                <property name="Attrition"/>
+            </link>
+        </textblocks>
+    </template>
+    <template src="proxy/LightWeaponAutomated.png" default="False">    
+        <matches>
+            <match name="CardType" value="LightWeapon"/>
+            <match name="FirstBox" value="AUTOMATED WEAPON"/>
+        </matches>
+        <textblocks>
+            <link block="Light_Card_name">
+                <property name="Name"/>
+            </link>
+            <link block="Light_Destiny">
+                <property name="Destiny" />
+            </link>
+            <link block="Light_Weapon_Lore">
+                <property name="Lore" />
+            </link>
+            <link block="Light_Weapon_Game_text">
+                <property name="GameText" />
+            </link>
+        </textblocks>
+    </template>
+    <template src="proxy/LightWeaponCharacter.png" default="False">    
+        <matches>
+            <match name="CardType" value="LightWeapon"/>
+            <match name="FirstBox" value="CHARACTER WEAPON"/>
+        </matches>
+        <textblocks>
+            <link block="Light_Card_name">
+                <property name="Name"/>
+            </link>
+            <link block="Light_Destiny">
+                <property name="Destiny" />
+            </link>
+            <link block="Light_Weapon_Lore">
+                <property name="Lore" />
+            </link>
+            <link block="Light_Weapon_Game_text">
+                <property name="GameText" />
+            </link>
+        </textblocks>
+    </template>
+    <template src="proxy/LightWeaponStarship.png" default="False">    
+        <matches>
+            <match name="CardType" value="LightWeapon"/>
+            <match name="FirstBox" value="STARSHIP WEAPON"/>
+        </matches>
+        <textblocks>
+            <link block="Light_Card_name">
+                <property name="Name"/>
+            </link>
+            <link block="Light_Destiny">
+                <property name="Destiny" />
+            </link>
+            <link block="Light_Weapon_Lore">
+                <property name="Lore" />
+            </link>
+            <link block="Light_Weapon_Game_text">
+                <property name="GameText" />
+            </link>
+        </textblocks>
+    </template>
+    <template src="proxy/back.png" default="True">
+        <matches>
+            <match name="fakeProperty" value="value" />
+        </matches>
+        <textblocks>
+            <link block="Dark_Card_name">
+                <property name="Name" />
+            </link>
+            <link block="Light_Destiny">
+                <property name="Destiny" />
+            </link>
+        </textblocks>
+    </template>
+</templates>
