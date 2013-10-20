@@ -726,7 +726,7 @@
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
 <!-- TEMPLATE DEFINITIONS (DARK) -->
 <!-- -->
-    <template src="proxy/DarkAlien.png" default="False">
+    <template src="proxy/DarkAlien.jpg" default="False">
         <matches>
             <match name="CardType" value="DarkAlien" />
         </matches>
@@ -776,7 +776,7 @@
             </link>
         </textblocks>
     </template>
-    <template src="proxy/DarkDevice.png" default="False">
+    <template src="proxy/DarkDevice.jpg" default="False">
         <matches>
             <match name="CardType" value="DarkDevice" />
         </matches>
@@ -795,7 +795,7 @@
             </link>
         </textblocks>
     </template>
-    <template src="proxy/DarkDroid.png" default="False">
+    <template src="proxy/DarkDroid.jpg" default="False">
         <matches>
             <match name="CardType" value="DarkDroid" />
         </matches>
@@ -845,7 +845,7 @@
             </link>
         </textblocks>
     </template>
-    <template src="proxy/DarkEffect.png" default="False">
+    <template src="proxy/DarkEffect.jpg" default="False">
         <matches>
             <match name="CardType" value="DarkEffect" />
             <match name="FirstBox" value="EFFECT" />
@@ -865,7 +865,7 @@
             </link>            
         </textblocks>
     </template>
-    <template src="proxy/DarkEffectUtinni.png" default="False">
+    <template src="proxy/DarkEffectUtinni.jpg" default="False">
         <matches>
             <match name="CardType" value="DarkEffect"/>
             <match name="FirstBox" value="UTINNI EFFECT"/>
@@ -885,7 +885,7 @@
             </link>            
         </textblocks>
     </template>
-    <template src="proxy/DarkImperial.png" default="False">
+    <template src="proxy/DarkImperial.jpg" default="False">
         <matches>
             <match name="CardType" value="DarkImperial" />
         </matches>
@@ -935,7 +935,7 @@
             </link>
         </textblocks>
     </template>
-    <template src="proxy/DarkInterruptLost.png" default="False">
+    <template src="proxy/DarkInterruptLost.jpg" default="False">
         <matches>
             <match name="CardType" value="DarkInterrupt" />
             <match name="FirstBox" value="LOST INTERRUPT" />
@@ -955,7 +955,7 @@
             </link>
         </textblocks>
     </template>
-    <template src="proxy/DarkInterruptUsed.png" default="False">
+    <template src="proxy/DarkInterruptUsed.jpg" default="False">
         <matches>
             <match name="CardType" value="DarkInterrupt" />
             <match name="FirstBox" value="USED INTERRUPT" />
@@ -975,7 +975,7 @@
             </link>
         </textblocks>
     </template>
-    <template src="proxy/DarkLocationSite.png" default="False">
+    <template src="proxy/DarkLocationSite.jpg" default="False">
         <matches>
             <match name="CardType" value="DarkLocationSite" />
         </matches>
@@ -1062,7 +1062,7 @@
             </link>
          </textblocks>
     </template>
-    <template src="proxy/DarkLocationSystem.png" default="False">
+    <template src="proxy/DarkLocationSystem.jpg" default="False">
         <matches>
             <match name="CardType" value="DarkLocationSystem" />
         </matches>
@@ -1115,7 +1115,7 @@
             </link>
         </textblocks>
     </template>
-    <template src="proxy/DarkStarshipCapital.png" default="False">
+    <template src="proxy/DarkStarshipCapital.jpg" default="False">
         <matches>
             <match name="CardType" value="DarkStarship" />
             <match name="Maneuver" value="" />
@@ -1176,7 +1176,7 @@
             </link>
         </textblocks>
     </template>
-    <template src="proxy/DarkStarshipHyp.png" default="False">
+    <template src="proxy/DarkStarshipHyp.jpg" default="False">
         <matches>
             <match name="CardType" value="DarkStarship" />
             <match name="Armor" value="" />
@@ -1238,7 +1238,7 @@
             </link>
         </textblocks>
     </template>
-    <template src="proxy/DarkStarshipNoHyp.png" default="False">
+    <template src="proxy/DarkStarshipNoHyp.jpg" default="False">
         <matches>
             <match name="CardType" value="DarkStarship" />
             <match name="SecondBox" value="NO HYPERDRIVE" />
@@ -1299,7 +1299,7 @@
             </link>
         </textblocks>
     </template>
-    <template src="proxy/DarkVehicleCreature.png" default="False">
+    <template src="proxy/DarkVehicleCreature.jpg" default="False">
         <matches>
             <match name="CardType" value="DarkVehicle" />
             <match name="FirstBox" value="CREATURE VEHICLE" />
@@ -1334,7 +1334,7 @@
             </link>
         </textblocks>
     </template>
-    <template src="proxy/DarkVehicleTransportArmor.png" default="False">
+    <template src="proxy/DarkVehicleTransportArmor.jpg" default="False">
         <matches>
             <match name="CardType" value="DarkVehicle" />
             <match name="FirstBox" value="TRANSPORT VEHICLE" />
@@ -1370,7 +1370,7 @@
             </link>
         </textblocks>
     </template>
-    <template src="proxy/DarkVehicleTransportManeuver.png" default="False">
+    <template src="proxy/DarkVehicleTransportManeuver.jpg" default="False">
         <matches>
             <match name="CardType" value="DarkVehicle" />
             <match name="FirstBox" value="TRANSPORT VEHICLE" />
@@ -1406,7 +1406,7 @@
             </link>
         </textblocks>
     </template>
-    <template src="proxy/DarkWeaponAutomated.png" default="False">
+    <template src="proxy/DarkWeaponAutomated.jpg" default="False">
         <matches>
             <match name="CardType" value="DarkWeapon" />
             <match name="FirstBox" value="AUTOMATED WEAPON" />
@@ -1426,7 +1426,7 @@
             </link>
         </textblocks>
     </template>
-    <template src="proxy/DarkWeaponCharacter.png" default="False">
+    <template src="proxy/DarkWeaponCharacter.jpg" default="False">
         <matches>
             <match name="CardType" value="DarkWeapon" />
             <match name="FirstBox" value="CHARACTER WEAPON" />
@@ -1446,7 +1446,7 @@
             </link>
         </textblocks>
     </template>
-    <template src="proxy/DarkWeaponStarship.png" default="False">
+    <template src="proxy/DarkWeaponStarship.jpg" default="False">
         <matches>
             <match name="CardType" value="DarkWeapon" />
             <match name="FirstBox" value="STARSHIP WEAPON" />
@@ -1469,7 +1469,7 @@
 <!-- -->
 <!-- TEMPLATE DEFINITIONS (LIGHT) -->
 <!-- -->
-    <template src="proxy/LightAlien.png" default="False">
+    <template src="proxy/LightAlien.jpg" default="False">
         <matches>
             <match name="CardType" value="LightAlien" />
         </matches>
@@ -1519,7 +1519,7 @@
             </link>
         </textblocks>
     </template>
-    <template src="proxy/LightDevice.png" default="False">
+    <template src="proxy/LightDevice.jpg" default="False">
         <matches>
             <match name="CardType" value="LightDevice" />
         </matches>
@@ -1538,7 +1538,7 @@
             </link>
         </textblocks>
     </template>
-    <template src="proxy/LightDroid.png" default="False">
+    <template src="proxy/LightDroid.jpg" default="False">
         <matches>
             <match name="CardType" value="LightDroid" />
         </matches>
@@ -1588,7 +1588,7 @@
             </link>
         </textblocks>
     </template>
-    <template src="proxy/LightEffect.png" default="False">
+    <template src="proxy/LightEffect.jpg" default="False">
         <matches>
             <match name="CardType" value="LightEffect" />
             <match name="FirstBox" value="EFFECT" />
@@ -1608,7 +1608,7 @@
             </link>
         </textblocks>
     </template>
-    <template src="proxy/LightEffectUtinni.png" default="False">
+    <template src="proxy/LightEffectUtinni.jpg" default="False">
         <matches>
             <match name="CardType" value="LightEffect" />
             <match name="FirstBox" value="UTINNI EFFECT" />
@@ -1628,7 +1628,7 @@
             </link>
         </textblocks>
     </template>
-    <template src="proxy/LightInterruptLost.png" default="False">
+    <template src="proxy/LightInterruptLost.jpg" default="False">
         <matches>
             <match name="CardType" value="LightInterrupt" />
             <match name="FirstBox" value="LOST INTERRUPT" />
@@ -1648,7 +1648,7 @@
             </link>
         </textblocks>
     </template>
-    <template src="proxy/LightInterruptUsed.png" default="False">
+    <template src="proxy/LightInterruptUsed.jpg" default="False">
         <matches>
             <match name="CardType" value="LightInterrupt" />
             <match name="FirstBox" value="USED INTERRUPT" />
@@ -1668,7 +1668,7 @@
             </link>
         </textblocks>
     </template>
-    <template src="proxy/LightLocationSite.png" default="False">
+    <template src="proxy/LightLocationSite.jpg" default="False">
         <matches>
             <match name="CardType" value="LightLocationSite" />
         </matches>
@@ -1755,7 +1755,7 @@
             </link>
         </textblocks>
     </template>
-    <template src="proxy/LightLocationSystem.png" default="False">
+    <template src="proxy/LightLocationSystem.jpg" default="False">
         <matches>
             <match name="CardType" value="LightLocationSystem" />
         </matches>
@@ -1808,7 +1808,7 @@
             </link>
         </textblocks>
     </template>
-    <template src="proxy/LightRebel.png" default="False">
+    <template src="proxy/LightRebel.jpg" default="False">
         <matches>
             <match name="CardType" value="LightRebel" />
         </matches>
@@ -1858,7 +1858,7 @@
             </link>
         </textblocks>
     </template>
-    <template src="proxy/LightStarshipCapital.png" default="False">
+    <template src="proxy/LightStarshipCapital.jpg" default="False">
         <matches>
             <match name="CardType" value="LightStarship" />
             <match name="Maneuver" value="" />
@@ -1919,7 +1919,7 @@
             </link>
         </textblocks>
     </template>
-    <template src="proxy/LightStarshipHyp.png" default="False">
+    <template src="proxy/LightStarshipHyp.jpg" default="False">
         <matches>
             <match name="CardType" value="LightStarship" />
             <match name="Armor" value="" />
@@ -1981,7 +1981,7 @@
             </link>
         </textblocks>
     </template>
-    <template src="proxy/LightStarshipNoHyp.png" default="False">
+    <template src="proxy/LightStarshipNoHyp.jpg" default="False">
         <matches>
             <match name="CardType" value="LightStarship" />
             <match name="SecondBox" value="NO HYPERDRIVE" />
@@ -2042,7 +2042,7 @@
             </link>
         </textblocks>
     </template>
-    <template src="proxy/LightVehicleTransportArmor.png" default="False">
+    <template src="proxy/LightVehicleTransportArmor.jpg" default="False">
         <matches>
             <match name="CardType" value="LightVehicle" />
             <match name="FirstBox" value="TRANSPORT VEHICLE" />
@@ -2078,7 +2078,7 @@
             </link>
         </textblocks>
     </template>
-    <template src="proxy/LightVehicleTransportManeuver.png" default="False">
+    <template src="proxy/LightVehicleTransportManeuver.jpg" default="False">
         <matches>
             <match name="CardType" value="LightVehicle" />
             <match name="FirstBox" value="TRANSPORT VEHICLE" />
@@ -2114,7 +2114,7 @@
             </link>
         </textblocks>
     </template>
-    <template src="proxy/LightWeaponAutomated.png" default="False">    
+    <template src="proxy/LightWeaponAutomated.jpg" default="False">    
         <matches>
             <match name="CardType" value="LightWeapon"/>
             <match name="FirstBox" value="AUTOMATED WEAPON"/>
@@ -2134,7 +2134,7 @@
             </link>
         </textblocks>
     </template>
-    <template src="proxy/LightWeaponCharacter.png" default="False">    
+    <template src="proxy/LightWeaponCharacter.jpg" default="False">    
         <matches>
             <match name="CardType" value="LightWeapon"/>
             <match name="FirstBox" value="CHARACTER WEAPON"/>
@@ -2154,7 +2154,7 @@
             </link>
         </textblocks>
     </template>
-    <template src="proxy/LightWeaponStarship.png" default="False">    
+    <template src="proxy/LightWeaponStarship.jpg" default="False">    
         <matches>
             <match name="CardType" value="LightWeapon"/>
             <match name="FirstBox" value="STARSHIP WEAPON"/>
@@ -2174,7 +2174,7 @@
             </link>
         </textblocks>
     </template>
-    <template src="proxy/back.png" default="True">
+    <template src="proxy/back.jpg" default="True">
         <matches>
             <match name="fakeProperty" value="value" />
         </matches>
