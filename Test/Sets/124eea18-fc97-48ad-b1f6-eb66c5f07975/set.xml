@@ -8144,7 +8144,7 @@
         <property name="IconCreature" value=""/>
         <property name="IconVehicle" value=""/>
         <property name="IconStarship" value=""/>
-        <property name="Lore" value=""/>
+        <property name="Lore" value="Leia led an unorthodox escape into a 'garbage masher' on the detention level. 'What an incredible smell you've discovered!'"/>
 		<property name="Power" value=""/>
 		<property name="Ability" value=""/>
 		<property name="Maneuver" value=""/>		<property name="Armor" value=""/>

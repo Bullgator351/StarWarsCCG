@@ -360,7 +360,7 @@
         </block>
         <block type="text" id="Light_Effect_Game_text">
             <location x="68" y="313"/>
-            <text color="#000000" size="14" font="fonts/arialn.ttf"/>
+            <text color="#000000" size="16" font="fonts/FRADMCN.TTF"/>
             <wordwrap height="150" width="230" />
         </block>
         <block type="text" id="Light_Interrupt_Lore">
@@ -370,7 +370,7 @@
         </block>
         <block type="text" id="Light_Interrupt_Game_text">
             <location x="68" y="313"/>
-            <text color="#000000" size="14" font="fonts/arialn.ttf"/>
+            <text color="#000000" size="16" font="fonts/FRADMCN.TTF"/>
             <wordwrap height="150" width="230" />
         </block>
         <block type="text" id="Light_Rebel_Lore">
@@ -640,10 +640,10 @@
             <location x="314" y="312"/>
         </block>
         <block type="overlay" id="Light_Warrior" src="proxy/Warrior.png">
-            <location x="314" y="341"/>
+            <location x="314" y="339"/>
         </block>
         <block type="overlay" id="Light_Nav_Computer" src="proxy/NavComputer.png">
-            <location x="314" y="341"/>
+            <location x="314" y="339"/>
         </block>
         <block type="overlay" id="Light_Ship_Scomp_Link" src="proxy/Scomp-Link.png">
             <location x="30" y="312"/>

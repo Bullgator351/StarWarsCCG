@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="8cf86807-9807-4d88-b8c6-81644c45b65e">
+<section name="Main">
+	<card qty="1" id="aa634e54-e5f2-4ba2-9bde-e790132343e2">Blaster Rifle</card>
+	<card qty="1" id="0b357bce-2790-408a-8165-4a5e9b514b18">Collateral Damage</card>
+	<card qty="1" id="59d8818c-884e-4f6f-8abc-f1fd2338eea0">Comlink</card>
+	<card qty="2" id="5319c5af-3548-40bf-9f10-8856c9c01570">Counter Assault</card>
+	<card qty="2" id="87f8a333-683a-40ee-8460-c2578332b17b">Death Star: Docking Control Room</card>
+	<card qty="2" id="2f4f903d-93f9-40ef-9a7f-2eee9ae477ae">Death Star Trooper</card>
+	<card qty="1" id="ab23e072-47cb-4ed4-91bd-b5a54b16bb7a">Death Star: Detention Block Corridor</card>
+	<card qty="2" id="a4860208-6426-486d-9d1b-5917cc8838c9">Death Star: Docking Bay 327</card>
+	<card qty="1" id="ac7e7a47-8f05-4556-b4cd-a1428f971877">Gaderffii Stick</card>
+	<card qty="1" id="872ed257-870a-4486-bfe2-5d298705af19">Imperial Barrier</card>
+	<card qty="2" id="4c4bd7e9-f9ee-429b-804e-d76ff977f48a">Imperial Blaster</card>
+	<card qty="1" id="28b5846f-a7ab-4c90-9c3c-e171c0db30ec">Imperial Reinforcements</card>
+	<card qty="2" id="5b062e3c-9197-4a5b-a061-98ebe050650b">Imperial Trooper Guard</card>
+	<card qty="1" id="96337f26-4868-4553-bd49-9b473fc3d7d6">It's Worse</card>
+	<card qty="2" id="f39f55a2-166c-480e-b417-c6e56ef0afc6">Jawa</card>
+	<card qty="1" id="119a7903-fbc4-4b23-886f-208b592bd4b3">Ket Maliss</card>
+	<card qty="1" id="97ed9fd7-09f3-494c-87e0-ee5dc810d80f">Kintan Strider</card>
+	<card qty="2" id="7f9b22ea-ba74-41ee-8546-8b0d74dea9b9">LIN-V8M [Elleyein-Veeateenn]</card>
+	<card qty="1" id="73611202-1718-4e0c-934a-454b900c3369">Macroscan</card>
+	<card qty="1" id="77ea9573-7d6d-4f68-acbb-7c9b246401de">Ommni Box</card>
+	<card qty="1" id="45acd2fc-e64d-4fd7-b66e-a1c56b3595dc">Scanning Crew</card>
+	<card qty="1" id="de7abf68-84bf-45ee-b651-e2bdda4dff08">Set For Stun</card>
+	<card qty="7" id="b08961a9-54dc-4d91-9af6-344483068b41">Stormtrooper</card>
+	<card qty="2" id="1b746c28-3f50-42d5-b82a-b34257620c0a">Stormtrooper Utility Belt</card>
+	<card qty="1" id="97e5ad03-62f9-4591-847e-b980e93366f2">Takeel</card>
+	<card qty="1" id="b933e35b-b748-4016-be63-55f6b54d9a8a">Tatooine: Mos Eisley</card>
+	<card qty="1" id="72c905e9-9009-4ffb-b1e3-b71d6f6a80ec">Tatooine: Docking Bay 94</card>
+	<card qty="1" id="bc2cb12a-1744-4fb2-920d-574266d5654b">Tatooine: Jawa Camp</card>
+	<card qty="1" id="f3b9e9f8-33f8-498b-a43d-4b281218315e">Tatooine: Jundland Wastes</card>
+	<card qty="3" id="df38d7f4-2329-4e0f-b1bc-1bce09eedac5">Timer Mine</card>
+	<card qty="5" id="7e992d83-36d5-435c-9888-870254611818">Tusken Raider</card>
+	<card qty="1" id="32ae1ea0-c23f-4b6d-a017-efc5fcf9bf10">Tusken Scavengers</card>
+	<card qty="3" id="9534444a-fd65-4c4e-b5a3-70c4327aff50">Vader</card>
+	<card qty="3" id="0f41f77f-ccdd-4a1d-a939-bf42bdd8cf30">Vader's Obsession</card>
+	<card qty="1" id="a3437ce4-c0bf-4685-9ffe-7ef200e863f9">You Underestimate Their Chances</card>
+</section>
+</deck>
