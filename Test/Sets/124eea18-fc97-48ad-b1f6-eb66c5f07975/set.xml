@@ -10146,8 +10146,8 @@
 		<property name="FirstBox" value="STARFIGHTER: X-WING"/>
 		<property name="SecondBox" value=""/>
 		<property name="GameText" value="May add 1 pilot. Must have a pilot aboard to use power, maneuver or hyperspeed."/>
-		<property name="Deployment" value=""/>
-		<property name="Attrition" value=""/>
+		<property name="Deployment" value="2"/>
+		<property name="Attrition" value="5"/>
 		<property name="PilotDark" value=""/>
 		<property name="PilotLight" value=""/>
 		<property name="Warrior" value=""/>
@@ -11702,7 +11702,13 @@ and fired an unsuccessful shot at the Death Star thermal exhaust port. Served at
 		<property name="FirstBox" value="MAINTENANCE DROID"/>
 		<property name="SecondBox" value=""/>
 		<property name="GameText" value="All your vehicles and droids at same location are immune to attrition &lt;2. Also, if 'bantha' droid is at a docking bay, all your starfighters at the related system are immune to attrition &lt;3 and may cancel Lateral Damage."/>
-		<property name="PermWeapon" value=""/>
+		<property name="Deployment" value="2"/>
+		<property name="Attrition" value="3"/>
+		<property name="PilotDark" value=""/>
+		<property name="PilotLight" value=""/>
+		<property name="Warrior" value=""/>
+		<property name="NavComputer" value=""/>
+        <property name="PermWeapon" value=""/>
 		<property name="ScompLink" value=""/>    
     </card>
 	<card id="17997f3a-d3bd-44f2-aacd-5a42e42c2460" name="We're Doomed">
