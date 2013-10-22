@@ -4,7 +4,7 @@
 		name="Star Wars CCG"
 		id="8cf86807-9807-4d88-b8c6-81644c45b65e" 
 		octgnVersion="3.1.94.226"
-		version="3.1.0.394"
+		version="3.1.0.395"
 		markersize="16"
 		tags="SW CCG"
 		description="Star Wars Customizable Card Game by Decipher"
@@ -17,7 +17,7 @@
     </scripts>
     <proxygen definitionsrc="proxy/proxydef.xml">
     </proxygen>
-    <card back="cards/back.png" front="cards/front.png" width="176" height="176" cornerRadius="4">
+    <card back="cards/back.png" front="cards/front.png" width="88" height="88" cornerRadius="4">
         <property name="Side" type="String" textKind="Tokens" />
 		<property name="Expansion" type="String" textKind="Tokens" />
 		<property name="CardType" type="String" textKind="Tokens" />
@@ -61,7 +61,7 @@
         <cardaction menu="Discard from Table" shortcut="del" execute="discard" />
 	</table>
     <player>
-        <hand name="Hand" visibility="me" ordered="False" width="176" height="176" icon="groups/hand.png">
+        <hand name="Hand" visibility="me" ordered="False" width="88" height="88" icon="groups/hand.png">
 			<groupaction menu="Mulligan" shortcut="ctrl+m" execute="mulligan" />
 			<cardaction menu="Discard from Hand" shortcut="del" execute="discard" />
             <cardaction menu="Tap" shortcut="ctrl+t" default="True" execute="tap" />
@@ -71,7 +71,7 @@
             <groupaction menu="Draw into Hand" shortcut="ctrl+d" execute="draw" />
 			<cardaction menu="Discard to Lost Pile" shortcut="del" execute="discard" />
 		</group>
-		<group name="Reserve" visibility="none" width="176" height="176" icon="groups/Reserve.png">
+		<group name="Reserve" visibility="none" width="63" height="88" icon="groups/Reserve.png">
 			<groupaction menu="Shuffle" shortcut="ctrl+s" execute="shuffle" />
             <groupaction menu="Draw Into Hand" shortcut="ctrl+h" execute="drawHand" />
 			<groupaction menu="Activate Force" shortcut="ctrl+a" execute="activateForce" />
