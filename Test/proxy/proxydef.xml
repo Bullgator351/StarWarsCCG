@@ -1668,7 +1668,7 @@
             </link>
         </textblocks>
     </template>
-    <template src="proxy/LightLocationSite.jpg" default="False">
+    <template src="proxy/LightLocationSite.png" default="False">
         <matches>
             <match name="CardType" value="LightLocationSite" />
         </matches>
