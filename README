@@ -2,6 +2,17 @@ Star Wars CCG
 
 This game was published by Decipher from 1995 to 2001.
 
-At this time only the Premiere Limited set is available, by proxy.
+Status:
 
-I am acquiring cards to do hi res scans.  Premiere Unlimited set will be available soon.
+In progress:
+
+
+1.) Re-creating all proxies in 88x88 format with transparent areas so sideways cards will display correctly.
+2.) Concurrent with this - separate frames from border to facilitate adding white bordered cards without doubling the number of proxies.
+3.) Completing PremiereUnlimited.o8c
+
+To be tackled before release:
+
+1.) Adjust Location:Site proxies to make text more readable.
+2.) Acquisition of Premiere Limited set and creation of PremiereLimited.o8c
+
