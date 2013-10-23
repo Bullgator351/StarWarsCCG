@@ -224,22 +224,22 @@
 <!-- LOCATION - SITES (DARK) -->
 <!-- -->
         <block type="text" id="Dark_Site_Dark_name">
-            <location x="117" y="288" />
+            <location x="117" y="355" />
             <text color="#FFFFFF" size="20" font="fonts/54251___.TTF" />
             <wordwrap height="80" width="318" />
         </block>
         <block type="text" id="Dark_Site_Light_name">
-            <location x="102" y="62" />
+            <location x="102" y="129" />
             <text color="#000000" size="20" font="fonts/54251___.TTF" />
             <wordwrap height="80" width="318" />
         </block>
         <block type="text" id="Dark_Site_Dark_text">
-            <location x="44" y="318" />
+            <location x="44" y="385" />
             <text color="#FFFFFF" size="18" font="fonts/GLSNECB.TTF" />
             <wordwrap height="80" width="420" />
         </block>
         <block type="text" id="Dark_Site_Light_text">
-            <location x="44" y="30" />
+            <location x="44" y="97" />
             <text color="#000000" size="18" font="fonts/GLSNECB.TTF" />
             <wordwrap height="80" width="420" />
         </block>
@@ -494,22 +494,22 @@
 <!-- LOCATION - SITES (LIGHT) -->
 <!-- -->
         <block type="text" id="Light_Site_Light_name">
-            <location x="117" y="284" />
+            <location x="117" y="351" />
             <text color="#000000" size="20" font="fonts/54251___.TTF" />
             <wordwrap height="80" width="318" />
         </block>
         <block type="text" id="Light_Site_Dark_name">
-            <location x="110" y="58" />
+            <location x="110" y="125" />
             <text color="#FFFFFF" size="20" font="fonts/54251___.TTF" />
             <wordwrap height="80" width="318" />
         </block>
         <block type="text" id="Light_Site_Light_text">
-            <location x="46" y="316" />
+            <location x="46" y="383" />
             <text color="#000000" size="18" font="fonts/GLSNECB.TTF" />
             <wordwrap height="80" width="420" />
         </block>
         <block type="text" id="Light_Site_Dark_text">
-            <location x="46" y="29" />
+            <location x="46" y="96" />
             <text color="#FFFFFF" size="18" font="fonts/GLSNECB.TTF" />
             <wordwrap height="80" width="420" />
         </block>        
@@ -565,52 +565,52 @@
 <!-- DARK SITE ICONS-->
 <!-- -->
         <block type="overlay" id="Dark_Site_Dark_Force1" src="proxy/Force-Dark.png">
-            <location x="38" y="289" />
+            <location x="38" y="356" />
         </block>
         <block type="overlay" id="Dark_Site_Dark_Force2" src="proxy/Force-Dark2.png">
-            <location x="38" y="289" />
+            <location x="38" y="356" />
         </block>
         <block type="overlay" id="Dark_Site_Dark_Force3" src="proxy/Force-Dark3.png">
-            <location x="38" y="289" />
+            <location x="38" y="356" />
         </block>
         <block type="overlay" id="Dark_Site_Light_Force1" src="proxy/Force-Light.png">
-            <location x="406" y="62" />
+            <location x="406" y="129" />
         </block>
         <block type="overlay" id="Dark_Site_Light_Force2" src="proxy/Force-Light2.png">
-            <location x="406" y="62" />
+            <location x="406" y="129" />
         </block>
         <block type="overlay" id="Dark_Site_Light_Force3" src="proxy/Force-Light3.png">
-            <location x="406" y="62" />
+            <location x="406" y="129" />
         </block>
         <block type="overlay" id="Dark-Site-Scomp-Link1" src="proxy/Scomp-Link.png">
-            <location x="471" y="289" />
+            <location x="471" y="356" />
         </block>
         <block type="overlay" id="Dark-Site-Planet1" src="proxy/Planet.png">
-            <location x="449" y="289" />
+            <location x="449" y="356" />
         </block>
         <block type="overlay" id="Dark-Site-Mobile1" src="proxy/Mobile.png">
-            <location x="449" y="289" />
+            <location x="449" y="356" />
         </block>
         <block type="overlay" id="Dark-Site-Exterior1" src="proxy/Exterior.png">
-            <location x="427" y="289" />
+            <location x="427" y="356" />
         </block>
         <block type="overlay" id="Dark-Site-Interior1" src="proxy/Interior.png">
-            <location x="405" y="289" />
+            <location x="405" y="356" />
         </block>
         <block type="overlay" id="Dark-Site-Scomp-Link2" src="proxy/Scomp-Link.png">
-            <location x="13" y="57" />
+            <location x="13" y="124" />
         </block>
         <block type="overlay" id="Dark-Site-Planet2" src="proxy/Planet.png">
-            <location x="35" y="57" />
+            <location x="35" y="124" />
         </block>
         <block type="overlay" id="Dark-Site-Mobile2" src="proxy/Mobile.png">
-            <location x="35" y="57" />
+            <location x="35" y="124" />
         </block>
         <block type="overlay" id="Dark-Site-Exterior2" src="proxy/Exterior.png">
-            <location x="57" y="57" />
+            <location x="57" y="124" />
         </block>
         <block type="overlay" id="Dark-Site-Interior2" src="proxy/Interior.png">
-            <location x="79" y="57" />
+            <location x="79" y="124" />
         </block>
 <!-- -->
 <!-- DARK SYSTEM ICONS -->
@@ -654,52 +654,52 @@
 <!-- LIGHT SITE ICONS -->
 <!-- -->
         <block type="overlay" id="Light_Site_Light_Force1" src="proxy/Force-Light.png">
-            <location x="45" y="284" />
+            <location x="45" y="351" />
         </block>
         <block type="overlay" id="Light_Site_Light_Force2" src="proxy/Force-Light2.png">
-            <location x="45" y="284" />
+            <location x="45" y="351" />
         </block>
         <block type="overlay" id="Light_Site_Light_Force3" src="proxy/Force-Light3.png">
-            <location x="45" y="284" />
+            <location x="45" y="351" />
         </block>
         <block type="overlay" id="Light_Site_Dark_Force1" src="proxy/Force-Dark.png">
-            <location x="412" y="57" />
+            <location x="412" y="124" />
         </block>
         <block type="overlay" id="Light_Site_Dark_Force2" src="proxy/Force-Dark2.png">
-            <location x="412" y="57" />
+            <location x="412" y="124" />
         </block>
         <block type="overlay" id="Light_Site_Dark_Force3" src="proxy/Force-Dark3.png">
-            <location x="412" y="57" />
+            <location x="412" y="124" />
         </block>
         <block type="overlay" id="Light-Site-Scomp-Link1" src="proxy/Scomp-Link.png">
-            <location x="480" y="284" />
+            <location x="480" y="351" />
         </block>
         <block type="overlay" id="Light-Site-Planet1" src="proxy/Planet.png">
-            <location x="458" y="284" />
+            <location x="458" y="351" />
         </block>
         <block type="overlay" id="Light-Site-Mobile1" src="proxy/Mobile.png">
-            <location x="458" y="284" />
+            <location x="458" y="351" />
         </block>
         <block type="overlay" id="Light-Site-Exterior1" src="proxy/Exterior.png">
-            <location x="436" y="284" />
+            <location x="436" y="351" />
         </block>
         <block type="overlay" id="Light-Site-Interior1" src="proxy/Interior.png">
-            <location x="414" y="284" />
+            <location x="414" y="351" />
         </block>
         <block type="overlay" id="Light-Site-Scomp-Link2" src="proxy/Scomp-Link.png">
-            <location x="21" y="57" />
+            <location x="21" y="124" />
         </block>
         <block type="overlay" id="Light-Site-Planet2" src="proxy/Planet.png">
-            <location x="43" y="57" />
+            <location x="43" y="124" />
         </block>        
         <block type="overlay" id="Light-Site-Mobile2" src="proxy/Mobile.png">
-            <location x="43" y="57" />
+            <location x="43" y="124" />
         </block>
         <block type="overlay" id="Light-Site-Exterior2" src="proxy/Exterior.png">
-            <location x="65" y="57" />
+            <location x="65" y="124" />
         </block>
         <block type="overlay" id="Light-Site-Interior2" src="proxy/Interior.png">
-            <location x="87" y="57" />
+            <location x="87" y="124" />
         </block>        
 <!-- -->
 <!-- LIGHT SYSTEM ICONS -->
@@ -1668,7 +1668,7 @@
             </link>
         </textblocks>
     </template>
-    <template src="proxy/LightLocationSite.png" default="False">
+    <template src="proxy/LightLocationSite.jpg" default="False">
         <matches>
             <match name="CardType" value="LightLocationSite" />
         </matches>
