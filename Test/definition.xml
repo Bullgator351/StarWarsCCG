@@ -4,7 +4,7 @@
 		name="Star Wars CCG"
 		id="8cf86807-9807-4d88-b8c6-81644c45b65e" 
 		octgnVersion="3.1.94.226"
-		version="3.1.0.396"
+		version="3.1.0.397"
 		markersize="16"
 		tags="SW CCG"
 		description="Star Wars Customizable Card Game by Decipher"
@@ -17,7 +17,7 @@
     </scripts>
     <proxygen definitionsrc="proxy/proxydef.xml">
     </proxygen>
-    <card back="cards/back.png" front="cards/front.png" width="63" height="88" cornerRadius="4">
+    <card back="cards/back.png" front="cards/front.png" width="88" height="88" cornerRadius="4">
         <property name="Side" type="String" textKind="Tokens" />
 		<property name="Expansion" type="String" textKind="Tokens" />
 		<property name="CardType" type="String" textKind="Tokens" />
