@@ -4,13 +4,13 @@ This game was published by Decipher from 1995 to 2001.
 
 Status:
 
-To be done prior to release (in progress):
+3.1.1.0 Release version
+3.1.1.1 Reverted to Premiere set name, anticipating delay in producing black border o8c
+3.1.1.2 Update README
 
-1.) Creation of PremiereUnlimited.o8c
-2.) Creation of Premiere2Player.o8c
-
-Post-release:
-1.) Development of both white-bordered and black-bordered proxies
-2.) Adjust Location:Site proxies to make text more readable.
-3.) Acquisition of Premiere Limited set and creation of PremiereLimited.o8c
+Next:
+Creation of Premiere Limited o8c 	Nov2013
+Jedi, Rebel Leader Packs		Dec2013
+A New Hope Limited/Revised		Jan2014
+Hoth/ESB 2-Player			Feb2014
 
