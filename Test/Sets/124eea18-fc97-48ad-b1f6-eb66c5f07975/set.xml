@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="Premiere Limited" id="124eea18-fc97-48ad-b1f6-eb66c5f07975" gameId="8cf86807-9807-4d88-b8c6-81644c45b65e" gameVersion="3.1.0.0" version="1.0.0.0">
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="Premiere" id="124eea18-fc97-48ad-b1f6-eb66c5f07975" gameId="8cf86807-9807-4d88-b8c6-81644c45b65e" gameVersion="3.1.0.0" version="1.0.0.0">
   <cards>
     <card id="00a23c45-5a76-464b-a602-a8b93a9066f9" name="*5D6-RA-7 (Fivedesix)">
         <property name="Side" value="Dark"/>
