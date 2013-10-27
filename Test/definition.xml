@@ -4,12 +4,12 @@
 		name="Star Wars CCG"
 		id="8cf86807-9807-4d88-b8c6-81644c45b65e" 
 		octgnVersion="3.1.98.228"
-		version="3.1.1.3"
+		version="3.1.1.4"
 		markersize="16"
 		tags="SW CCG"
 		description="Star Wars Customizable Card Game by Decipher"
-		setsurl="http://www.octgngames.com"
-		gameurl="http://www.octgngames.com"
+		setsurl="http://octgn.gamersjudgement.com/wordpress/starwarsccg/"
+		gameurl="http://octgn.gamersjudgement.com/wordpress/starwarsccg/"
 		authors="Bullgator"
 		iconurl="http://i93.photobucket.com/albums/l68/Bullgator/SWCCG_zps5ce134c0.png">
     <scripts>
