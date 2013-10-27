@@ -54,7 +54,7 @@ def activateForce(group, x = 0, y = 0):
 	mute()
 	me.Reserve[0] .moveTo(me.Force)
 	notify("{} activates force.".format(me))
-
+    
 def drawDestiny(group, x = 0, y = 0):
 	if len(me.Reserve) == 0: return
 	mute()
@@ -67,17 +67,19 @@ def draw(group, x = 0, y = 0):
     me.Force[0].moveTo(me.hand)
     notify("{} draws a card into hand.".format(me))
 
-def drawHand(group, x = 0, y = 0):
+def drawOpeningHand(group, x = 0, y = 0, count=None):
     if len(me.Reserve) == 0: return
     mute()
-    me.Reserve[0].moveTo(me.hand)
-    notify("{} draws a card into hand.".format(me))
+    if count == None: count = askInteger("Deal how many cards to your hand?", 8)
+    for c in me.Reserve.top(count): 
+        c.moveTo(me.hand)
+    notify("{} draws opening hand.".format(me))
 	
 def useForce(group, x = 0, y = 0):
 	if len(me.Force) == 0: return
 	mute()
 	me.Force[0].moveTo(me.Used)
-	notify("{} spends 1 Force.".format(me))
+	notify("{} uses 1 Force.".format(me))
 	
 def mulligan(group):
 	mute()

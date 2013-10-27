@@ -4,7 +4,7 @@
 		name="Star Wars CCG"
 		id="8cf86807-9807-4d88-b8c6-81644c45b65e" 
 		octgnVersion="3.1.98.228"
-		version="3.1.1.1"
+		version="3.1.1.3"
 		markersize="16"
 		tags="SW CCG"
 		description="Star Wars Customizable Card Game by Decipher"
@@ -73,7 +73,7 @@
 		</group>
 		<group name="Reserve" visibility="none" width="88" height="88" icon="groups/Reserve.png">
 			<groupaction menu="Shuffle" shortcut="ctrl+s" execute="shuffle" />
-            <groupaction menu="Draw Into Hand" shortcut="ctrl+h" execute="drawHand" />
+            <groupaction menu="Draw Opening Hand" shortcut="ctrl+h" execute="drawOpeningHand" />
 			<groupaction menu="Activate Force" shortcut="ctrl+a" execute="activateForce" />
 			<cardaction menu="Discard to Lost Pile" shortcut="del" execute="discard" />
 		</group>
