@@ -49,11 +49,11 @@ def highlightcard(card, x = 0, y = 0):
     card.highlight = "#ff0000"
     notify('{} highlights {}'.format(me, card))
 
-def activateForce(group, x = 0, y = 0):
+def activateoldForce(group, x = 0, y = 0):
 	if len(me.Reserve) == 0: return
 	mute()
 	me.Reserve[0] .moveTo(me.Force)
-	notify("{} activates force.".format(me))
+	notify("{} activates 1 force.".format(me))
     
 def drawDestiny(group, x = 0, y = 0):
 	if len(me.Reserve) == 0: return
@@ -88,18 +88,14 @@ def mulligan(group):
 		c.moveToBottom(c.owner.piles['Reserve'])
 	notify("{} takes a Mulligan.".format(me))
 	me.Reserve.shuffle()
-	
-def dealManyToTable(group, count=None):
-    dealerid = int(getGlobalVariable("dealer"))
-    if me._id != dealerid:
-        whisper("You are not the dealer player.")
-        return
-    if len(shared.Deck) == 0: return
+	  
+def activateForce(group, x = 0, y = 0, count=None):
+    if len(me.Reserve) == 0: return
     mute()
-    if count == None: count = askInteger("Deal how many cards to table?", 5)
-    for c in shared.Deck.top(count): 
-        c.moveTo(table)
-    notify("Dealing {} cards to table.".format(count))
+    if count == None: count = askInteger("Activate how many force?", 1)
+    for c in me.Reserve.top(count): 
+        c.moveTo(me.Force)
+    notify("{} activates {} force.".format(me,count))
 
 def dealManyToTableDown(group,count=None):
     dealerid = int(getGlobalVariable("dealer"))
