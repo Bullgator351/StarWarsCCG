@@ -13,6 +13,7 @@
         <property name="DarkLocationText" value="If you control, may deploy a docking bay directly from your Reserve Deck.  Reshuffle deck."/>
         <property name="LightLocationText" value="If you control with a Rebel with ability>2 present, Force drain +2 here."/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value="IN,MO"/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value="1"/>
@@ -51,6 +52,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value="WW"/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -90,6 +92,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -129,6 +132,7 @@
         <property name="DarkLocationText" value="If you control, opponent needs 2 ability to control each Death Star site."/>
         <property name="LightLocationText" value="If you control, Luke and Obi-Wan are power +2 on Death Star."/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value="IN,MO"/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value="1"/>
@@ -168,6 +172,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value="WW"/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -207,6 +212,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>

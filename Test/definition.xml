@@ -4,7 +4,7 @@
         name="Star Wars CCG"
         id="8cf86807-9807-4d88-b8c6-81644c45b65e" 
         octgnVersion="3.1.101.233"
-        version="3.1.2.9"
+        version="3.1.3.2"
         markersize="16"
         tags="SW CCG"
         description="Star Wars Customizable Card Game by Decipher"
@@ -29,15 +29,16 @@
         <property name="DarkLocationText" type="String" textKind="Tokens" />
         <property name="LightLocationText" type="String" textKind="Tokens" />
         <property name="Parsec" type="String" textKind="Tokens" />
-        <property name="IconPlanet" type="String" textKind="Tokens" />
-        <property name="IconSpace" type="String" textKind="Tokens" />
-        <property name="IconMobile" type="String" textKind="Tokens" />
-        <property name="IconInterior" type="String" textKind="Tokens" />
-        <property name="IconExterior" type="String" textKind="Tokens" />
-        <property name="IconUnderground" type="String" textKind="Tokens" />
-        <property name="IconCreature" type="String" textKind="Tokens" />
-        <property name="IconVehicle" type="String" textKind="Tokens" />
-        <property name="IconStarship" type="String" textKind="Tokens" />
+        <property name="Icons" type="String" textKind="Tokens" />
+        <property name="IconPlanet" type="String" textKind="Tokens" hidden="True"/>
+        <property name="IconSpace" type="String" textKind="Tokens" hidden="True"/>
+        <property name="IconMobile" type="String" textKind="Tokens" hidden="True"/>
+        <property name="IconInterior" type="String" textKind="Tokens" hidden="True"/>
+        <property name="IconExterior" type="String" textKind="Tokens" hidden="True"/>
+        <property name="IconUnderground" type="String" textKind="Tokens" hidden="True"/>
+        <property name="IconCreature" type="String" textKind="Tokens" hidden="True"/>
+        <property name="IconVehicle" type="String" textKind="Tokens" hidden="True"/>
+        <property name="IconStarship" type="String" textKind="Tokens" hidden="True"/>
         <property name="Lore" type="String" textKind="Tokens" />
         <property name="Power" type="String" textKind="Tokens" />
         <property name="Ability" type="String" textKind="Tokens" />
@@ -49,12 +50,12 @@
         <property name="GameText" type="String" textKind="Tokens" />
         <property name="Deployment" type="String" textKind="Tokens" />
         <property name="Attrition" type="String" textKind="Tokens" />
-        <property name="PilotDark" type="String" textKind="Tokens" />
-        <property name="PilotLight" type="String" textKind="Tokens" />
-        <property name="Warrior" type="String" textKind="Tokens" />
-        <property name="NavComputer" type="String" textKind="Tokens" />
-        <property name="PermWeapon" type="String" textKind="Tokens" />
-        <property name="ScompLink" type="String" textKind="Tokens" />
+        <property name="PilotDark" type="String" textKind="Tokens" hidden="True"/>
+        <property name="PilotLight" type="String" textKind="Tokens" hidden="True"/>
+        <property name="Warrior" type="String" textKind="Tokens" hidden="True"/>
+        <property name="NavComputer" type="String" textKind="Tokens" hidden="True"/>
+        <property name="PermWeapon" type="String" textKind="Tokens" hidden="True"/>
+        <property name="ScompLink" type="String" textKind="Tokens" hidden="True"/>
     </card>
     <table name="Table" visibility="undefined" ordered="False" width="800" height="650" background="background/tabletop.png" backgroundStyle="uniformToFill">
         <cardaction menu="Flip" shortcut="ctrl+f" execute="flip" />

@@ -13,6 +13,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -52,6 +53,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -91,6 +93,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value="PP,WW"/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -130,6 +133,7 @@
         <property name="DarkLocationText" value="If you control, Force drain +1 here for each Death Star site on table also in your control."/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value="2"/>
+        <property name="Icons" value="PL"/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -169,6 +173,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -208,6 +213,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -247,6 +253,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -286,6 +293,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -325,6 +333,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -364,6 +373,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -403,6 +413,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -442,6 +453,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -481,6 +493,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -520,6 +533,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -559,6 +573,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -598,6 +613,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -637,6 +653,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -676,6 +693,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -715,6 +733,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value="PP"/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -754,6 +773,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -793,6 +813,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value="WW"/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -832,6 +853,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -871,6 +893,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value="PP,WW"/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -910,6 +933,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -949,6 +973,7 @@
         <property name="DarkLocationText" value="Your starships may move here as a 'react' (if within range) at any time during the opponent's turn."/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value="5"/>
+        <property name="Icons" value="PL"/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -988,6 +1013,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -1027,6 +1053,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -1066,6 +1093,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -1105,6 +1133,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -1144,6 +1173,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -1183,6 +1213,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value="PP,WW"/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -1222,6 +1253,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value="WW"/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -1261,6 +1293,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -1300,6 +1333,7 @@
         <property name="DarkLocationText" value="If you control, Wrong Turn and Retract The Bridge delploy for free."/>
         <property name="LightLocationText" value="If you control, Force drain +1 here and Death Star Tractor Beam is cancelled."/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value="IN,MO,SL"/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value="1"/>
@@ -1339,6 +1373,7 @@
         <property name="DarkLocationText" value="Add 1 to each of your weapon destiny draws here."/>
         <property name="LightLocationText" value="If you control, Force drain +1 here."/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value="IN,MO"/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value="1"/>
@@ -1378,6 +1413,7 @@
         <property name="DarkLocationText" value="Your docking bay transit from here is free."/>
         <property name="LightLocationText" value="Your docking bay transit from here requires 2 Force."/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value="IN,EX,MO,SL"/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value="1"/>
@@ -1417,6 +1453,7 @@
         <property name="DarkLocationText" value="During your move phase, Imperials may move free from here to any one Death Star site."/>
         <property name="LightLocationText" value="If you control, Force drain +1 here."/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value="IN,MO,SL"/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value="1"/>
@@ -1456,6 +1493,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -1495,6 +1533,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value="WW"/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -1534,6 +1573,7 @@
         <property name="DarkLocationText" value="If you control with a leader here, all Rebel Troopers and Y-wings on table are forfeit -1."/>
         <property name="LightLocationText" value="If you initiate a battle here, add one battle destiny."/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value="IN,MO,SL"/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value="1"/>
@@ -1573,6 +1613,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value="PP,NC,SL"/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -1612,6 +1653,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -1651,6 +1693,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value="WW"/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -1690,6 +1733,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value="PP,WW"/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -1729,6 +1773,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -1768,6 +1813,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value="PP,WW"/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -1807,6 +1853,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value="PP,WW"/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -1846,6 +1893,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -1885,6 +1933,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -1924,6 +1973,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -1963,6 +2013,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -2002,6 +2053,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -2041,6 +2093,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -2080,6 +2133,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value="WW"/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -2119,6 +2173,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -2158,6 +2213,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -2197,6 +2253,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -2236,6 +2293,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -2275,6 +2333,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value="WW"/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -2314,6 +2373,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value="PP,WW"/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -2353,6 +2413,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -2392,6 +2453,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -2431,6 +2493,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -2470,6 +2533,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value="5"/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -2509,6 +2573,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -2548,6 +2613,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -2587,6 +2653,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value="PP,NC,SL"/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -2626,6 +2693,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -2665,6 +2733,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value="PP"/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -2704,6 +2773,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -2743,6 +2813,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -2782,6 +2853,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -2821,6 +2893,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -2860,6 +2933,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -2899,6 +2973,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -2938,6 +3013,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -2977,6 +3053,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -3016,6 +3093,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -3055,6 +3133,7 @@
         <property name="DarkLocationText" value="Your starships deploy -1 here, -2 if Tarkin is present.  If you control, Kessel Run is prevented (cancelled)."/>
         <property name="LightLocationText" value="Total ability of 6 or more required for you to draw battle destiny here."/>
         <property name="Parsec" value="8"/>
+        <property name="Icons" value="PL"/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -3094,6 +3173,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -3133,6 +3213,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -3172,6 +3253,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -3211,6 +3293,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -3250,6 +3333,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -3289,6 +3373,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -3328,6 +3413,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value="PP"/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -3367,6 +3453,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -3406,6 +3493,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -3445,6 +3533,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -3484,6 +3573,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -3523,6 +3613,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -3562,6 +3653,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -3601,6 +3693,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -3640,6 +3733,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -3679,6 +3773,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -3718,6 +3813,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -3757,6 +3853,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -3796,6 +3893,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -3835,6 +3933,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -3874,6 +3973,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -3913,6 +4013,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -3952,6 +4053,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value="WW"/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -3991,6 +4093,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -4030,6 +4133,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -4069,6 +4173,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -4108,6 +4213,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -4147,6 +4253,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -4186,6 +4293,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -4225,6 +4333,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value="PP,WW"/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -4264,6 +4373,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -4303,6 +4413,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -4342,6 +4453,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -4381,6 +4493,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -4420,6 +4533,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -4459,6 +4573,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -4498,6 +4613,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -4537,6 +4653,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -4576,6 +4693,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -4615,6 +4733,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -4654,6 +4773,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -4693,6 +4813,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -4732,6 +4853,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value="WW"/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -4771,6 +4893,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -4810,6 +4933,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -4849,6 +4973,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -4888,6 +5013,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -4927,6 +5053,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -4966,6 +5093,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -5005,6 +5133,7 @@
         <property name="DarkLocationText" value="Your aliens here except Tusken Raiders are each power +1."/>
         <property name="LightLocationText" value="Your aliens here are each forfeit +1."/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value="PL,IN"/>
         <property name="IconPlanet" value="1"/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -5044,6 +5173,7 @@
         <property name="DarkLocationText" value="Your docking bay transit from here requires 1 Force."/>
         <property name="LightLocationText" value="Your docking bay transit from here requires 2 Force."/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value="IN,EX,PL,SL"/>
         <property name="IconPlanet" value="1"/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -5083,6 +5213,7 @@
         <property name="DarkLocationText" value="If you control, for each of your starships here, your total power is +1 in battles at Tatooine sites."/>
         <property name="LightLocationText" value="If you control, for each of your starships here, your total power is +1 in battles at Tatooine sites."/>
         <property name="Parsec" value="7"/>
+        <property name="Icons" value="PL"/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -5122,6 +5253,7 @@
         <property name="DarkLocationText" value="Your Jawas deploy here for 1 Force from you only."/>
         <property name="LightLocationText" value="All your Jawas are power and forfeit -1 here."/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value="EX,PL"/>
         <property name="IconPlanet" value="1"/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -5160,6 +5292,7 @@
         <property name="DarkLocationText" value="Your Tusken Raiders here are each forfeit +1. If you control, Force drain +1 here."/>
         <property name="LightLocationText" value="Total ability of 6 or more required for you to draw battle destiny here."/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value="EX,PL"/>
         <property name="IconPlanet" value="1"/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -5198,6 +5331,7 @@
         <property name="DarkLocationText" value="Add 1 to each of your weapon destiny draws here.  If you control, Force drain +1 here."/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value="EX,PL,SL"/>
         <property name="IconPlanet" value="1"/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -5236,6 +5370,7 @@
         <property name="DarkLocationText" value="Your spies, thieves, bounty hunters and smugglers are each power and forfeit +1 here."/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value="EX,PL"/>
         <property name="IconPlanet" value="1"/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -5274,6 +5409,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -5312,6 +5448,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -5350,6 +5487,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value="PP"/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -5388,6 +5526,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value="PP"/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -5426,6 +5565,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value="PP,NC"/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -5464,6 +5604,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -5502,6 +5643,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value="WW,WW"/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -5523,7 +5665,7 @@
         <property name="Attrition" value="2"/>
         <property name="PilotDark" value=""/>
         <property name="PilotLight" value=""/>
-        <property name="Warrior" value="1"/>
+        <property name="Warrior" value="2"/>
         <property name="NavComputer" value=""/>
         <property name="PermWeapon" value=""/>
         <property name="ScompLink" value=""/>    
@@ -5540,6 +5682,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -5578,6 +5721,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -5616,6 +5760,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -5654,6 +5799,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -5692,6 +5838,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -5730,6 +5877,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -5768,6 +5916,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -5806,6 +5955,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value="NC"/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -5844,6 +5994,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -5882,6 +6033,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -5920,6 +6072,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -5958,6 +6111,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -5996,6 +6150,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -6034,6 +6189,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -6072,6 +6228,7 @@
         <property name="DarkLocationText" value="If you control, for each of your starships here, your total power is +1 in battles at Yavin 4 sites."/>
         <property name="LightLocationText" value="If you control, for each of your starships here, your total power is +1 in battles at Yavin 4 sites."/>
         <property name="Parsec" value="4"/>
+        <property name="Icons" value="PL"/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -6110,6 +6267,7 @@
         <property name="DarkLocationText" value="Your docking bay transit from here requires 1 Force."/>
         <property name="LightLocationText" value="Your docking bay transit from here requires 1 Force."/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value="IN,EX,PL,SL"/>
         <property name="IconPlanet" value="1"/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -6148,6 +6306,7 @@
         <property name="DarkLocationText" value="An Imperial alone here battles at power +2 and is immune to attrition."/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value="EX,PL"/>
         <property name="IconPlanet" value="1"/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -6186,6 +6345,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -6224,6 +6384,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -6262,6 +6423,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -6300,6 +6462,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -6338,6 +6501,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -6376,6 +6540,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -6414,6 +6579,7 @@
         <property name="DarkLocationText" value="If you control, Force drain +1 here."/>
         <property name="LightLocationText" value="Subtract 1 from each of opponent's battle destiny draws here."/>
         <property name="Parsec" value="2"/>
+        <property name="Icons" value="PL"/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -6452,6 +6618,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -6490,6 +6657,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -6528,6 +6696,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -6566,6 +6735,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -6604,6 +6774,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -6642,6 +6813,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value="PP,WW"/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -6680,6 +6852,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -6718,6 +6891,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -6756,6 +6930,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value="PP"/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -6794,6 +6969,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -6832,6 +7008,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -6870,6 +7047,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -6908,6 +7086,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -6946,6 +7125,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -6984,6 +7164,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value="PP,NC,SL"/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -7022,6 +7203,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -7060,6 +7242,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -7098,6 +7281,7 @@
         <property name="DarkLocationText" value="If you control, Force drain +1 here."/>
         <property name="LightLocationText" value="Your capital starships deploy -2 and your starfighters deploy -1 here."/>
         <property name="Parsec" value="5"/>
+        <property name="Icons" value="PL"/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -7136,6 +7320,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value="If you control, Force drain +1 here and all captured characters on Death Star are released."/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value="IN,MO,SL"/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value="1"/>
@@ -7174,6 +7359,7 @@
         <property name="DarkLocationText" value="Your docking bay transit from here requires 1 Force."/>
         <property name="LightLocationText" value="Your docking bay transit from here requires 1 Force."/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value="IN,EX,MO,SL"/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value="1"/>
@@ -7212,6 +7398,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -7250,6 +7437,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value="You may deploy here without presence. If you control, Force drain +1 here."/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value="IN,MO"/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value="1"/>
@@ -7288,6 +7476,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -7326,6 +7515,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -7364,6 +7554,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -7402,6 +7593,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -7440,6 +7632,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -7478,6 +7671,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -7516,6 +7710,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value="PP,WW"/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -7554,6 +7749,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -7592,6 +7788,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -7630,6 +7827,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -7668,6 +7866,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -7706,6 +7905,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -7744,6 +7944,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -7782,6 +7983,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -7820,6 +8022,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -7858,6 +8061,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value="WW"/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -7896,6 +8100,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -7934,6 +8139,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value="NC,SL"/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -7972,6 +8178,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value="SL"/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -8010,6 +8217,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value="PP,WW"/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -8048,6 +8256,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -8086,6 +8295,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -8124,6 +8334,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -8162,6 +8373,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -8200,6 +8412,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -8238,6 +8451,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -8276,6 +8490,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -8314,6 +8529,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -8352,6 +8568,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -8390,6 +8607,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -8428,6 +8646,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -8466,6 +8685,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -8504,6 +8724,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -8542,6 +8763,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -8576,6 +8798,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -8614,6 +8837,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value="PP,WW"/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -8652,6 +8876,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -8690,6 +8915,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value="PP"/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -8728,6 +8954,7 @@
         <property name="DarkLocationText" value="If you control, Kessel run is prevented (cancelled)."/>
         <property name="LightLocationText" value="If you control, Force drain +1 here."/>
         <property name="Parsec" value="8"/>
+        <property name="Icons" value="PL"/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -8766,6 +8993,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -8804,6 +9032,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -8842,6 +9071,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -8880,6 +9110,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -8918,6 +9149,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value="WW"/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -8956,6 +9188,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -8994,6 +9227,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -9032,6 +9266,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -9070,6 +9305,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -9108,6 +9344,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -9146,6 +9383,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -9184,6 +9422,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value="PP,WW"/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -9222,6 +9461,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -9260,6 +9500,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -9298,6 +9539,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value="NC"/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -9336,6 +9578,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -9374,6 +9617,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -9412,6 +9656,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -9450,6 +9695,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -9488,6 +9734,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -9526,6 +9773,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -9564,6 +9812,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value="WW"/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -9602,6 +9851,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -9640,6 +9890,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -9678,6 +9929,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -9716,6 +9968,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -9754,6 +10007,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -9792,6 +10046,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -9830,6 +10085,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -9868,6 +10124,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -9906,6 +10163,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -9944,6 +10202,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value="PP,WW"/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -9982,6 +10241,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -10020,6 +10280,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -10058,6 +10319,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -10096,6 +10358,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -10134,6 +10397,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -10172,6 +10436,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -10210,6 +10475,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -10248,6 +10514,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value="PP"/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -10286,6 +10553,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -10324,6 +10592,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -10362,6 +10631,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value="WW"/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -10400,6 +10670,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value="NC"/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -10438,6 +10709,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -10476,6 +10748,7 @@
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value="PP,WW"/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -10515,6 +10788,7 @@ and fired an unsuccessful shot at the Death Star thermal exhaust port. Served at
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -10553,6 +10827,7 @@ and fired an unsuccessful shot at the Death Star thermal exhaust port. Served at
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -10591,6 +10866,7 @@ and fired an unsuccessful shot at the Death Star thermal exhaust port. Served at
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -10630,6 +10906,7 @@ and fired an unsuccessful shot at the Death Star thermal exhaust port. Served at
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -10668,6 +10945,7 @@ and fired an unsuccessful shot at the Death Star thermal exhaust port. Served at
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -10706,6 +10984,7 @@ and fired an unsuccessful shot at the Death Star thermal exhaust port. Served at
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -10744,6 +11023,7 @@ and fired an unsuccessful shot at the Death Star thermal exhaust port. Served at
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -10782,6 +11062,7 @@ and fired an unsuccessful shot at the Death Star thermal exhaust port. Served at
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -10820,6 +11101,7 @@ and fired an unsuccessful shot at the Death Star thermal exhaust port. Served at
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -10858,6 +11140,7 @@ and fired an unsuccessful shot at the Death Star thermal exhaust port. Served at
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value="WW"/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -10896,6 +11179,7 @@ and fired an unsuccessful shot at the Death Star thermal exhaust port. Served at
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -10934,6 +11218,7 @@ and fired an unsuccessful shot at the Death Star thermal exhaust port. Served at
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -10972,6 +11257,7 @@ and fired an unsuccessful shot at the Death Star thermal exhaust port. Served at
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -11010,6 +11296,7 @@ and fired an unsuccessful shot at the Death Star thermal exhaust port. Served at
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -11048,6 +11335,7 @@ and fired an unsuccessful shot at the Death Star thermal exhaust port. Served at
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -11086,6 +11374,7 @@ and fired an unsuccessful shot at the Death Star thermal exhaust port. Served at
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -11124,6 +11413,7 @@ and fired an unsuccessful shot at the Death Star thermal exhaust port. Served at
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -11162,6 +11452,7 @@ and fired an unsuccessful shot at the Death Star thermal exhaust port. Served at
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -11200,6 +11491,7 @@ and fired an unsuccessful shot at the Death Star thermal exhaust port. Served at
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -11238,6 +11530,7 @@ and fired an unsuccessful shot at the Death Star thermal exhaust port. Served at
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -11276,6 +11569,7 @@ and fired an unsuccessful shot at the Death Star thermal exhaust port. Served at
         <property name="DarkLocationText" value="If you control, for each of your starships here, your total power is +1 in battles at Tatooine sites."/>
         <property name="LightLocationText" value="If you control, for each of your starships here, your total power is +1 in battles at Tattoine sites."/>
         <property name="Parsec" value="7"/>
+        <property name="Icons" value="PL"/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -11314,6 +11608,7 @@ and fired an unsuccessful shot at the Death Star thermal exhaust port. Served at
         <property name="DarkLocationText" value="Your allies here except Tusken Raiders are each forfeit +1."/>
         <property name="LightLocationText" value="Your aliens here are each power +1."/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value="IN,PL"/>
         <property name="IconPlanet" value="1"/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -11352,6 +11647,7 @@ and fired an unsuccessful shot at the Death Star thermal exhaust port. Served at
         <property name="DarkLocationText" value="Your docking bay transit from here requires 2 Force."/>
         <property name="LightLocationText" value="Your docking bay transit from here requires 1 Force."/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value="IN,EX,PL,SL"/>
         <property name="IconPlanet" value="1"/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -11390,6 +11686,7 @@ and fired an unsuccessful shot at the Death Star thermal exhaust port. Served at
         <property name="DarkLocationText" value="Total ability of 6 or more required for you to draw battle destiny here."/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value="EX,PL"/>
         <property name="IconPlanet" value="1"/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -11428,6 +11725,7 @@ and fired an unsuccessful shot at the Death Star thermal exhaust port. Served at
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value="Your Jawas deplay here for 1 Force from you only, for free if Sandcrawler present."/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value="EX,PL"/>
         <property name="IconPlanet" value="1"/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -11466,6 +11764,7 @@ and fired an unsuccessful shot at the Death Star thermal exhaust port. Served at
         <property name="DarkLocationText" value="Add 1 to each of your weapon destiny draws here."/>
         <property name="LightLocationText" value="Beru Lars and Luke deploy -1 here."/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value="EX,PL,SL"/>
         <property name="IconPlanet" value="1"/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -11504,6 +11803,7 @@ and fired an unsuccessful shot at the Death Star thermal exhaust port. Served at
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value="During your control phase, you may move free from here directly to Cantina (or vice versa)."/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value="EX,PL"/>
         <property name="IconPlanet" value="1"/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -11542,6 +11842,7 @@ and fired an unsuccessful shot at the Death Star thermal exhaust port. Served at
         <property name="DarkLocationText" value="If you control, force drain +1 here."/>
         <property name="LightLocationText" value="Obi-Wan is deploy -3 here."/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value="EX,PL"/>
         <property name="IconPlanet" value="1"/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -11580,6 +11881,7 @@ and fired an unsuccessful shot at the Death Star thermal exhaust port. Served at
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -11618,6 +11920,7 @@ and fired an unsuccessful shot at the Death Star thermal exhaust port. Served at
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -11656,6 +11959,7 @@ and fired an unsuccessful shot at the Death Star thermal exhaust port. Served at
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -11694,6 +11998,7 @@ and fired an unsuccessful shot at the Death Star thermal exhaust port. Served at
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -11732,6 +12037,7 @@ and fired an unsuccessful shot at the Death Star thermal exhaust port. Served at
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -11770,6 +12076,7 @@ and fired an unsuccessful shot at the Death Star thermal exhaust port. Served at
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -11808,6 +12115,7 @@ and fired an unsuccessful shot at the Death Star thermal exhaust port. Served at
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -11846,6 +12154,7 @@ and fired an unsuccessful shot at the Death Star thermal exhaust port. Served at
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -11884,6 +12193,7 @@ and fired an unsuccessful shot at the Death Star thermal exhaust port. Served at
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -11922,6 +12232,7 @@ and fired an unsuccessful shot at the Death Star thermal exhaust port. Served at
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -11960,6 +12271,7 @@ and fired an unsuccessful shot at the Death Star thermal exhaust port. Served at
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -11998,6 +12310,7 @@ and fired an unsuccessful shot at the Death Star thermal exhaust port. Served at
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -12036,6 +12349,7 @@ and fired an unsuccessful shot at the Death Star thermal exhaust port. Served at
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -12074,6 +12388,7 @@ and fired an unsuccessful shot at the Death Star thermal exhaust port. Served at
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -12112,6 +12427,7 @@ and fired an unsuccessful shot at the Death Star thermal exhaust port. Served at
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value="PP,NC,SL"/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -12150,6 +12466,7 @@ and fired an unsuccessful shot at the Death Star thermal exhaust port. Served at
         <property name="DarkLocationText" value="If you control, for each of your starships here, your total power is +1 in battles at Yavin 4 sites."/>
         <property name="LightLocationText" value="If you control, for each of your starships here, your total power is +1 in battles at Yavin 4 sites."/>
         <property name="Parsec" value="4"/>
+        <property name="Icons" value="PL"/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -12188,6 +12505,7 @@ and fired an unsuccessful shot at the Death Star thermal exhaust port. Served at
         <property name="DarkLocationText" value="Your docking bay transit from here requires 2 Force."/>
         <property name="LightLocationText" value="Your docking bay transit from here is free."/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value="IN,EX,PL,SL"/>
         <property name="IconPlanet" value="1"/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -12226,6 +12544,7 @@ and fired an unsuccessful shot at the Death Star thermal exhaust port. Served at
         <property name="DarkLocationText" value="If you control, Force drain +1 here."/>
         <property name="LightLocationText" value="A Rebel alone here battles at power +2 and is immune to attrition."/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value="EX,PL"/>
         <property name="IconPlanet" value="1"/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -12264,6 +12583,7 @@ and fired an unsuccessful shot at the Death Star thermal exhaust port. Served at
         <property name="DarkLocationText" value="If you control, Force drain +1 here."/>
         <property name="LightLocationText" value="If this is your starting location, Light Side goes first in game."/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value="IN,PL"/>
         <property name="IconPlanet" value="1"/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -12302,6 +12622,7 @@ and fired an unsuccessful shot at the Death Star thermal exhaust port. Served at
         <property name="DarkLocationText" value="If you initiate a battle here, add one battle destiny."/>
         <property name="LightLocationText" value="If you control with a leader here, all Stormtroopers and TIEs on table are forfeit -1."/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value="IN,PL,SL"/>
         <property name="IconPlanet" value="1"/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -12340,6 +12661,7 @@ and fired an unsuccessful shot at the Death Star thermal exhaust port. Served at
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -12378,6 +12700,7 @@ and fired an unsuccessful shot at the Death Star thermal exhaust port. Served at
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>
@@ -12416,6 +12739,7 @@ and fired an unsuccessful shot at the Death Star thermal exhaust port. Served at
         <property name="DarkLocationText" value=""/>
         <property name="LightLocationText" value=""/>
         <property name="Parsec" value=""/>
+        <property name="Icons" value="PP,NC,SL"/>
         <property name="IconPlanet" value=""/>
         <property name="IconSpace" value=""/>
         <property name="IconMobile" value=""/>

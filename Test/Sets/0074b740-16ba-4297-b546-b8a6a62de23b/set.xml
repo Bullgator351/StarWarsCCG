@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="Markers" id="0074b740-16ba-4297-b546-b8a6a62de23b" gameId="8cf86807-9807-4d88-b8c6-81644c45b65e" gameVersion="3.1.0.0" version="3.1.0.0">
+  <cards>
+    <card id="0042e6ce-45ce-420b-b523-ef62b32e9520" name="ICON ABBREVIATIONS">
+        <property name="Side" value=""/>
+        <property name="Expansion" value=""/>
+        <property name="CardType" value="GameAid"/>
+        <property name="Rarity" value=""/>
+        <property name="Unique" value=""/>
+        <property name="Destiny" value=""/>
+        <property name="DarkLocationForce" value=""/>
+        <property name="LightLocationForce" value=""/>
+        <property name="DarkLocationText" value=""/>
+        <property name="LightLocationText" value=""/>
+        <property name="Parsec" value=""/>
+        <property name="Icons" value=""/>
+        <property name="IconPlanet" value=""/>
+        <property name="IconSpace" value=""/>
+        <property name="IconMobile" value=""/>
+        <property name="IconInterior" value=""/>
+        <property name="IconExterior" value=""/>
+        <property name="IconUnderground" value=""/>
+        <property name="IconCreature" value=""/>
+        <property name="IconVehicle" value=""/>
+        <property name="IconStarship" value=""/>
+        <property name="Lore" value=""/>
+        <property name="Power" value=""/>
+        <property name="Ability" value=""/>
+        <property name="Maneuver" value=""/>
+        <property name="Armor" value=""/>
+        <property name="LandspeedHyperspeed" value=""/>
+        <property name="FirstBox" value=""/>
+        <property name="SecondBox" value=""/>
+        <property name="GameText" value=""/>
+        <property name="Deployment" value=""/>
+        <property name="Attrition" value=""/>
+        <property name="PilotDark" value=""/>
+        <property name="PilotLight" value=""/>
+        <property name="Warrior" value=""/>
+        <property name="NavComputer" value=""/>
+        <property name="PermWeapon" value=""/>
+        <property name="ScompLink" value=""/>
+    </card>
+  </cards>
+</set>
