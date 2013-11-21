@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set name="Rebel Leaders" id="0950fdb9-7479-4283-8368-eb7395730e31" gameId="8cf86807-9807-4d88-b8c6-81644c45b65e" gameVersion="3.1.1.0" version="3.1.1.0">
+  <packaging />
+  <markers />
+  <cards>
+    <card name="*Gold Leader In Gold 1" id="f26c9168-9c42-4237-b759-a168bf97a7c9">
+      <property name="Side" value="Light" />
+      <property name="Expansion" value="Rebel Leader" />
+      <property name="CardType" value="LightStarship" />
+      <property name="Rarity" value="PM" />
+      <property name="Unique" value="1" />
+      <property name="Destiny" value="2" />
+      <property name="DarkLocationForce" value="" />
+      <property name="LightLocationForce" value="" />
+      <property name="DarkLocationText" value="" />
+      <property name="LightLocationText" value="" />
+      <property name="Parsec" value="" />
+      <property name="Icons" value="PP,NC" />
+      <property name="IconPlanet" value="" />
+      <property name="IconSpace" value="" />
+      <property name="IconMobile" value="" />
+      <property name="IconInterior" value="" />
+      <property name="IconExterior" value="" />
+      <property name="IconUnderground" value="" />
+      <property name="IconCreature" value="" />
+      <property name="IconVehicle" value="" />
+      <property name="IconStarship" value="" />
+      <property name="Lore" value="At the Battle of Yavin, Dutch led his squadron of outdated but reliable Y-Wings in the first wave of the assault against the Death Star." />
+      <property name="Power" value="2" />
+      <property name="Ability" value="" />
+      <property name="Maneuver" value="3" />
+      <property name="Armor" value="" />
+      <property name="LandspeedHyperspeed" value="4" />
+      <property name="FirstBox" value="STARFIGHTER: Y-WING" />
+      <property name="SecondBox" value="" />
+      <property name="GameText" value="May add 1 pilot or passenger. Permanent pilot aboard is *Dutch, who provides ability of 2, adds 2 to power and may draw one battle destiny if not able to otherwise." />
+      <property name="Deployment" value="5" />
+      <property name="Attrition" value="4" />
+      <property name="PilotDark" value="" />
+      <property name="PilotLight" value="1" />
+      <property name="Warrior" value="" />
+      <property name="NavComputer" value="1" />
+      <property name="PermWeapon" value="" />
+      <property name="ScompLink" value="" />
+    </card>
+    <card name="*Red Leader In Red 1" id="72591a14-d78c-49d1-b0c6-1344a410f372">
+      <property name="Side" value="Light" />
+      <property name="Expansion" value="Rebel Leaders" />
+      <property name="CardType" value="LightStarship" />
+      <property name="Rarity" value="PM" />
+      <property name="Unique" value="1" />
+      <property name="Destiny" value="2" />
+      <property name="DarkLocationForce" value="" />
+      <property name="LightLocationForce" value="" />
+      <property name="DarkLocationText" value="" />
+      <property name="LightLocationText" value="" />
+      <property name="Parsec" value="" />
+      <property name="Icons" value="PP,NC" />
+      <property name="IconPlanet" value="" />
+      <property name="IconSpace" value="" />
+      <property name="IconMobile" value="" />
+      <property name="IconInterior" value="" />
+      <property name="IconExterior" value="" />
+      <property name="IconUnderground" value="" />
+      <property name="IconCreature" value="" />
+      <property name="IconVehicle" value="" />
+      <property name="IconStarship" value="" />
+      <property name="Lore" value="Called 'Boss' or 'Chief' by his squadron, Garven Dreis was the first pilot to fire proton torpedoes at the Death Star's exhaust port during the Battle of Yavin." />
+      <property name="Power" value="3" />
+      <property name="Ability" value="" />
+      <property name="Maneuver" value="4" />
+      <property name="Armor" value="" />
+      <property name="LandspeedHyperspeed" value="5" />
+      <property name="FirstBox" value="STARFIGHTER: X-WING" />
+      <property name="SecondBox" value="" />
+      <property name="GameText" value="Permanent pilot aboard is *Red Leader, who provides ability of 2, adds 2 to power and may draw one battle destiny if not able to otherwise." />
+      <property name="Deployment" value="6" />
+      <property name="Attrition" value="5" />
+      <property name="PilotDark" value="" />
+      <property name="PilotLight" value="1" />
+      <property name="Warrior" value="" />
+      <property name="NavComputer" value="1" />
+      <property name="PermWeapon" value="" />
+      <property name="ScompLink" value="" />
+    </card>
+  </cards>
+</set>

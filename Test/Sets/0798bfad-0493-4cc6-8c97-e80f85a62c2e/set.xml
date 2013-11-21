@@ -1,0 +1,447 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set name="Jedi Pack" id="0798bfad-0493-4cc6-8c97-e80f85a62c2e" gameId="8cf86807-9807-4d88-b8c6-81644c45b65e" gameVersion="3.1.1.0" version="3.1.1.0">
+  <packaging />
+  <markers />
+  <cards>
+    <card name="*Dark Forces" id="0f641ad6-23e0-43bd-be2b-081d33eb4334">
+      <property name="Side" value="Dark" />
+      <property name="Expansion" value="Jedi Pack" />
+      <property name="CardType" value="DarkEffect" />
+      <property name="Rarity" value="PM" />
+      <property name="Unique" value="1" />
+      <property name="Destiny" value="4" />
+      <property name="DarkLocationForce" value="" />
+      <property name="LightLocationForce" value="" />
+      <property name="DarkLocationText" value="" />
+      <property name="LightLocationText" value="" />
+      <property name="Parsec" value="" />
+      <property name="Icons" value="" />
+      <property name="IconPlanet" value="" />
+      <property name="IconSpace" value="" />
+      <property name="IconMobile" value="" />
+      <property name="IconInterior" value="" />
+      <property name="IconExterior" value="" />
+      <property name="IconUnderground" value="" />
+      <property name="IconCreature" value="" />
+      <property name="IconVehicle" value="" />
+      <property name="IconStarship" value="" />
+      <property name="Lore" value="'The ability to destroy a planet is insignificant next to the power of the force.'" />
+      <property name="Power" value="" />
+      <property name="Ability" value="" />
+      <property name="Maneuver" value="" />
+      <property name="Armor" value="" />
+      <property name="LandspeedHyperspeed" value="" />
+      <property name="FirstBox" value="EFFECT" />
+      <property name="SecondBox" value="" />
+      <property name="GameText" value="Deploy on your side of table.  When Surprise Assault is played, may use 1 Force to add one destiny to your total. Also, when Sense or Alter is played, may use X Force to exclude X Jedi from being the 'highest-ability character.'" />
+      <property name="Deployment" value="" />
+      <property name="Attrition" value="" />
+      <property name="PilotDark" value="" />
+      <property name="PilotLight" value="" />
+      <property name="Warrior" value="" />
+      <property name="NavComputer" value="" />
+      <property name="PermWeapon" value="" />
+      <property name="ScompLink" value="" />
+    </card>
+    <card name="*Eriadu" id="98f754f7-4445-4636-899f-848ae24927fd">
+      <property name="Side" value="Dark" />
+      <property name="Expansion" value="Jedi Pack" />
+      <property name="CardType" value="DarkLocationSystem" />
+      <property name="Rarity" value="PM" />
+      <property name="Unique" value="1" />
+      <property name="Destiny" value="" />
+      <property name="DarkLocationForce" value="1" />
+      <property name="LightLocationForce" value="" />
+      <property name="DarkLocationText" value="Tarkin deploys free here. If you control, all Imperials with ability &gt;2 on table are forfeit +2." />
+      <property name="LightLocationText" value="If you control, Force drain +1 here." />
+      <property name="Parsec" value="1" />
+      <property name="Icons" value="PL" />
+      <property name="IconPlanet" value="1" />
+      <property name="IconSpace" value="" />
+      <property name="IconMobile" value="" />
+      <property name="IconInterior" value="" />
+      <property name="IconExterior" value="" />
+      <property name="IconUnderground" value="" />
+      <property name="IconCreature" value="" />
+      <property name="IconVehicle" value="" />
+      <property name="IconStarship" value="" />
+      <property name="Lore" value="" />
+      <property name="Power" value="" />
+      <property name="Ability" value="" />
+      <property name="Maneuver" value="" />
+      <property name="Armor" value="" />
+      <property name="LandspeedHyperspeed" value="" />
+      <property name="FirstBox" value="" />
+      <property name="SecondBox" value="" />
+      <property name="GameText" value="" />
+      <property name="Deployment" value="" />
+      <property name="Attrition" value="" />
+      <property name="PilotDark" value="" />
+      <property name="PilotLight" value="" />
+      <property name="Warrior" value="" />
+      <property name="NavComputer" value="" />
+      <property name="PermWeapon" value="" />
+      <property name="ScompLink" value="" />
+    </card>
+    <card name="*Gravity Shadow" id="bc4f50ba-23e4-46f5-9015-3e390309343c">
+      <property name="Side" value="Dark" />
+      <property name="Expansion" value="Jedi Pack" />
+      <property name="CardType" value="DarkInterrupt" />
+      <property name="Rarity" value="PM" />
+      <property name="Unique" value="1" />
+      <property name="Destiny" value="4" />
+      <property name="DarkLocationForce" value="" />
+      <property name="LightLocationForce" value="" />
+      <property name="DarkLocationText" value="" />
+      <property name="LightLocationText" value="" />
+      <property name="Parsec" value="" />
+      <property name="Icons" value="" />
+      <property name="IconPlanet" value="" />
+      <property name="IconSpace" value="" />
+      <property name="IconMobile" value="" />
+      <property name="IconInterior" value="" />
+      <property name="IconExterior" value="" />
+      <property name="IconUnderground" value="" />
+      <property name="IconCreature" value="" />
+      <property name="IconVehicle" value="" />
+      <property name="IconStarship" value="" />
+      <property name="Lore" value="'Traveling through hyperspace ain't like dustin' crops, boy!' Gravitational phenomena cast shadows in hyperspace, posing a serious threat to lightspeed navigation." />
+      <property name="Power" value="" />
+      <property name="Ability" value="" />
+      <property name="Maneuver" value="" />
+      <property name="Armor" value="" />
+      <property name="LandspeedHyperspeed" value="" />
+      <property name="FirstBox" value="LOST INTERRUPT" />
+      <property name="SecondBox" value="" />
+      <property name="GameText" value="If opponent's starship has just begun to move through hyperspace, draw destiny. If destiny &gt; pilot's ability, starship must return to original location and may not move this turn. If destiny = pilot's ability, starship is lost." />
+      <property name="Deployment" value="" />
+      <property name="Attrition" value="" />
+      <property name="PilotDark" value="" />
+      <property name="PilotLight" value="" />
+      <property name="Warrior" value="" />
+      <property name="NavComputer" value="" />
+      <property name="PermWeapon" value="" />
+      <property name="ScompLink" value="" />
+    </card>
+    <card name="Hyperroute Navigation Chart" id="deacb334-1a62-40ac-b792-b4075c301856">
+      <property name="Side" value="Dark" />
+      <property name="Expansion" value="Jedi Pack" />
+      <property name="CardType" value="GameAid" />
+      <property name="Rarity" value="PM" />
+      <property name="Unique" value="" />
+      <property name="Destiny" value="" />
+      <property name="DarkLocationForce" value="" />
+      <property name="LightLocationForce" value="" />
+      <property name="DarkLocationText" value="" />
+      <property name="LightLocationText" value="" />
+      <property name="Parsec" value="" />
+      <property name="Icons" value="" />
+      <property name="IconPlanet" value="" />
+      <property name="IconSpace" value="" />
+      <property name="IconMobile" value="" />
+      <property name="IconInterior" value="" />
+      <property name="IconExterior" value="" />
+      <property name="IconUnderground" value="" />
+      <property name="IconCreature" value="" />
+      <property name="IconVehicle" value="" />
+      <property name="IconStarship" value="" />
+      <property name="Lore" value="" />
+      <property name="Power" value="" />
+      <property name="Ability" value="" />
+      <property name="Maneuver" value="" />
+      <property name="Armor" value="" />
+      <property name="LandspeedHyperspeed" value="" />
+      <property name="FirstBox" value="" />
+      <property name="SecondBox" value="" />
+      <property name="GameText" value="" />
+      <property name="Deployment" value="" />
+      <property name="Attrition" value="" />
+      <property name="PilotDark" value="" />
+      <property name="PilotLight" value="" />
+      <property name="Warrior" value="" />
+      <property name="NavComputer" value="" />
+      <property name="PermWeapon" value="" />
+      <property name="ScompLink" value="" />
+    </card>
+    <card name="*Motti" id="cf24dd51-3518-4d55-a568-920dbeb2538e">
+      <property name="Side" value="Dark" />
+      <property name="Expansion" value="Jedi Pack" />
+      <property name="CardType" value="DarkImperial" />
+      <property name="Rarity" value="PM" />
+      <property name="Unique" value="1" />
+      <property name="Destiny" value="1" />
+      <property name="DarkLocationForce" value="" />
+      <property name="LightLocationForce" value="" />
+      <property name="DarkLocationText" value="" />
+      <property name="LightLocationText" value="" />
+      <property name="Parsec" value="" />
+      <property name="Icons" value="PP" />
+      <property name="IconPlanet" value="" />
+      <property name="IconSpace" value="" />
+      <property name="IconMobile" value="" />
+      <property name="IconInterior" value="" />
+      <property name="IconExterior" value="" />
+      <property name="IconUnderground" value="" />
+      <property name="IconCreature" value="" />
+      <property name="IconVehicle" value="" />
+      <property name="IconStarship" value="" />
+      <property name="Lore" value="Considered an overrated leader by many subordinates.  Has a disturbing lack of faith. Became a member of the Death Star's command triumvirate despite his failings." />
+      <property name="Power" value="2" />
+      <property name="Ability" value="2" />
+      <property name="Maneuver" value="" />
+      <property name="Armor" value="" />
+      <property name="LandspeedHyperspeed" value="" />
+      <property name="FirstBox" value="" />
+      <property name="SecondBox" value="" />
+      <property name="GameText" value="" />
+      <property name="Deployment" value="4" />
+      <property name="Attrition" value="3" />
+      <property name="PilotDark" value="1" />
+      <property name="PilotLight" value="" />
+      <property name="Warrior" value="" />
+      <property name="NavComputer" value="" />
+      <property name="PermWeapon" value="" />
+      <property name="ScompLink" value="" />
+    </card>
+    <card name="*Tarkin" id="e34824aa-1ea7-4090-a000-2b6d33b8195b">
+      <property name="Side" value="Dark" />
+      <property name="Expansion" value="Jedi Pack" />
+      <property name="CardType" value="DarkImperial" />
+      <property name="Rarity" value="PM" />
+      <property name="Unique" value="1" />
+      <property name="Destiny" value="1" />
+      <property name="DarkLocationForce" value="" />
+      <property name="LightLocationForce" value="" />
+      <property name="DarkLocationText" value="" />
+      <property name="LightLocationText" value="" />
+      <property name="Parsec" value="" />
+      <property name="Icons" value="" />
+      <property name="IconPlanet" value="" />
+      <property name="IconSpace" value="" />
+      <property name="IconMobile" value="" />
+      <property name="IconInterior" value="" />
+      <property name="IconExterior" value="" />
+      <property name="IconUnderground" value="" />
+      <property name="IconCreature" value="" />
+      <property name="IconVehicle" value="" />
+      <property name="IconStarship" value="" />
+      <property name="Lore" value="Imperial Governor of the Seswenna Sector.  Conceived and implemented the Death Star project. A leader in the effort to crush the rebellion." />
+      <property name="Power" value="2" />
+      <property name="Ability" value="2" />
+      <property name="Maneuver" value="" />
+      <property name="Armor" value="" />
+      <property name="LandspeedHyperspeed" value="" />
+      <property name="FirstBox" value="" />
+      <property name="SecondBox" value="" />
+      <property name="GameText" value="" />
+      <property name="Deployment" value="4" />
+      <property name="Attrition" value="3" />
+      <property name="PilotDark" value="" />
+      <property name="PilotLight" value="" />
+      <property name="Warrior" value="" />
+      <property name="NavComputer" value="" />
+      <property name="PermWeapon" value="" />
+      <property name="ScompLink" value="" />
+    </card>
+    <card name="*For Luck" id="0c893a79-0580-47a6-8fd6-cbf85ae98175">
+      <property name="Side" value="Light" />
+      <property name="Expansion" value="Jedi Pack" />
+      <property name="CardType" value="LightEffect" />
+      <property name="Rarity" value="PM" />
+      <property name="Unique" value="1" />
+      <property name="Destiny" value="4" />
+      <property name="DarkLocationForce" value="" />
+      <property name="LightLocationForce" value="" />
+      <property name="DarkLocationText" value="" />
+      <property name="LightLocationText" value="" />
+      <property name="Parsec" value="" />
+      <property name="Icons" value="" />
+      <property name="IconPlanet" value="" />
+      <property name="IconSpace" value="" />
+      <property name="IconMobile" value="" />
+      <property name="IconInterior" value="" />
+      <property name="IconExterior" value="" />
+      <property name="IconUnderground" value="" />
+      <property name="IconCreature" value="" />
+      <property name="IconVehicle" value="" />
+      <property name="IconStarship" value="" />
+      <property name="Lore" value="Before swinging across the treacherous abyss, Leia gave Luke a kiss for luck.  Despite an incessant storm of laser blasts, they made it." />
+      <property name="Power" value="" />
+      <property name="Ability" value="" />
+      <property name="Maneuver" value="" />
+      <property name="Armor" value="" />
+      <property name="LandspeedHyperspeed" value="" />
+      <property name="FirstBox" value="EFFECT" />
+      <property name="SecondBox" value="" />
+      <property name="GameText" value="Deploy on table. If Counter Assault is played, may use 1 Force to add one destiny to your total. If Sense or Alter just played, may use X Force to exclude X Dark Jedi from being the 'highest-ability character.'" />
+      <property name="Deployment" value="" />
+      <property name="Attrition" value="" />
+      <property name="PilotDark" value="" />
+      <property name="PilotLight" value="" />
+      <property name="Warrior" value="" />
+      <property name="NavComputer" value="" />
+      <property name="PermWeapon" value="" />
+      <property name="ScompLink" value="" />
+    </card>
+    <card name="*Han" id="ad63ab49-3364-49db-98dc-3ca09c861367">
+      <property name="Side" value="Light" />
+      <property name="Expansion" value="Jedi Pack" />
+      <property name="CardType" value="LightAlien" />
+      <property name="Rarity" value="PM" />
+      <property name="Unique" value="1" />
+      <property name="Destiny" value="1" />
+      <property name="DarkLocationForce" value="" />
+      <property name="LightLocationForce" value="" />
+      <property name="DarkLocationText" value="" />
+      <property name="LightLocationText" value="" />
+      <property name="Parsec" value="" />
+      <property name="Icons" value="PP" />
+      <property name="IconPlanet" value="" />
+      <property name="IconSpace" value="" />
+      <property name="IconMobile" value="" />
+      <property name="IconInterior" value="" />
+      <property name="IconExterior" value="" />
+      <property name="IconUnderground" value="" />
+      <property name="IconCreature" value="" />
+      <property name="IconVehicle" value="" />
+      <property name="IconStarship" value="" />
+      <property name="Lore" value="Corellian. Graduated with honors from the Imperial Academy.  Dishonorably discharged.  Wanders the galaxy building a reputation as a gambler and hot-shot pilot." />
+      <property name="Power" value="2" />
+      <property name="Ability" value="2" />
+      <property name="Maneuver" value="" />
+      <property name="Armor" value="" />
+      <property name="LandspeedHyperspeed" value="" />
+      <property name="FirstBox" value="" />
+      <property name="SecondBox" value="" />
+      <property name="GameText" value="" />
+      <property name="Deployment" value="4" />
+      <property name="Attrition" value="3" />
+      <property name="PilotDark" value="" />
+      <property name="PilotLight" value="1" />
+      <property name="Warrior" value="" />
+      <property name="NavComputer" value="" />
+      <property name="PermWeapon" value="" />
+      <property name="ScompLink" value="" />
+    </card>
+    <card name="*Leia" id="302ea99a-ec9b-496c-8556-23f57b8a63d7">
+      <property name="Side" value="Light" />
+      <property name="Expansion" value="Jedi Pack" />
+      <property name="CardType" value="LightRebel" />
+      <property name="Rarity" value="PM" />
+      <property name="Unique" value="1" />
+      <property name="Destiny" value="1" />
+      <property name="DarkLocationForce" value="" />
+      <property name="LightLocationForce" value="" />
+      <property name="DarkLocationText" value="" />
+      <property name="LightLocationText" value="" />
+      <property name="Parsec" value="" />
+      <property name="Icons" value="" />
+      <property name="IconPlanet" value="" />
+      <property name="IconSpace" value="" />
+      <property name="IconMobile" value="" />
+      <property name="IconInterior" value="" />
+      <property name="IconExterior" value="" />
+      <property name="IconUnderground" value="" />
+      <property name="IconCreature" value="" />
+      <property name="IconVehicle" value="" />
+      <property name="IconStarship" value="" />
+      <property name="Lore" value="Adopted daughter of the Viceroy and First Chairman of Alderaan. Became a political leader at a young age. The injustices of the New Order led her to join the rebellion." />
+      <property name="Power" value="2" />
+      <property name="Ability" value="2" />
+      <property name="Maneuver" value="" />
+      <property name="Armor" value="" />
+      <property name="LandspeedHyperspeed" value="" />
+      <property name="FirstBox" value="" />
+      <property name="SecondBox" value="" />
+      <property name="GameText" value="" />
+      <property name="Deployment" value="4" />
+      <property name="Attrition" value="3" />
+      <property name="PilotDark" value="" />
+      <property name="PilotLight" value="" />
+      <property name="Warrior" value="" />
+      <property name="NavComputer" value="" />
+      <property name="PermWeapon" value="" />
+      <property name="ScompLink" value="" />
+    </card>
+    <card name="*Luke's T-16 Skyhopper" id="9468f242-4cbb-4301-b26c-4fa5176471fd">
+      <property name="Side" value="Light" />
+      <property name="Expansion" value="Jedi Pack" />
+      <property name="CardType" value="LightVehicle" />
+      <property name="Rarity" value="PM" />
+      <property name="Unique" value="1" />
+      <property name="Destiny" value="4" />
+      <property name="DarkLocationForce" value="" />
+      <property name="LightLocationForce" value="" />
+      <property name="DarkLocationText" value="" />
+      <property name="LightLocationText" value="" />
+      <property name="Parsec" value="" />
+      <property name="Icons" value="" />
+      <property name="IconPlanet" value="" />
+      <property name="IconSpace" value="" />
+      <property name="IconMobile" value="" />
+      <property name="IconInterior" value="" />
+      <property name="IconExterior" value="" />
+      <property name="IconUnderground" value="" />
+      <property name="IconCreature" value="" />
+      <property name="IconVehicle" value="" />
+      <property name="IconStarship" value="" />
+      <property name="Lore" value="Enclosed vehicle used by Luke Skywalker for his early pilot training. Often raced with Biggs Darklighter through Beggar's Canyon." />
+      <property name="Power" value="2" />
+      <property name="Ability" value="" />
+      <property name="Maneuver" value="5" />
+      <property name="Armor" value="" />
+      <property name="LandspeedHyperspeed" value="*" />
+      <property name="FirstBox" value="SHUTTLE VEHICLE" />
+      <property name="SecondBox" value="" />
+      <property name="GameText" value="Requires 1 pilot to use. May carry 1 passenger. May move as a 'react'. May 'bullseye' one Womp Rat per turn. *Landspeed = 4. OR character may shuttle to or from same site for free." />
+      <property name="Deployment" value="2" />
+      <property name="Attrition" value="4" />
+      <property name="PilotDark" value="" />
+      <property name="PilotLight" value="" />
+      <property name="Warrior" value="" />
+      <property name="NavComputer" value="" />
+      <property name="PermWeapon" value="" />
+      <property name="ScompLink" value="" />
+    </card>
+    <card name="*Tedn Dehai" id="805852b2-23f8-4f5f-bdd1-9d613c5fcf63">
+      <property name="Side" value="Light" />
+      <property name="Expansion" value="Jedi Pack" />
+      <property name="CardType" value="DarkAlien" />
+      <property name="Rarity" value="PM" />
+      <property name="Unique" value="1" />
+      <property name="Destiny" value="3" />
+      <property name="DarkLocationForce" value="" />
+      <property name="LightLocationForce" value="" />
+      <property name="DarkLocationText" value="" />
+      <property name="LightLocationText" value="" />
+      <property name="Parsec" value="" />
+      <property name="Icons" value="" />
+      <property name="IconPlanet" value="" />
+      <property name="IconSpace" value="" />
+      <property name="IconMobile" value="" />
+      <property name="IconInterior" value="" />
+      <property name="IconExterior" value="" />
+      <property name="IconUnderground" value="" />
+      <property name="IconCreature" value="" />
+      <property name="IconVehicle" value="" />
+      <property name="IconStarship" value="" />
+      <property name="Lore" value="Male Bith musician. Member in good standing of the Intergalactic Federation of Musicians. Plays the Fanfar in Figrin D'an's band. Once worked for the Empire as a scout." />
+      <property name="Power" value="1" />
+      <property name="Ability" value="1" />
+      <property name="Maneuver" value="" />
+      <property name="Armor" value="" />
+      <property name="LandspeedHyperspeed" value="" />
+      <property name="FirstBox" value="" />
+      <property name="SecondBox" value="" />
+      <property name="GameText" value="For each other musician at same site, during any control phase you may use 1 Force to choose one opponent's alien present. That alien cannot utilize its game text for remainder of that turn." />
+      <property name="Deployment" value="2" />
+      <property name="Attrition" value="4" />
+      <property name="PilotDark" value="" />
+      <property name="PilotLight" value="" />
+      <property name="Warrior" value="" />
+      <property name="NavComputer" value="" />
+      <property name="PermWeapon" value="" />
+      <property name="ScompLink" value="" />
+    </card>
+  </cards>
+</set>

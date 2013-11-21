@@ -2042,6 +2042,41 @@
             </link>
         </textblocks>
     </template>
+    <template src="proxy/LightVehicleShuttle.jpg" default="False">
+        <matches>
+            <match name="CardType" value="LightVehicle" />
+            <match name="FirstBox" value="SHUTTLE VEHICLE" />
+        </matches>
+        <textblocks>
+            <link block="Light_Card_name">
+                <property name="Name"/>
+            </link>
+            <link block="Light_Destiny">
+                <property name="Destiny" />
+            </link>
+            <link block="Light_Vehicle_Lore">
+                <property name="Lore" />
+            </link>
+            <link block="Light_Vehicle_Power">
+                <property name="Power" />
+            </link>
+            <link block="Light_Vehicle_Maneuver">
+                <property name="Maneuver" />
+            </link>
+            <link block="Light_Vehicle_Landspeed">
+                <property name="LandspeedHyperspeed"/>
+            </link>
+            <link block="Light_Vehicle_Game_text">
+                <property name="GameText" />
+            </link>
+            <link block="Light_Vehicle_Deploy_Cost">
+                <property name="Deployment"/>
+            </link>
+            <link block="Light_Vehicle_Attrition">
+                <property name="Attrition"/>
+            </link>
+        </textblocks>
+    </template>
     <template src="proxy/LightVehicleTransportArmor.jpg" default="False">
         <matches>
             <match name="CardType" value="LightVehicle" />
@@ -2186,5 +2221,10 @@
                 <property name="Destiny" />
             </link>
         </textblocks>
+    </template>
+    <template src="proxy/hyperroutenavigationchart.jpg" default="False">
+        <matches>
+            <match name="Name" value="Hyperroute Navigation Chart" />
+        </matches>
     </template>
 </templates>
