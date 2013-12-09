@@ -284,7 +284,7 @@
     <card id="73045d07-6ccd-4d09-9071-036143a499c9" name="Commence Primary Ignition">
         <property name="Side" value="Dark"/>
         <property name="Expansion" value="A New Hope"/>
-        <property name="CardType" value="EpicEvent"/>
+        <property name="CardType" value="DarkEventEpic"/>
         <property name="Rarity" value="R2"/>
         <property name="Unique" value=""/>
         <property name="Destiny" value="0"/>
@@ -311,7 +311,7 @@
         <property name="LandspeedHyperspeed" value=""/>
         <property name="FirstBox" value=""/>
         <property name="SecondBox" value=""/>
-        <property name="GameText" value="During your control phase, fire Superlaser as follows: Name The System: Use X Force to target a planet system Death Star is orbiting. You May Fire When Ready: Draw destiny. Stand By: If (destiny+Y-Z)&gt;8, target system is 'blown away' and this card is lost. Otherwise, this card is used and one Death Star Gunner on table is lost (your choice). X=total sites at target. Y=total Death Star sites where opponent has no presence. Z=opponent's choice of X or total sites at one Rebel Base (Yavin 4 or Hoth.)"/>
+        <property name="GameText" value="During your control phase, fire Superlaser as follows: Name The System:Use X Force to target a planet system Death Star is orbiting. You May Fire When Ready:Draw destiny. Stand By:If (destiny+Y-Z)&gt;8, target system is 'blown away' and this card is lost. Otherwise, this card is used and one Death Star Gunner on table is lost (your choice). X=total sites at target. Y=total Death Star sites where opponent has no presence. Z=opponent's choice of X or total sites at one Rebel Base (Yavin 4 or Hoth.)"/>
         <property name="Deployment" value=""/>
         <property name="Attrition" value=""/>
         <property name="PilotDark" value=""/>
@@ -2444,7 +2444,7 @@
     <card id="9dbd0d07-01d4-4452-a562-6656aebb5f15" name="*Spice Mines Of Kessel">
         <property name="Side" value="Dark"/>
         <property name="Expansion" value="A New Hope"/>
-        <property name="CardType" value="DarkEffectUtinni"/>
+        <property name="CardType" value="DarkEffect"/>
         <property name="Rarity" value="R1"/>
         <property name="Unique" value="1"/>
         <property name="Destiny" value="4"/>

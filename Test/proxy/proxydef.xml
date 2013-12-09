@@ -94,6 +94,11 @@
             <text color="#FFFFFF" size="16" font="fonts/FRADMCN.TTF"/>
             <wordwrap height="150" width="250" />
         </block>
+        <block type="text" id="Dark_Event_Epic_Game_text">
+            <location x="60" y="200" />
+            <text color="#FFFFFF" size="14" font="fonts/FRADMCN.TTF"/>
+            <wordwrap height="300" width="250"/>
+        </block>
         <block type="text" id="Dark_Imperial_Lore">
             <location x="67" y="82"/>
             <text color="#FFFFFF" size="14" font="fonts/arialn.ttf"/>
@@ -883,6 +888,22 @@
             <link block="Dark_Effect_Game_text">
                 <property name="GameText" />
             </link>            
+        </textblocks>
+    </template>
+    <template src="proxy/DarkEventEpic.jpg" default="False">
+        <matches>
+            <match name="CardType" value="DarkEventEpic" />
+        </matches>
+        <textblocks>
+            <link block="Dark_Card_name">
+                <property name="Name"/>
+            </link>
+            <link block="Dark_Destiny">
+                <property name="Destiny"/>
+            </link>
+            <link block="Dark_Event_Epic_Game_text">
+                <property name="GameText"/>
+            </link>
         </textblocks>
     </template>
     <template src="proxy/DarkImperial.jpg" default="False">
