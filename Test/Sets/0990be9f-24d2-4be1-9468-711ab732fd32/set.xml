@@ -1311,7 +1311,7 @@
         <property name="LandspeedHyperspeed" value=""/>
         <property name="FirstBox" value="INTERROGATOR DROID"/>
         <property name="SecondBox" value=""/>
-        <property name="GameText" value=""/>
+        <property name="GameText" value="When at Detention Block Corridor during the control phase, your Force drains there are +X where X = the number of captives present. Immune to Restraining Bolt."/>
         <property name="Deployment" value="3"/>
         <property name="Attrition" value="1"/>
         <property name="PilotDark" value=""/>
@@ -1543,7 +1543,7 @@
         <property name="IconCreature" value=""/>
         <property name="IconVehicle" value=""/>
         <property name="IconStarship" value=""/>
-        <property name="Lore" value=""/>
+        <property name="Lore" value="Military version of a 'remote.' Programmed to stalk specific targets or secondary targets. Heat and light sensors track with fatal accuracy. Can stow away on starships."/>
         <property name="Power" value=""/>
         <property name="Ability" value=""/>
         <property name="Maneuver" value=""/>

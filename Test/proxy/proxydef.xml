@@ -44,6 +44,40 @@
             <location x="32" y="448" />
             <text color="#FFFFFF" size="16" font="fonts/FRADM.TTF" />
         </block>
+        <block type="text" id="Dark_Creature_name">
+            <location x="74" y="28" />
+            <text color="#FFFFFF" size="19" font="fonts/54251___.TTF" />
+        </block>
+        <block type="text" id="Dark_Creature_Destiny">
+            <location x="307" y="31" />
+            <text color="#FFFFFF" size="20" font="fonts/FRADM.TTF"/>
+        </block> 
+        <block type="text" id="Dark_Creature_Lore">
+            <location x="67" y="82"/>
+            <text color="#FFFFFF" size="14" font="fonts/arialn.ttf"/>
+            <wordwrap height="150" width="230" />
+        </block>
+        <block type="text" id="Dark_Creature_Ferocity">
+            <location x="115" y="272" />
+            <text color="#FFFFFF" size="16" font="fonts/FRADM.TTF" />
+        </block>
+        <block type="text" id="Dark_Creature_Slither">
+            <location x="205" y="270" />
+            <text color="#FFFFFF" size="16" font="fonts/FRADM.TTF" />
+        </block>
+        <block type="text" id="Dark_Creature_Game_text">
+            <location x="70" y="313" />
+            <text color="#FFFFFF" size="16" font="fonts/FRADMCN.TTF"/>
+            <wordwrap height="150" width="230" />
+        </block>
+        <block type="text" id="Dark_Creature_Deploy_Cost">
+            <location x="29" y="425"/>
+            <text color="#000000" size="16" font="fonts/FRADM.TTF" />
+        </block>
+        <block type="text" id="Dark_Creature_Attrition">
+            <location x="29" y="449" />
+            <text color="#FFFFFF" size="16" font="fonts/FRADM.TTF" />
+        </block>
         <block type="text" id="Dark_Device_Lore">
             <location x="67" y="82"/>
             <text color="#FFFFFF" size="14" font="fonts/arialn.ttf"/>
@@ -249,6 +283,26 @@
             <wordwrap height="80" width="415" />
         </block>
 <!-- -->
+<!-- LOCATION - SPECIAL (DARK) -->
+<!-- -->
+<!-- -->
+<!-- DEATH STAR -->
+<!-- -->
+        <block type="text" id="Dark_Death_Star_name">
+            <location x="113" y="339"/>
+            <text color="#FFFFFF" size="20" font="fonts/54251___.TTF" />
+            <wordwrap height="20" width="180" />
+        </block>
+        <block type="text" id="Dark_Death_Star_text">
+            <location x="55" y="373" />
+            <text color="#FFFFFF" size="16" font="fonts/FRADMCN.TTF" />
+            <wordwrap height="120" width="255" />
+        </block>
+        <block type="text" id="Dark_Death_Star_parsec">
+            <location x="299" y="339" />
+            <text color="#FFFFFF" size="18" font="fonts/FRADM.TTF" />
+        </block>
+<!-- -->
 <!-- LOCATION - SYSTEMS (DARK) -->
 <!-- -->
         <block type="text" id="Dark_System_Dark_name">
@@ -259,7 +313,7 @@
             <location x="106" y="79" />
             <text color="#000000" size="18" font="fonts/54251___.TTF" />
         </block>
-        <block type="text" id="Dark_System_Dark_text">
+        <block type="text" id="Dark_System_Dark_text">  
             <location x="52" y="450" />
             <text color="#FFFFFF" size="16" font="fonts/TCCM____.TTF" />
             <wordwrap height="40" width="280" />
@@ -564,6 +618,9 @@
         <block type="overlay" id="Dark_Ship_Scomp_Link" src="proxy/Scomp-Link.png">
             <location x="29" y="309"/>
         </block>
+        <block type="overlay" id="Dark_ANH_icon" src="proxy/DarkANHicon.png">
+            <location x="316" y="72"/>
+        </block>
 <!-- -->
 <!-- DARK LOCATIONS -->
 <!-- -->
@@ -616,6 +673,27 @@
         </block>
         <block type="overlay" id="Dark-Site-Interior2" src="proxy/Interior.png">
             <location x="85" y="165" />
+        </block>
+        <block type="overlay" id="Dark_Site_ANH_icon" src="proxy/DarkANHicon.png">
+            <location x="19" y="290" />
+        </block>
+<!-- -->
+<!-- DARK SPECIAL -->
+<!-- -->
+<!-- -->
+<!-- DEATH STAR -->
+<!-- -->
+        <block type="overlay" id="Dark_Death_Star_Force1" src="proxy/Force-Dark.png">
+            <location x="43" y="339" />
+        </block>
+        <block type="overlay" id="Dark_Death_Star_Force2" src="proxy/Force-Dark2.png">
+            <location x="43" y="339" />
+        </block>
+        <block type="overlay" id="Dark_Death_Star_Force3" src="proxy/Force-Dark3.png">
+            <location x="43" y="339" />
+        </block>
+        <block type="overlay" id="Dark-Death-Star-Mobile1" src="proxy/Mobile.png">
+            <location x="270" y="338" />
         </block>
 <!-- -->
 <!-- DARK SYSTEM ICONS -->
@@ -750,6 +828,13 @@
                     </case>
                 </switch>
             </conditional>
+            <conditional>
+                <switch property="Expansion">
+                    <case value="A New Hope">
+                        <link block="Dark_ANH_icon"/>
+                    </case>
+                </switch>
+            </conditional>
         </overlayblocks>
         <textblocks>
             <link block="Dark_Card_name">
@@ -781,10 +866,59 @@
             </link>
         </textblocks>
     </template>
+    <template src="proxy/DarkCreature.jpg" default="False">
+        <matches>
+            <match name="CardType" value="DarkCreature" />
+        </matches>
+        <overlayblocks>
+            <conditional>
+                <switch property="Expansion">
+                    <case value="A New Hope">
+                        <link block="Dark_ANH_icon"/>
+                    </case>
+                </switch>
+            </conditional>
+        </overlayblocks>
+        <textblocks>
+            <link block="Dark_Creature_name">
+                <property name="Name"/>
+            </link>
+            <link block="Dark_Creature_Destiny">
+                <property name="Destiny" />
+            </link>
+            <link block="Dark_Creature_Lore">
+                <property name="Lore" />
+            </link>
+            <link block="Dark_Creature_Ferocity">
+                <property name="Power" />
+            </link>
+            <link block="Dark_Creature_Slither">
+                <property name="Maneuver" />
+            </link>
+            <link block="Dark_Creature_Game_text">
+                <property name="GameText" />
+            </link>
+            <link block="Dark_Creature_Deploy_Cost" >
+                <property name="Deployment" />
+            </link>
+            <link block="Dark_Creature_Attrition">
+                <property name="Attrition" />
+            </link>
+        </textblocks>
+    </template>
     <template src="proxy/DarkDevice.jpg" default="False">
         <matches>
             <match name="CardType" value="DarkDevice" />
         </matches>
+        <overlayblocks>
+            <conditional>
+                <switch property="Expansion">
+                    <case value="A New Hope">
+                        <link block="Dark_ANH_icon"/>
+                    </case>
+                </switch>
+            </conditional>
+        </overlayblocks>
         <textblocks>
             <link block="Dark_Card_name">
                 <property name="Name"/>
@@ -816,6 +950,13 @@
                 <switch property="Warrior">
                     <case value="1">
                         <link block="Dark_Warrior" />
+                    </case>
+                </switch>
+            </conditional>
+            <conditional>
+                <switch property="Expansion">
+                    <case value="A New Hope">
+                        <link block="Dark_ANH_icon"/>
                     </case>
                 </switch>
             </conditional>
@@ -855,6 +996,44 @@
             <match name="CardType" value="DarkEffect" />
             <match name="FirstBox" value="EFFECT" />
         </matches>
+        <overlayblocks>
+            <conditional>
+                <switch property="Expansion">
+                    <case value="A New Hope">
+                        <link block="Dark_ANH_icon"/>
+                    </case>
+                </switch>
+            </conditional>
+        </overlayblocks>
+        <textblocks>
+            <link block="Dark_Card_name">
+                <property name="Name"/>
+            </link>
+            <link block="Dark_Destiny">
+                <property name="Destiny" />
+            </link>
+            <link block="Dark_Effect_Lore">
+                <property name="Lore" />
+            </link>
+            <link block="Dark_Effect_Game_text">
+                <property name="GameText" />
+            </link>            
+        </textblocks>
+    </template>
+    <template src="proxy/DarkEffectImmediate.jpg" default="False">
+        <matches>
+            <match name="CardType" value="DarkEffect"/>
+            <match name="FirstBox" value="IMMEDIATE EFFECT"/>
+        </matches>
+        <overlayblocks>
+            <conditional>
+                <switch property="Expansion">
+                    <case value="A New Hope">
+                        <link block="Dark_ANH_icon"/>
+                    </case>
+                </switch>
+            </conditional>
+        </overlayblocks>
         <textblocks>
             <link block="Dark_Card_name">
                 <property name="Name"/>
@@ -875,6 +1054,15 @@
             <match name="CardType" value="DarkEffect"/>
             <match name="FirstBox" value="UTINNI EFFECT"/>
         </matches>
+        <overlayblocks>
+            <conditional>
+                <switch property="Expansion">
+                    <case value="A New Hope">
+                        <link block="Dark_ANH_icon"/>
+                    </case>
+                </switch>
+            </conditional>
+        </overlayblocks>
         <textblocks>
             <link block="Dark_Card_name">
                 <property name="Name"/>
@@ -894,6 +1082,15 @@
         <matches>
             <match name="CardType" value="DarkEventEpic" />
         </matches>
+        <overlayblocks>
+            <conditional>
+                <switch property="Expansion">
+                    <case value="A New Hope">
+                        <link block="Dark_ANH_icon"/>
+                    </case>
+                </switch>
+            </conditional>
+        </overlayblocks>
         <textblocks>
             <link block="Dark_Card_name">
                 <property name="Name"/>
@@ -922,6 +1119,13 @@
                 <switch property="Warrior">
                     <case value="1">
                         <link block="Dark_Warrior" />
+                    </case>
+                </switch>
+            </conditional>
+            <conditional>
+                <switch property="Expansion">
+                    <case value="A New Hope">
+                        <link block="Dark_ANH_icon"/>
                     </case>
                 </switch>
             </conditional>
@@ -961,6 +1165,15 @@
             <match name="CardType" value="DarkInterrupt" />
             <match name="FirstBox" value="LOST INTERRUPT" />
         </matches>
+        <overlayblocks>
+            <conditional>
+                <switch property="Expansion">
+                    <case value="A New Hope">
+                        <link block="Dark_ANH_icon"/>
+                    </case>
+                </switch>
+            </conditional>
+        </overlayblocks>
         <textblocks>
             <link block="Dark_Card_name">
                 <property name="Name"/>
@@ -981,6 +1194,44 @@
             <match name="CardType" value="DarkInterrupt" />
             <match name="FirstBox" value="USED INTERRUPT" />
         </matches>
+        <overlayblocks>
+            <conditional>
+                <switch property="Expansion">
+                    <case value="A New Hope">
+                        <link block="Dark_ANH_icon"/>
+                    </case>
+                </switch>
+            </conditional>
+        </overlayblocks>
+        <textblocks>
+            <link block="Dark_Card_name">
+                <property name="Name"/>
+            </link>
+            <link block="Dark_Destiny">
+                <property name="Destiny" />
+            </link>
+            <link block="Dark_Interrupt_Lore">
+                <property name="Lore" />
+            </link>
+            <link block="Dark_Interrupt_Game_text">
+                <property name="GameText" />
+            </link>
+        </textblocks>
+    </template>
+    <template src="proxy/DarkInterruptUsedorLost.jpg" default="False">
+        <matches>
+            <match name="CardType" value="DarkInterrupt" />
+            <match name="FirstBox" value="USED OR LOST INTERRUPT" />
+        </matches>
+        <overlayblocks>
+            <conditional>
+                <switch property="Expansion">
+                    <case value="A New Hope">
+                        <link block="Dark_ANH_icon"/>
+                    </case>
+                </switch>
+            </conditional>
+        </overlayblocks>
         <textblocks>
             <link block="Dark_Card_name">
                 <property name="Name"/>
@@ -1067,6 +1318,13 @@
                     </case>
                 </switch>
             </conditional>
+            <conditional>
+                <switch property="Expansion">
+                    <case value="A New Hope">
+                        <link block="Dark_Site_ANH_icon"/>
+                    </case>
+                </switch>
+            </conditional>
         </overlayblocks>
         <textblocks>
             <link block="Dark_Site_Dark_name">
@@ -1136,6 +1394,44 @@
             </link>
         </textblocks>
     </template>
+    <template src="proxy/DarkSpecialDeathStar.jpg" default="False">
+        <matches>
+            <match name="Name" value="*Death Star" />
+        </matches>
+        <overlayblocks>
+            <conditional>
+                <switch property="DarkLocationForce">
+                    <case value="1">
+                        <link block="Dark_Death_Star_Force1" />
+                    </case>
+                    <case value="2">
+                        <link block="Dark_Death_Star_Force2" />
+                    </case>
+                    <case value="3">
+                        <link block="Dark_Death_Star_Force3" />
+                    </case>
+                </switch>
+            </conditional>
+            <conditional>
+                <switch property="IconMobile" >
+                    <case value="1">
+                        <link block="Dark-Death-Star-Mobile1" />
+                    </case>
+                </switch>
+            </conditional>
+        </overlayblocks>
+        <textblocks>
+            <link block="Dark_Death_Star_name">
+                <property name="Name"/>
+            </link>
+            <link block="Dark_Death_Star_text">
+                <property name="DarkLocationText" />
+            </link>
+            <link block="Dark_Death_Star_parsec">
+                <property name="Parsec"/>
+            </link>
+        </textblocks>
+    </template>
     <template src="proxy/DarkStarshipCapital.jpg" default="False">
         <matches>
             <match name="CardType" value="DarkStarship" />
@@ -1160,6 +1456,13 @@
                 <switch property="ScompLink">
                     <case value="1">
                         <link block="Dark_Ship_Scomp_Link" />
+                    </case>
+                </switch>
+            </conditional>
+            <conditional>
+                <switch property="Expansion">
+                    <case value="A New Hope">
+                        <link block="Dark_ANH_icon"/>
                     </case>
                 </switch>
             </conditional>
@@ -1225,6 +1528,13 @@
                     </case>
                 </switch>
             </conditional>
+            <conditional>
+                <switch property="Expansion">
+                    <case value="A New Hope">
+                        <link block="Dark_ANH_icon"/>
+                    </case>
+                </switch>
+            </conditional>
         </overlayblocks>
         <textblocks>
             <link block="Dark_Card_name">
@@ -1286,6 +1596,13 @@
                     </case>
                 </switch>
             </conditional>
+            <conditional>
+                <switch property="Expansion">
+                    <case value="A New Hope">
+                        <link block="Dark_ANH_icon"/>
+                    </case>
+                </switch>
+            </conditional>
         </overlayblocks>
         <textblocks>
             <link block="Dark_Card_name">
@@ -1325,6 +1642,60 @@
             <match name="CardType" value="DarkVehicle" />
             <match name="FirstBox" value="CREATURE VEHICLE" />
         </matches>
+        <overlayblocks>
+            <conditional>
+                <switch property="Expansion">
+                    <case value="A New Hope">
+                        <link block="Dark_ANH_icon"/>
+                    </case>
+                </switch>
+            </conditional>
+        </overlayblocks>
+        <textblocks>
+            <link block="Dark_Card_name">
+                <property name="Name"/>
+            </link>
+            <link block="Dark_Destiny">
+                <property name="Destiny" />
+            </link>
+            <link block="Dark_Vehicle_Lore">
+                <property name="Lore" />
+            </link>
+            <link block="Dark_Vehicle_Power">
+                <property name="Power" />
+            </link>
+            <link block="Dark_Vehicle_Maneuver">
+                <property name="Maneuver" />
+            </link>
+            <link block="Dark_Vehicle_Landspeed">
+                <property name="LandspeedHyperspeed"/>
+            </link>
+            <link block="Dark_Vehicle_Game_text">
+                <property name="GameText" />
+            </link>
+            <link block="Dark_Vehicle_Deploy_Cost">
+                <property name="Deployment"/>
+            </link>
+            <link block="Dark_Vehicle_Attrition">
+                <property name="Attrition"/>
+            </link>
+        </textblocks>
+    </template>
+    <template src="proxy/DarkVehicleShuttle.jpg" default="False">
+        <matches>
+            <match name="CardType" value="DarkVehicle" />
+            <match name="FirstBox" value="SHUTTLE VEHICLE" />
+            <match name="Armor" value=""/>
+        </matches>
+        <overlayblocks>
+            <conditional>
+                <switch property="Expansion">
+                    <case value="A New Hope">
+                        <link block="Dark_ANH_icon"/>
+                    </case>
+                </switch>
+            </conditional>
+        </overlayblocks>
         <textblocks>
             <link block="Dark_Card_name">
                 <property name="Name"/>
@@ -1361,6 +1732,15 @@
             <match name="FirstBox" value="TRANSPORT VEHICLE" />
             <match name="Maneuver" value=""/>
         </matches>
+        <overlayblocks>
+            <conditional>
+                <switch property="Expansion">
+                    <case value="A New Hope">
+                        <link block="Dark_ANH_icon"/>
+                    </case>
+                </switch>
+            </conditional>
+        </overlayblocks>
         <textblocks>
             <link block="Dark_Card_name">
                 <property name="Name"/>
@@ -1397,6 +1777,15 @@
             <match name="FirstBox" value="TRANSPORT VEHICLE" />
             <match name="Armor" value=""/>
         </matches>
+        <overlayblocks>
+            <conditional>
+                <switch property="Expansion">
+                    <case value="A New Hope">
+                        <link block="Dark_ANH_icon"/>
+                    </case>
+                </switch>
+            </conditional>
+        </overlayblocks>
         <textblocks>
             <link block="Dark_Card_name">
                 <property name="Name"/>
@@ -1432,6 +1821,15 @@
             <match name="CardType" value="DarkWeapon" />
             <match name="FirstBox" value="AUTOMATED WEAPON" />
         </matches>
+        <overlayblocks>
+            <conditional>
+                <switch property="Expansion">
+                    <case value="A New Hope">
+                        <link block="Dark_ANH_icon"/>
+                    </case>
+                </switch>
+            </conditional>
+        </overlayblocks>
         <textblocks>
             <link block="Dark_Card_name">
                 <property name="Name"/>
@@ -1452,6 +1850,44 @@
             <match name="CardType" value="DarkWeapon" />
             <match name="FirstBox" value="CHARACTER WEAPON" />
         </matches>
+        <overlayblocks>
+            <conditional>
+                <switch property="Expansion">
+                    <case value="A New Hope">
+                        <link block="Dark_ANH_icon"/>
+                    </case>
+                </switch>
+            </conditional>
+        </overlayblocks>
+        <textblocks>
+            <link block="Dark_Card_name">
+                <property name="Name"/>
+            </link>
+            <link block="Dark_Destiny">
+                <property name="Destiny" />
+            </link>
+            <link block="Dark_Weapon_Lore">
+                <property name="Lore" />
+            </link>
+            <link block="Dark_Weapon_Game_text">
+                <property name="GameText" />
+            </link>
+        </textblocks>
+    </template>
+    <template src="proxy/DarkWeaponDeathStar.jpg" default="False">
+        <matches>
+            <match name="CardType" value="DarkWeapon" />
+            <match name="FirstBox" value="DEATH STAR WEAPON" />
+        </matches>
+        <overlayblocks>
+            <conditional>
+                <switch property="Expansion">
+                    <case value="A New Hope">
+                        <link block="Dark_ANH_icon"/>
+                    </case>
+                </switch>
+            </conditional>
+        </overlayblocks>
         <textblocks>
             <link block="Dark_Card_name">
                 <property name="Name"/>
@@ -1472,6 +1908,15 @@
             <match name="CardType" value="DarkWeapon" />
             <match name="FirstBox" value="STARSHIP WEAPON" />
         </matches>
+        <overlayblocks>
+            <conditional>
+                <switch property="Expansion">
+                    <case value="A New Hope">
+                        <link block="Dark_ANH_icon"/>
+                    </case>
+                </switch>
+            </conditional>
+        </overlayblocks>
         <textblocks>
             <link block="Dark_Card_name">
                 <property name="Name"/>
