@@ -3391,7 +3391,7 @@
         <property name="LandspeedHyperspeed" value=""/>
         <property name="FirstBox" value=""/>
         <property name="SecondBox" value=""/>
-        <property name="GameText" value="Deploy on Death Star: Trench.\nDuring your move phase, you may make an Attack Run as follows:\nEnter Trench: Move up to 3 of your starfighters into trench (for free). Dark Side may immediately follow with up to 3 TIEs (for free).\nProvide Cover: Identify your lead starfighter (Proton Torpedoes* required) and wingmen (if any). Turbolaser Batteries and TIEs with weapons may now target your starfighters (wingmen first, then lead if no wingmen remaining). Hit starfighters are immediately lost.\nIt's Away!: Draw two destiny.\nPull Up!: All starfighters now move to Death Star system (for free). If (total destiny + X + Y - Z) > 15, Death Star is 'blown away.'\nX = ability of lead pilot or 3 if Targeting Computer is present.\nY = total sites at largest Rebel Base (Yavin 4 or Hoth).\nZ = highest ability of TIE pilots in trench.\n*Your Proton Torpedoes are immune to Overload."/>
+        <property name="GameText" value="Deploy on Death Star: Trench. During your move phase, you may make an Attack Run as follows: Enter Trench: Move up to 3 of your starfighters into trench (for free). Dark Side may immediately follow with up to 3 TIEs (for free). Provide Cover: Identify your lead starfighter (Proton Torpedoes* required) and wingmen (if any). Turbolaser Batteries and TIEs with weapons may now target your starfighters (wingmen first, then lead if no wingmen remaining). Hit starfighters are immediately lost. It's Away!: Draw two destiny. Pull Up!: All starfighters now move to Death Star system (for free). If (total destiny + X + Y - Z) &gt;15, Death Star is 'blown away.' X = ability of lead pilot or 3 if Targeting Computer is present. Y = total sites at largest Rebel Base (Yavin 4 or Hoth). Z = highest ability of TIE pilots in trench. *Your Proton Torpedoes are immune to Overload."/>
         <property name="Deployment" value=""/>
         <property name="Attrition" value=""/>
         <property name="PilotDark" value=""/>
@@ -4484,10 +4484,10 @@
     <card id="49c908e7-c3e7-4b44-ae04-d9d778354896" name="I'm Here To Rescue You">
         <property name="Side" value="Light"/>
         <property name="Expansion" value="A New Hope"/>
-        <property name="CardType" value=""/>
+        <property name="CardType" value="LightInterrupt"/>
         <property name="Rarity" value="U1"/>
         <property name="Unique" value=""/>
-        <property name="Destiny" value=""/>
+        <property name="Destiny" value="6"/>
         <property name="DarkLocationForce" value=""/>
         <property name="LightLocationForce" value=""/>
         <property name="DarkLocationText" value=""/>
@@ -5383,7 +5383,7 @@
         <property name="IconCreature" value=""/>
         <property name="IconVehicle" value=""/>
         <property name="IconStarship" value=""/>
-        <property name="Lore" value=""/>
+        <property name="Lore" value="Del Goren, typical expert in communications and scanner jamming, served aboard the Rebel privateer corvette Spiral before joining the Alliance High Command."/>
         <property name="Power" value="1"/>
         <property name="Ability" value="1"/>
         <property name="Maneuver" value=""/>
@@ -5391,7 +5391,7 @@
         <property name="LandspeedHyperspeed" value=""/>
         <property name="FirstBox" value=""/>
         <property name="SecondBox" value=""/>
-        <property name="GameText" value=""/>
+        <property name="GameText" value="When at one of your war rooms: Cumulatively adds 1 to total of Attack Run. OR During your control phase, may send this tech to your Used Pile; search your Reserve Deck and take Death Star: Trench into hand. Shuffle, cut and replace."/>
         <property name="Deployment" value="2"/>
         <property name="Attrition" value="3"/>
         <property name="PilotDark" value=""/>
@@ -6223,7 +6223,7 @@
         <property name="IconCreature" value=""/>
         <property name="IconVehicle" value=""/>
         <property name="IconStarship" value=""/>
-        <property name="Lore" value=""/>
+        <property name="Lore" value="Moisture farmers like Owen Lars must be on the lookout for repeated (and blatant) ploys by Jawas"/>
         <property name="Power" value=""/>
         <property name="Ability" value=""/>
         <property name="Maneuver" value=""/>
@@ -6231,7 +6231,7 @@
         <property name="LandspeedHyperspeed" value=""/>
         <property name="FirstBox" value="IMMEDIATE EFFECT"/>
         <property name="SecondBox" value=""/>
-        <property name="GameText" value=""/>
+        <property name="GameText" value="Use 3 Force to deploy on table and stack one just-played Interrupt here. To play any new Interrupt of the same name, player must first stack it here and use +1 Force for each Interrupt in stack, even if Interrupt is normally free. (Immune from Control.)"/>
         <property name="Deployment" value=""/>
         <property name="Attrition" value=""/>
         <property name="PilotDark" value=""/>

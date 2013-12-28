@@ -372,6 +372,10 @@
             <location x="32" y="448" />
             <text color="#FFFFFF" size="15" font="fonts/FRADM.TTF" />
         </block>
+        <block type="text" id="Light_AlienRebel_Card_name">
+            <location x="110" y="29" />
+            <text color="#000000" size="21" font="fonts/54251___.TTF" />
+        </block>
         <block type="text" id="Light_Device_Lore">
             <location x="67" y="82"/>
             <text color="#000000" size="14" font="fonts/arialn.ttf"/>
@@ -421,6 +425,11 @@
             <location x="68" y="313"/>
             <text color="#000000" size="16" font="fonts/FRADMCN.TTF"/>
             <wordwrap height="150" width="230" />
+        </block>
+        <block type="text" id="Light_Event_Epic_Game_text">
+            <location x="60" y="132" />
+            <text color="#000000" size="14" font="fonts/FRADMCN.TTF"/>
+            <wordwrap height="340" width="250"/>
         </block>
         <block type="text" id="Light_Interrupt_Lore">
             <location x="68" y="82"/>
@@ -695,6 +704,9 @@
         <block type="overlay" id="Dark-Death-Star-Mobile1" src="proxy/Mobile.png">
             <location x="270" y="338" />
         </block>
+        <block type="overlay" id="Dark_Death_Star_ANH_icon" src="proxy/DarkANHicon.png">
+            <location x="332" y="338"/>
+        </block>
 <!-- -->
 <!-- DARK SYSTEM ICONS -->
 <!-- -->
@@ -716,6 +728,9 @@
         <block type="overlay" id="Dark_System_Light_Force3" src="proxy/Force-Light3.png">
             <location x="268" y="77" />
         </block>
+        <block type="overlay" id="Dark_System_ANH_icon" src="proxy/DarkANHicon.png">
+            <location x="340" y="418"/>
+        </block>
 <!-- -->
 <!-- LIGHT NON-LOCATION ICONS -->
 <!-- -->
@@ -730,6 +745,9 @@
         </block>
         <block type="overlay" id="Light_Ship_Scomp_Link" src="proxy/Scomp-Link.png">
             <location x="30" y="312"/>
+        </block>
+        <block type="overlay" id="Light_ANH_icon" src="proxy/LightANHicon.png">
+            <location x="319" y="75"/>
         </block>
 <!-- -->
 <!-- LIGHT LOCATIONS -->
@@ -783,7 +801,10 @@
         </block>
         <block type="overlay" id="Light-Site-Interior2" src="proxy/Interior.png">
             <location x="87" y="159" />
-        </block>        
+        </block>
+        <block type="overlay" id="Light_Site_ANH_icon" src="proxy/LightANHicon.png">
+            <location x="19" y="290" />
+        </block>
 <!-- -->
 <!-- LIGHT SYSTEM ICONS -->
 <!-- -->
@@ -804,6 +825,9 @@
         </block>
         <block type="overlay" id="Light_System_Dark_Force3" src="proxy/Force-Dark3.png">
             <location x="255" y="74" />
+        </block>
+        <block type="overlay" id="Light_System_ANH_icon" src="proxy/LightANHicon.png">
+            <location x="340" y="418"/>
         </block>
     </blocks>
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
@@ -1372,6 +1396,13 @@
                     </case>
                 </switch>
             </conditional>
+            <conditional>
+                <switch property="Expansion">
+                    <case value="A New Hope">
+                        <link block="Dark_System_ANH_icon"/>
+                    </case>
+                </switch>
+            </conditional>
         </overlayblocks>
         <textblocks>
             <link block="Dark_System_Dark_name">
@@ -1416,6 +1447,13 @@
                 <switch property="IconMobile" >
                     <case value="1">
                         <link block="Dark-Death-Star-Mobile1" />
+                    </case>
+                </switch>
+            </conditional>
+            <conditional>
+                <switch property="Expansion">
+                    <case value="A New Hope">
+                        <link block="Dark_Death_Star_ANH_icon"/>
                     </case>
                 </switch>
             </conditional>
@@ -1954,9 +1992,73 @@
                     </case>
                 </switch>
             </conditional>
+            <conditional>
+                <switch property="Expansion">
+                    <case value="A New Hope">
+                        <link block="Light_ANH_icon"/>
+                    </case>
+                </switch>
+            </conditional>
         </overlayblocks>
         <textblocks>
             <link block="Light_Card_name">
+                <property name="Name"/>
+            </link>
+            <link block="Light_Destiny">
+                <property name="Destiny" />
+            </link>
+            <link block="Light_Alien_Lore">
+                <property name="Lore" />
+            </link>
+            <link block="Light_Alien_Power">
+                <property name="Power" />
+            </link>
+            <link block="Light_Alien_Ability">
+                <property name="Ability" />
+            </link>
+            <link block="Light_Alien_First_Box">
+                <property name="FirstBox"/>
+            </link>
+            <link block="Light_Alien_Game_text">
+                <property name="GameText" />
+            </link>
+            <link block="Light_Alien_Deploy_Cost" >
+                <property name="Deployment" />
+            </link>
+            <link block="Light_Alien_Attrition">
+                <property name="Attrition" />
+            </link>
+        </textblocks>
+    </template>
+        <template src="proxy/LightAlienRebel.jpg" default="False">
+        <matches>
+            <match name="CardType" value="LightAlienRebel" />
+        </matches>
+        <overlayblocks>
+            <conditional>
+                <switch property="PilotLight">
+                    <case value="1">
+                        <link block="Light_Pilot" />
+                    </case>
+                </switch>
+            </conditional>
+            <conditional>
+                <switch property="Warrior">
+                    <case value="1">
+                        <link block="Light_Warrior" />
+                    </case>
+                </switch>
+            </conditional>
+            <conditional>
+                <switch property="Expansion">
+                    <case value="A New Hope">
+                        <link block="Light_ANH_icon"/>
+                    </case>
+                </switch>
+            </conditional>
+        </overlayblocks>
+        <textblocks>
+            <link block="Light_AlienRebel_Card_name">
                 <property name="Name"/>
             </link>
             <link block="Light_Destiny">
@@ -1989,6 +2091,15 @@
         <matches>
             <match name="CardType" value="LightDevice" />
         </matches>
+        <overlayblocks>
+            <conditional>
+                <switch property="Expansion">
+                    <case value="A New Hope">
+                        <link block="Light_ANH_icon"/>
+                    </case>
+                </switch>
+            </conditional>
+        </overlayblocks>
         <textblocks>
             <link block="Light_Card_name">
                 <property name="Name"/>
@@ -2020,6 +2131,13 @@
                 <switch property="Warrior">
                     <case value="1">
                         <link block="Light_Warrior" />
+                    </case>
+                </switch>
+            </conditional>
+            <conditional>
+                <switch property="Expansion">
+                    <case value="A New Hope">
+                        <link block="Light_ANH_icon"/>
                     </case>
                 </switch>
             </conditional>
@@ -2059,6 +2177,15 @@
             <match name="CardType" value="LightEffect" />
             <match name="FirstBox" value="EFFECT" />
         </matches>
+        <overlayblocks>
+            <conditional>
+                <switch property="Expansion">
+                    <case value="A New Hope">
+                        <link block="Light_ANH_icon"/>
+                    </case>
+                </switch>
+            </conditional>
+        </overlayblocks>
         <textblocks>
             <link block="Light_Card_name">
                 <property name="Name"/>
@@ -2079,6 +2206,15 @@
             <match name="CardType" value="LightEffect" />
             <match name="FirstBox" value="UTINNI EFFECT" />
         </matches>
+        <overlayblocks>
+            <conditional>
+                <switch property="Expansion">
+                    <case value="A New Hope">
+                        <link block="Light_ANH_icon"/>
+                    </case>
+                </switch>
+            </conditional>
+        </overlayblocks>
         <textblocks>
             <link block="Light_Card_name">
                 <property name="Name"/>
@@ -2094,11 +2230,74 @@
             </link>
         </textblocks>
     </template>
+    <template src="proxy/LightEffectImmediate.jpg" default="False">
+        <matches>
+            <match name="CardType" value="LightEffect"/>
+            <match name="FirstBox" value="IMMEDIATE EFFECT"/>
+        </matches>
+        <overlayblocks>
+            <conditional>
+                <switch property="Expansion">
+                    <case value="A New Hope">
+                        <link block="Light_ANH_icon"/>
+                    </case>
+                </switch>
+            </conditional>
+        </overlayblocks>
+        <textblocks>
+            <link block="Light_Card_name">
+                <property name="Name"/>
+            </link>
+            <link block="Light_Destiny">
+                <property name="Destiny" />
+            </link>
+            <link block="Light_Effect_Lore">
+                <property name="Lore" />
+            </link>
+            <link block="Light_Effect_Game_text">
+                <property name="GameText" />
+            </link>            
+        </textblocks>
+    </template>
+    <template src="proxy/LightEventEpic.jpg" default="False">
+        <matches>
+            <match name="CardType" value="LightEventEpic" />
+        </matches>
+        <overlayblocks>
+            <conditional>
+                <switch property="Expansion">
+                    <case value="A New Hope">
+                        <link block="Light_ANH_icon"/>
+                    </case>
+                </switch>
+            </conditional>
+        </overlayblocks>
+        <textblocks>
+            <link block="Light_Card_name">
+                <property name="Name"/>
+            </link>
+            <link block="Light_Destiny">
+                <property name="Destiny"/>
+            </link>
+            <link block="Light_Event_Epic_Game_text">
+                <property name="GameText"/>
+            </link>
+        </textblocks>
+    </template>
     <template src="proxy/LightInterruptLost.jpg" default="False">
         <matches>
             <match name="CardType" value="LightInterrupt" />
             <match name="FirstBox" value="LOST INTERRUPT" />
         </matches>
+        <overlayblocks>
+            <conditional>
+                <switch property="Expansion">
+                    <case value="A New Hope">
+                        <link block="Light_ANH_icon"/>
+                    </case>
+                </switch>
+            </conditional>
+        </overlayblocks>
         <textblocks>
             <link block="Light_Card_name">
                 <property name="Name"/>
@@ -2119,6 +2318,44 @@
             <match name="CardType" value="LightInterrupt" />
             <match name="FirstBox" value="USED INTERRUPT" />
         </matches>
+        <overlayblocks>
+            <conditional>
+                <switch property="Expansion">
+                    <case value="A New Hope">
+                        <link block="Light_ANH_icon"/>
+                    </case>
+                </switch>
+            </conditional>
+        </overlayblocks>
+        <textblocks>
+            <link block="Light_Card_name">
+                <property name="Name"/>
+            </link>
+            <link block="Light_Destiny">
+                <property name="Destiny" />
+            </link>
+            <link block="Light_Interrupt_Lore">
+                <property name="Lore"/>
+            </link>
+            <link block="Light_Interrupt_Game_text">
+                <property name="GameText"/>
+            </link>
+        </textblocks>
+    </template>
+    <template src="proxy/LightInterruptUsedorLost.jpg" default="False">
+        <matches>
+            <match name="CardType" value="LightInterrupt" />
+            <match name="FirstBox" value="USED OR LOST INTERRUPT" />
+        </matches>
+        <overlayblocks>
+            <conditional>
+                <switch property="Expansion">
+                    <case value="A New Hope">
+                        <link block="Light_ANH_icon"/>
+                    </case>
+                </switch>
+            </conditional>
+        </overlayblocks>
         <textblocks>
             <link block="Light_Card_name">
                 <property name="Name"/>
@@ -2205,6 +2442,13 @@
                     </case>
                 </switch>
             </conditional>
+            <conditional>
+                <switch property="Expansion">
+                    <case value="A New Hope">
+                        <link block="Light_Site_ANH_icon"/>
+                    </case>
+                </switch>
+            </conditional>
         </overlayblocks>
         <textblocks>
             <link block="Light_Site_Dark_name">
@@ -2252,6 +2496,13 @@
                     </case>
                 </switch>
             </conditional>
+            <conditional>
+                <switch property="Expansion">
+                    <case value="A New Hope">
+                        <link block="Light_System_ANH_icon"/>
+                    </case>
+                </switch>
+            </conditional>
         </overlayblocks>
         <textblocks>
             <link block="Light_System_Light_name">
@@ -2290,6 +2541,13 @@
                 <switch property="Warrior">
                     <case value="1">
                         <link block="Light_Warrior" />
+                    </case>
+                </switch>
+            </conditional>
+            <conditional>
+                <switch property="Expansion">
+                    <case value="A New Hope">
+                        <link block="Light_ANH_icon"/>
                     </case>
                 </switch>
             </conditional>
@@ -2348,6 +2606,13 @@
                 <switch property="ScompLink">
                     <case value="1">
                         <link block="Light_Ship_Scomp_Link" />
+                    </case>
+                </switch>
+            </conditional>
+            <conditional>
+                <switch property="Expansion">
+                    <case value="A New Hope">
+                        <link block="Light_ANH_icon"/>
                     </case>
                 </switch>
             </conditional>
@@ -2413,6 +2678,13 @@
                     </case>
                 </switch>
             </conditional>
+            <conditional>
+                <switch property="Expansion">
+                    <case value="A New Hope">
+                        <link block="Light_ANH_icon"/>
+                    </case>
+                </switch>
+            </conditional>
         </overlayblocks>
         <textblocks>
             <link block="Light_Card_name">
@@ -2474,6 +2746,13 @@
                     </case>
                 </switch>
             </conditional>
+            <conditional>
+                <switch property="Expansion">
+                    <case value="A New Hope">
+                        <link block="Light_ANH_icon"/>
+                    </case>
+                </switch>
+            </conditional>
         </overlayblocks>
         <textblocks>
             <link block="Light_Card_name">
@@ -2508,11 +2787,64 @@
             </link>
         </textblocks>
     </template>
+    <template src="proxy/LightVehicleCreature.jpg" default="False">
+        <matches>
+            <match name="CardType" value="LightVehicle" />
+            <match name="FirstBox" value="CREATURE VEHICLE" />
+        </matches>
+        <overlayblocks>
+            <conditional>
+                <switch property="Expansion">
+                    <case value="A New Hope">
+                        <link block="Light_ANH_icon"/>
+                    </case>
+                </switch>
+            </conditional>
+        </overlayblocks>
+        <textblocks>
+            <link block="Light_Card_name">
+                <property name="Name"/>
+            </link>
+            <link block="Light_Destiny">
+                <property name="Destiny" />
+            </link>
+            <link block="Light_Vehicle_Lore">
+                <property name="Lore" />
+            </link>
+            <link block="Light_Vehicle_Power">
+                <property name="Power" />
+            </link>
+            <link block="Light_Vehicle_Maneuver">
+                <property name="Maneuver" />
+            </link>
+            <link block="Light_Vehicle_Landspeed">
+                <property name="LandspeedHyperspeed"/>
+            </link>
+            <link block="Light_Vehicle_Game_text">
+                <property name="GameText" />
+            </link>
+            <link block="Light_Vehicle_Deploy_Cost">
+                <property name="Deployment"/>
+            </link>
+            <link block="Light_Vehicle_Attrition">
+                <property name="Attrition"/>
+            </link>
+        </textblocks>
+    </template>
     <template src="proxy/LightVehicleShuttle.jpg" default="False">
         <matches>
             <match name="CardType" value="LightVehicle" />
             <match name="FirstBox" value="SHUTTLE VEHICLE" />
         </matches>
+        <overlayblocks>
+            <conditional>
+                <switch property="Expansion">
+                    <case value="A New Hope">
+                        <link block="Light_ANH_icon"/>
+                    </case>
+                </switch>
+            </conditional>
+        </overlayblocks>
         <textblocks>
             <link block="Light_Card_name">
                 <property name="Name"/>
@@ -2549,6 +2881,15 @@
             <match name="FirstBox" value="TRANSPORT VEHICLE" />
             <match name="Maneuver" value=""/>
         </matches>
+        <overlayblocks>
+            <conditional>
+                <switch property="Expansion">
+                    <case value="A New Hope">
+                        <link block="Light_ANH_icon"/>
+                    </case>
+                </switch>
+            </conditional>
+        </overlayblocks>
         <textblocks>
             <link block="Light_Card_name">
                 <property name="Name"/>
@@ -2585,6 +2926,15 @@
             <match name="FirstBox" value="TRANSPORT VEHICLE" />
             <match name="Armor" value=""/>
         </matches>
+        <overlayblocks>
+            <conditional>
+                <switch property="Expansion">
+                    <case value="A New Hope">
+                        <link block="Light_ANH_icon"/>
+                    </case>
+                </switch>
+            </conditional>
+        </overlayblocks>
         <textblocks>
             <link block="Light_Card_name">
                 <property name="Name"/>
@@ -2620,6 +2970,15 @@
             <match name="CardType" value="LightWeapon"/>
             <match name="FirstBox" value="AUTOMATED WEAPON"/>
         </matches>
+        <overlayblocks>
+            <conditional>
+                <switch property="Expansion">
+                    <case value="A New Hope">
+                        <link block="Light_ANH_icon"/>
+                    </case>
+                </switch>
+            </conditional>
+        </overlayblocks>
         <textblocks>
             <link block="Light_Card_name">
                 <property name="Name"/>
@@ -2640,6 +2999,15 @@
             <match name="CardType" value="LightWeapon"/>
             <match name="FirstBox" value="CHARACTER WEAPON"/>
         </matches>
+        <overlayblocks>
+            <conditional>
+                <switch property="Expansion">
+                    <case value="A New Hope">
+                        <link block="Light_ANH_icon"/>
+                    </case>
+                </switch>
+            </conditional>
+        </overlayblocks>
         <textblocks>
             <link block="Light_Card_name">
                 <property name="Name"/>
@@ -2660,6 +3028,15 @@
             <match name="CardType" value="LightWeapon"/>
             <match name="FirstBox" value="STARSHIP WEAPON"/>
         </matches>
+        <overlayblocks>
+            <conditional>
+                <switch property="Expansion">
+                    <case value="A New Hope">
+                        <link block="Light_ANH_icon"/>
+                    </case>
+                </switch>
+            </conditional>
+        </overlayblocks>
         <textblocks>
             <link block="Light_Card_name">
                 <property name="Name"/>
@@ -2679,6 +3056,15 @@
         <matches>
             <match name="fakeProperty" value="value" />
         </matches>
+        <overlayblocks>
+            <conditional>
+                <switch property="Expansion">
+                    <case value="A New Hope">
+                        <link block="Light_ANH_icon"/>
+                    </case>
+                </switch>
+            </conditional>
+        </overlayblocks>
         <textblocks>
             <link block="Dark_Card_name">
                 <property name="Name" />
