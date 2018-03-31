@@ -3,15 +3,16 @@
         xmlns:xsd="http://www.w3.org/2001/XMLSchema"
         name="Star Wars CCG"
         id="8cf86807-9807-4d88-b8c6-81644c45b65e" 
-        octgnVersion="3.1.101.233"
-        version="3.1.3.87"
-        markersize="16"
+        octgnVersion="3.2.75.0"
+        version="3.2.1.2"
+		scriptVersion="3.1.0.2"
+        markersize="16"	
         tags="SW CCG"
         description="Star Wars Customizable Card Game by Decipher"
         setsurl="http://octgn.gamersjudgement.com/wordpress/starwarsccg/"
         gameurl="http://octgn.gamersjudgement.com/wordpress/starwarsccg/"
         authors="Bullgator"
-        iconurl="http://i93.photobucket.com/albums/l68/Bullgator/SWCCG_zps5ce134c0.png">
+        iconurl="https://i.imgur.com/SzZsIYj.png">
     <scripts>
       <script src="scripts/actions.py" />
     </scripts>
